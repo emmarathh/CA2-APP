@@ -1,0 +1,4183 @@
+Date,Value,Meat Type,Country,Value Category
+1964-01-01,49.9,Bovine meat,Ireland,0-50
+1964-01-01,49.4,Adult cattle,Ireland,0-50
+1964-01-01,0.5,Calf and young cattle,Ireland,0-50
+1964-02-01,37.3,Adult cattle,Ireland,0-50
+1964-02-01,0.5,Calf and young cattle,Ireland,0-50
+1964-02-01,37.8,Bovine meat,Ireland,0-50
+1964-03-01,0.5,Calf and young cattle,Ireland,0-50
+1964-03-01,36.9,Bovine meat,Ireland,0-50
+1964-03-01,36.4,Adult cattle,Ireland,0-50
+1964-04-01,0.5,Calf and young cattle,Ireland,0-50
+1964-04-01,36.3,Adult cattle,Ireland,0-50
+1964-04-01,36.8,Bovine meat,Ireland,0-50
+1964-05-01,0.5,Calf and young cattle,Ireland,0-50
+1964-05-01,40.3,Adult cattle,Ireland,0-50
+1964-05-01,40.8,Bovine meat,Ireland,0-50
+1964-06-01,29.6,Bovine meat,Ireland,0-50
+1964-06-01,29.1,Adult cattle,Ireland,0-50
+1964-06-01,0.5,Calf and young cattle,Ireland,0-50
+1964-07-01,0.5,Calf and young cattle,Ireland,0-50
+1964-07-01,39.8,Bovine meat,Ireland,0-50
+1964-07-01,39.3,Adult cattle,Ireland,0-50
+1964-08-01,35.0,Bovine meat,Ireland,0-50
+1964-08-01,0.5,Calf and young cattle,Ireland,0-50
+1964-08-01,34.5,Adult cattle,Ireland,0-50
+1964-09-01,40.7,Adult cattle,Ireland,0-50
+1964-09-01,41.2,Bovine meat,Ireland,0-50
+1964-09-01,0.5,Calf and young cattle,Ireland,0-50
+1964-10-01,49.0,Bovine meat,Ireland,0-50
+1964-10-01,48.5,Adult cattle,Ireland,0-50
+1964-10-01,0.5,Calf and young cattle,Ireland,0-50
+1964-11-01,48.5,Adult cattle,Ireland,0-50
+1964-11-01,49.0,Bovine meat,Ireland,0-50
+1964-11-01,0.5,Calf and young cattle,Ireland,0-50
+1964-12-01,42.2,Bovine meat,Ireland,0-50
+1964-12-01,41.7,Adult cattle,Ireland,0-50
+1964-12-01,0.5,Calf and young cattle,Ireland,0-50
+1965-01-01,50.9,Bovine meat,Ireland,50-100
+1965-01-01,0.5,Calf and young cattle,Ireland,0-50
+1965-01-01,50.4,Adult cattle,Ireland,50-100
+1965-02-01,0.5,Calf and young cattle,Ireland,0-50
+1965-02-01,37.3,Adult cattle,Ireland,0-50
+1965-02-01,37.8,Bovine meat,Ireland,0-50
+1965-03-01,36.9,Bovine meat,Ireland,0-50
+1965-03-01,0.5,Calf and young cattle,Ireland,0-50
+1965-03-01,36.4,Adult cattle,Ireland,0-50
+1965-04-01,0.5,Calf and young cattle,Ireland,0-50
+1965-04-01,37.8,Bovine meat,Ireland,0-50
+1965-04-01,37.3,Adult cattle,Ireland,0-50
+1965-05-01,40.3,Adult cattle,Ireland,0-50
+1965-05-01,40.8,Bovine meat,Ireland,0-50
+1965-05-01,0.5,Calf and young cattle,Ireland,0-50
+1965-06-01,0.5,Calf and young cattle,Ireland,0-50
+1965-06-01,29.6,Bovine meat,Ireland,0-50
+1965-06-01,29.1,Adult cattle,Ireland,0-50
+1965-07-01,0.5,Calf and young cattle,Ireland,0-50
+1965-07-01,39.3,Adult cattle,Ireland,0-50
+1965-07-01,39.8,Bovine meat,Ireland,0-50
+1965-08-01,35.0,Bovine meat,Ireland,0-50
+1965-08-01,0.5,Calf and young cattle,Ireland,0-50
+1965-08-01,34.5,Adult cattle,Ireland,0-50
+1965-09-01,42.2,Bovine meat,Ireland,0-50
+1965-09-01,41.7,Adult cattle,Ireland,0-50
+1965-09-01,0.5,Calf and young cattle,Ireland,0-50
+1965-10-01,49.0,Bovine meat,Ireland,0-50
+1965-10-01,0.5,Calf and young cattle,Ireland,0-50
+1965-10-01,48.5,Adult cattle,Ireland,0-50
+1965-11-01,0.5,Calf and young cattle,Ireland,0-50
+1965-11-01,48.5,Adult cattle,Ireland,0-50
+1965-11-01,49.0,Bovine meat,Ireland,0-50
+1965-12-01,41.7,Adult cattle,Ireland,0-50
+1965-12-01,42.2,Bovine meat,Ireland,0-50
+1965-12-01,0.5,Calf and young cattle,Ireland,0-50
+1966-01-01,64.05,Bovine meat,Ireland,50-100
+1966-01-01,63.3,Adult cattle,Ireland,50-100
+1966-01-01,0.75,Calf and young cattle,Ireland,0-50
+1966-02-01,0.75,Calf and young cattle,Ireland,0-50
+1966-02-01,47.65,Bovine meat,Ireland,0-50
+1966-02-01,46.9,Adult cattle,Ireland,0-50
+1966-03-01,0.75,Calf and young cattle,Ireland,0-50
+1966-03-01,45.7,Adult cattle,Ireland,0-50
+1966-03-01,46.45,Bovine meat,Ireland,0-50
+1966-04-01,47.65,Bovine meat,Ireland,0-50
+1966-04-01,46.9,Adult cattle,Ireland,0-50
+1966-04-01,0.75,Calf and young cattle,Ireland,0-50
+1966-05-01,0.75,Calf and young cattle,Ireland,0-50
+1966-05-01,51.35,Bovine meat,Ireland,50-100
+1966-05-01,50.6,Adult cattle,Ireland,50-100
+1966-06-01,37.25,Bovine meat,Ireland,0-50
+1966-06-01,36.5,Adult cattle,Ireland,0-50
+1966-06-01,0.75,Calf and young cattle,Ireland,0-50
+1966-07-01,49.3,Adult cattle,Ireland,0-50
+1966-07-01,50.05,Bovine meat,Ireland,50-100
+1966-07-01,0.75,Calf and young cattle,Ireland,0-50
+1966-08-01,0.75,Calf and young cattle,Ireland,0-50
+1966-08-01,43.2,Adult cattle,Ireland,0-50
+1966-08-01,43.95,Bovine meat,Ireland,0-50
+1966-09-01,52.4,Adult cattle,Ireland,50-100
+1966-09-01,53.15,Bovine meat,Ireland,50-100
+1966-09-01,0.75,Calf and young cattle,Ireland,0-50
+1966-10-01,0.75,Calf and young cattle,Ireland,0-50
+1966-10-01,60.9,Adult cattle,Ireland,50-100
+1966-10-01,61.65,Bovine meat,Ireland,50-100
+1966-11-01,61.65,Bovine meat,Ireland,50-100
+1966-11-01,0.75,Calf and young cattle,Ireland,0-50
+1966-11-01,60.9,Adult cattle,Ireland,50-100
+1966-12-01,52.4,Adult cattle,Ireland,50-100
+1966-12-01,0.75,Calf and young cattle,Ireland,0-50
+1966-12-01,53.15,Bovine meat,Ireland,50-100
+1967-01-01,98.4,Adult cattle,Ireland,50-100
+1967-01-01,98.9,Bovine meat,Ireland,50-100
+1967-01-01,0.5,Calf and young cattle,Ireland,0-50
+1967-02-01,0.5,Calf and young cattle,Ireland,0-50
+1967-02-01,72.8,Adult cattle,Ireland,50-100
+1967-02-01,73.3,Bovine meat,Ireland,50-100
+1967-03-01,71.5,Bovine meat,Ireland,50-100
+1967-03-01,71.0,Adult cattle,Ireland,50-100
+1967-03-01,0.5,Calf and young cattle,Ireland,0-50
+1967-04-01,0.5,Calf and young cattle,Ireland,0-50
+1967-04-01,72.7,Adult cattle,Ireland,50-100
+1967-04-01,73.2,Bovine meat,Ireland,50-100
+1967-05-01,78.5,Adult cattle,Ireland,50-100
+1967-05-01,0.5,Calf and young cattle,Ireland,0-50
+1967-05-01,79.0,Bovine meat,Ireland,50-100
+1967-06-01,57.3,Bovine meat,Ireland,50-100
+1967-06-01,0.5,Calf and young cattle,Ireland,0-50
+1967-06-01,56.8,Adult cattle,Ireland,50-100
+1967-07-01,76.6,Adult cattle,Ireland,50-100
+1967-07-01,0.5,Calf and young cattle,Ireland,0-50
+1967-07-01,77.1,Bovine meat,Ireland,50-100
+1967-08-01,67.2,Adult cattle,Ireland,50-100
+1967-08-01,0.5,Calf and young cattle,Ireland,0-50
+1967-08-01,67.7,Bovine meat,Ireland,50-100
+1967-09-01,81.4,Adult cattle,Ireland,50-100
+1967-09-01,0.5,Calf and young cattle,Ireland,0-50
+1967-09-01,81.9,Bovine meat,Ireland,50-100
+1967-10-01,0.5,Calf and young cattle,Ireland,0-50
+1967-10-01,95.1,Bovine meat,Ireland,50-100
+1967-10-01,94.6,Adult cattle,Ireland,50-100
+1967-11-01,95.1,Bovine meat,Ireland,50-100
+1967-11-01,0.5,Calf and young cattle,Ireland,0-50
+1967-11-01,94.6,Adult cattle,Ireland,50-100
+1967-12-01,0.5,Calf and young cattle,Ireland,0-50
+1967-12-01,81.4,Adult cattle,Ireland,50-100
+1967-12-01,81.9,Bovine meat,Ireland,50-100
+1968-01-01,84.2,Adult cattle,Ireland,50-100
+1968-01-01,0.5,Calf and young cattle,Ireland,0-50
+1968-01-01,84.7,Bovine meat,Ireland,50-100
+1968-02-01,62.9,Bovine meat,Ireland,50-100
+1968-02-01,0.5,Calf and young cattle,Ireland,0-50
+1968-02-01,62.4,Adult cattle,Ireland,50-100
+1968-03-01,60.6,Bovine meat,Ireland,50-100
+1968-03-01,60.1,Adult cattle,Ireland,50-100
+1968-03-01,0.5,Calf and young cattle,Ireland,0-50
+1968-04-01,62.4,Adult cattle,Ireland,50-100
+1968-04-01,62.9,Bovine meat,Ireland,50-100
+1968-04-01,0.5,Calf and young cattle,Ireland,0-50
+1968-05-01,67.2,Adult cattle,Ireland,50-100
+1968-05-01,0.5,Calf and young cattle,Ireland,0-50
+1968-05-01,67.7,Bovine meat,Ireland,50-100
+1968-06-01,0.5,Calf and young cattle,Ireland,0-50
+1968-06-01,48.6,Adult cattle,Ireland,0-50
+1968-06-01,49.1,Bovine meat,Ireland,0-50
+1968-07-01,0.5,Calf and young cattle,Ireland,0-50
+1968-07-01,65.6,Adult cattle,Ireland,50-100
+1968-07-01,66.1,Bovine meat,Ireland,50-100
+1968-08-01,58.0,Bovine meat,Ireland,50-100
+1968-08-01,57.5,Adult cattle,Ireland,50-100
+1968-08-01,0.5,Calf and young cattle,Ireland,0-50
+1968-09-01,0.5,Calf and young cattle,Ireland,0-50
+1968-09-01,70.0,Adult cattle,Ireland,50-100
+1968-09-01,70.5,Bovine meat,Ireland,50-100
+1968-10-01,81.5,Bovine meat,Ireland,50-100
+1968-10-01,81.0,Adult cattle,Ireland,50-100
+1968-10-01,0.5,Calf and young cattle,Ireland,0-50
+1968-11-01,81.0,Adult cattle,Ireland,50-100
+1968-11-01,81.5,Bovine meat,Ireland,50-100
+1968-11-01,0.5,Calf and young cattle,Ireland,0-50
+1968-12-01,70.5,Bovine meat,Ireland,50-100
+1968-12-01,70.0,Adult cattle,Ireland,50-100
+1968-12-01,0.5,Calf and young cattle,Ireland,0-50
+1969-01-01,0.42,Calf and young cattle,Ireland,0-50
+1969-01-01,86.0,Adult cattle,Ireland,50-100
+1969-01-01,86.42,Bovine meat,Ireland,50-100
+1969-02-01,64.22,Bovine meat,Ireland,50-100
+1969-02-01,0.42,Calf and young cattle,Ireland,0-50
+1969-02-01,63.8,Adult cattle,Ireland,50-100
+1969-03-01,62.0,Adult cattle,Ireland,50-100
+1969-03-01,62.42,Bovine meat,Ireland,50-100
+1969-03-01,0.42,Calf and young cattle,Ireland,0-50
+1969-04-01,63.7,Adult cattle,Ireland,50-100
+1969-04-01,0.42,Calf and young cattle,Ireland,0-50
+1969-04-01,64.12,Bovine meat,Ireland,50-100
+1969-05-01,0.42,Calf and young cattle,Ireland,0-50
+1969-05-01,68.6,Adult cattle,Ireland,50-100
+1969-05-01,69.02,Bovine meat,Ireland,50-100
+1969-06-01,0.42,Calf and young cattle,Ireland,0-50
+1969-06-01,49.6,Adult cattle,Ireland,0-50
+1969-06-01,50.02,Bovine meat,Ireland,50-100
+1969-07-01,67.0,Adult cattle,Ireland,50-100
+1969-07-01,0.42,Calf and young cattle,Ireland,0-50
+1969-07-01,67.42,Bovine meat,Ireland,50-100
+1969-08-01,58.7,Adult cattle,Ireland,50-100
+1969-08-01,0.42,Calf and young cattle,Ireland,0-50
+1969-08-01,59.12,Bovine meat,Ireland,50-100
+1969-09-01,0.42,Calf and young cattle,Ireland,0-50
+1969-09-01,71.52,Bovine meat,Ireland,50-100
+1969-09-01,71.1,Adult cattle,Ireland,50-100
+1969-10-01,0.42,Calf and young cattle,Ireland,0-50
+1969-10-01,83.12,Bovine meat,Ireland,50-100
+1969-10-01,82.7,Adult cattle,Ireland,50-100
+1969-11-01,0.42,Calf and young cattle,Ireland,0-50
+1969-11-01,83.12,Bovine meat,Ireland,50-100
+1969-11-01,82.7,Adult cattle,Ireland,50-100
+1969-12-01,0.42,Calf and young cattle,Ireland,0-50
+1969-12-01,71.1,Adult cattle,Ireland,50-100
+1969-12-01,71.52,Bovine meat,Ireland,50-100
+1970-01-01,94.42,Bovine meat,Ireland,50-100
+1970-01-01,0.42,Calf and young cattle,Ireland,0-50
+1970-01-01,94.0,Adult cattle,Ireland,50-100
+1970-02-01,69.0,Adult cattle,Ireland,50-100
+1970-02-01,0.42,Calf and young cattle,Ireland,0-50
+1970-02-01,69.42,Bovine meat,Ireland,50-100
+1970-03-01,67.42,Bovine meat,Ireland,50-100
+1970-03-01,67.0,Adult cattle,Ireland,50-100
+1970-03-01,0.42,Calf and young cattle,Ireland,0-50
+1970-04-01,0.42,Calf and young cattle,Ireland,0-50
+1970-04-01,69.0,Adult cattle,Ireland,50-100
+1970-04-01,69.42,Bovine meat,Ireland,50-100
+1970-05-01,75.0,Adult cattle,Ireland,50-100
+1970-05-01,75.42,Bovine meat,Ireland,50-100
+1970-05-01,0.42,Calf and young cattle,Ireland,0-50
+1970-06-01,0.42,Calf and young cattle,Ireland,0-50
+1970-06-01,54.0,Adult cattle,Ireland,50-100
+1970-06-01,54.42,Bovine meat,Ireland,50-100
+1970-07-01,0.42,Calf and young cattle,Ireland,0-50
+1970-07-01,73.0,Adult cattle,Ireland,50-100
+1970-07-01,73.42,Bovine meat,Ireland,50-100
+1970-08-01,64.0,Adult cattle,Ireland,50-100
+1970-08-01,64.42,Bovine meat,Ireland,50-100
+1970-08-01,0.42,Calf and young cattle,Ireland,0-50
+1970-09-01,0.42,Calf and young cattle,Ireland,0-50
+1970-09-01,77.42,Bovine meat,Ireland,50-100
+1970-09-01,77.0,Adult cattle,Ireland,50-100
+1970-10-01,0.42,Calf and young cattle,Ireland,0-50
+1970-10-01,90.42,Bovine meat,Ireland,50-100
+1970-10-01,90.0,Adult cattle,Ireland,50-100
+1970-11-01,0.42,Calf and young cattle,Ireland,0-50
+1970-11-01,90.42,Bovine meat,Ireland,50-100
+1970-11-01,90.0,Adult cattle,Ireland,50-100
+1970-12-01,0.42,Calf and young cattle,Ireland,0-50
+1970-12-01,77.0,Adult cattle,Ireland,50-100
+1970-12-01,77.42,Bovine meat,Ireland,50-100
+1971-01-01,0.42,Calf and young cattle,Ireland,0-50
+1971-01-01,94.0,Adult cattle,Ireland,50-100
+1971-01-01,94.42,Bovine meat,Ireland,50-100
+1971-02-01,70.0,Adult cattle,Ireland,50-100
+1971-02-01,70.42,Bovine meat,Ireland,50-100
+1971-02-01,0.42,Calf and young cattle,Ireland,0-50
+1971-03-01,68.42,Bovine meat,Ireland,50-100
+1971-03-01,68.0,Adult cattle,Ireland,50-100
+1971-03-01,0.42,Calf and young cattle,Ireland,0-50
+1971-04-01,70.42,Bovine meat,Ireland,50-100
+1971-04-01,0.42,Calf and young cattle,Ireland,0-50
+1971-04-01,70.0,Adult cattle,Ireland,50-100
+1971-05-01,0.42,Calf and young cattle,Ireland,0-50
+1971-05-01,76.42,Bovine meat,Ireland,50-100
+1971-05-01,76.0,Adult cattle,Ireland,50-100
+1971-06-01,55.0,Adult cattle,Ireland,50-100
+1971-06-01,55.42,Bovine meat,Ireland,50-100
+1971-06-01,0.42,Calf and young cattle,Ireland,0-50
+1971-07-01,74.0,Adult cattle,Ireland,50-100
+1971-07-01,0.42,Calf and young cattle,Ireland,0-50
+1971-07-01,74.42,Bovine meat,Ireland,50-100
+1971-08-01,65.42,Bovine meat,Ireland,50-100
+1971-08-01,0.42,Calf and young cattle,Ireland,0-50
+1971-08-01,65.0,Adult cattle,Ireland,50-100
+1971-09-01,78.42,Bovine meat,Ireland,50-100
+1971-09-01,0.42,Calf and young cattle,Ireland,0-50
+1971-09-01,78.0,Adult cattle,Ireland,50-100
+1971-10-01,91.42,Bovine meat,Ireland,50-100
+1971-10-01,0.42,Calf and young cattle,Ireland,0-50
+1971-10-01,91.0,Adult cattle,Ireland,50-100
+1971-11-01,0.42,Calf and young cattle,Ireland,0-50
+1971-11-01,91.42,Bovine meat,Ireland,50-100
+1971-11-01,91.0,Adult cattle,Ireland,50-100
+1971-12-01,78.42,Bovine meat,Ireland,50-100
+1971-12-01,0.42,Calf and young cattle,Ireland,0-50
+1971-12-01,78.0,Adult cattle,Ireland,50-100
+1972-01-01,0.33,Calf and young cattle,Ireland,0-50
+1972-01-01,81.0,Adult cattle,Ireland,50-100
+1972-01-01,81.33,Bovine meat,Ireland,50-100
+1972-02-01,60.0,Adult cattle,Ireland,50-100
+1972-02-01,0.33,Calf and young cattle,Ireland,0-50
+1972-02-01,60.33,Bovine meat,Ireland,50-100
+1972-03-01,58.0,Adult cattle,Ireland,50-100
+1972-03-01,58.33,Bovine meat,Ireland,50-100
+1972-03-01,0.33,Calf and young cattle,Ireland,0-50
+1972-04-01,60.33,Bovine meat,Ireland,50-100
+1972-04-01,0.33,Calf and young cattle,Ireland,0-50
+1972-04-01,60.0,Adult cattle,Ireland,50-100
+1972-05-01,65.33,Bovine meat,Ireland,50-100
+1972-05-01,65.0,Adult cattle,Ireland,50-100
+1972-05-01,0.33,Calf and young cattle,Ireland,0-50
+1972-06-01,52.33,Bovine meat,Ireland,50-100
+1972-06-01,0.33,Calf and young cattle,Ireland,0-50
+1972-06-01,52.0,Adult cattle,Ireland,50-100
+1972-07-01,0.33,Calf and young cattle,Ireland,0-50
+1972-07-01,63.0,Adult cattle,Ireland,50-100
+1972-07-01,63.33,Bovine meat,Ireland,50-100
+1972-08-01,55.0,Adult cattle,Ireland,50-100
+1972-08-01,0.33,Calf and young cattle,Ireland,0-50
+1972-08-01,55.33,Bovine meat,Ireland,50-100
+1972-09-01,67.0,Adult cattle,Ireland,50-100
+1972-09-01,67.33,Bovine meat,Ireland,50-100
+1972-09-01,0.33,Calf and young cattle,Ireland,0-50
+1972-10-01,78.33,Bovine meat,Ireland,50-100
+1972-10-01,0.33,Calf and young cattle,Ireland,0-50
+1972-10-01,78.0,Adult cattle,Ireland,50-100
+1972-11-01,78.33,Bovine meat,Ireland,50-100
+1972-11-01,0.33,Calf and young cattle,Ireland,0-50
+1972-11-01,78.0,Adult cattle,Ireland,50-100
+1972-12-01,67.33,Bovine meat,Ireland,50-100
+1972-12-01,67.0,Adult cattle,Ireland,50-100
+1972-12-01,0.33,Calf and young cattle,Ireland,0-50
+1973-01-01,90.0,Adult cattle,Ireland,50-100
+1973-02-01,67.0,Adult cattle,Ireland,50-100
+1973-03-01,65.0,Bovine meat,Ireland,50-100
+1973-04-01,67.0,Adult cattle,Ireland,50-100
+1973-05-01,72.0,Bovine meat,Ireland,50-100
+1973-06-01,52.0,Bovine meat,Ireland,50-100
+1973-07-01,70.0,Adult cattle,Ireland,50-100
+1973-08-01,61.0,Bovine meat,Ireland,50-100
+1973-09-01,74.0,Bovine meat,Ireland,50-100
+1973-10-01,86.0,Adult cattle,Ireland,50-100
+1973-11-01,87.0,Bovine meat,Ireland,50-100
+1973-12-01,75.0,Adult cattle,Ireland,50-100
+1974-01-01,105.7,Adult cattle,Ireland,100-150
+1974-01-01,106.1,Bovine meat,Ireland,100-150
+1974-01-01,0.4,Calf and young cattle,Ireland,0-50
+1974-02-01,96.4,Bovine meat,Ireland,50-100
+1974-02-01,0.2,Calf and young cattle,Ireland,0-50
+1974-02-01,96.2,Adult cattle,Ireland,50-100
+1974-03-01,85.4,Bovine meat,Ireland,50-100
+1974-03-01,0.2,Calf and young cattle,Ireland,0-50
+1974-03-01,85.2,Adult cattle,Ireland,50-100
+1974-04-01,0.6,Calf and young cattle,Ireland,0-50
+1974-04-01,72.2,Bovine meat,Ireland,50-100
+1974-04-01,71.6,Adult cattle,Ireland,50-100
+1974-05-01,90.7,Bovine meat,Ireland,50-100
+1974-05-01,0.2,Calf and young cattle,Ireland,0-50
+1974-05-01,90.5,Adult cattle,Ireland,50-100
+1974-06-01,76.0,Bovine meat,Ireland,50-100
+1974-06-01,0.1,Calf and young cattle,Ireland,0-50
+1974-06-01,75.9,Adult cattle,Ireland,50-100
+1974-07-01,96.5,Bovine meat,Ireland,50-100
+1974-07-01,0.4,Calf and young cattle,Ireland,0-50
+1974-07-01,96.1,Adult cattle,Ireland,50-100
+1974-08-01,110.6,Adult cattle,Ireland,100-150
+1974-08-01,111.1,Bovine meat,Ireland,100-150
+1974-08-01,0.5,Calf and young cattle,Ireland,0-50
+1974-09-01,0.8,Calf and young cattle,Ireland,0-50
+1974-09-01,136.6,Bovine meat,Ireland,100-150
+1974-09-01,135.8,Adult cattle,Ireland,100-150
+1974-10-01,167.5,Adult cattle,Ireland,150-200
+1974-10-01,168.8,Bovine meat,Ireland,150-200
+1974-10-01,1.3,Calf and young cattle,Ireland,0-50
+1974-11-01,167.7,Adult cattle,Ireland,150-200
+1974-11-01,1.4,Calf and young cattle,Ireland,0-50
+1974-11-01,169.1,Bovine meat,Ireland,150-200
+1974-12-01,152.3,Adult cattle,Ireland,150-200
+1974-12-01,1.0,Calf and young cattle,Ireland,0-50
+1974-12-01,153.3,Bovine meat,Ireland,150-200
+1975-01-01,188.2,Bovine meat,Ireland,150-200
+1975-01-01,1.0,Calf and young cattle,Ireland,0-50
+1975-01-01,187.2,Adult cattle,Ireland,150-200
+1975-02-01,127.5,Bovine meat,Ireland,100-150
+1975-02-01,0.1,Calf and young cattle,Ireland,0-50
+1975-02-01,127.4,Adult cattle,Ireland,100-150
+1975-03-01,0.5,Calf and young cattle,Ireland,0-50
+1975-03-01,131.4,Bovine meat,Ireland,100-150
+1975-03-01,130.9,Adult cattle,Ireland,100-150
+1975-04-01,128.0,Bovine meat,Ireland,100-150
+1975-04-01,0.2,Calf and young cattle,Ireland,0-50
+1975-04-01,127.8,Adult cattle,Ireland,100-150
+1975-05-01,0.3,Calf and young cattle,Ireland,0-50
+1975-05-01,121.0,Bovine meat,Ireland,100-150
+1975-05-01,120.7,Adult cattle,Ireland,100-150
+1975-06-01,76.6,Bovine meat,Ireland,50-100
+1975-06-01,0.4,Calf and young cattle,Ireland,0-50
+1975-06-01,76.2,Adult cattle,Ireland,50-100
+1975-07-01,143.6,Adult cattle,Ireland,100-150
+1975-07-01,144.0,Bovine meat,Ireland,100-150
+1975-07-01,0.4,Calf and young cattle,Ireland,0-50
+1975-08-01,0.6,Calf and young cattle,Ireland,0-50
+1975-08-01,150.7,Bovine meat,Ireland,150-200
+1975-08-01,150.1,Adult cattle,Ireland,150-200
+1975-09-01,169.1,Adult cattle,Ireland,150-200
+1975-09-01,0.3,Calf and young cattle,Ireland,0-50
+1975-09-01,169.4,Bovine meat,Ireland,150-200
+1975-10-01,194.7,Adult cattle,Ireland,150-200
+1975-10-01,1.1,Calf and young cattle,Ireland,0-50
+1975-10-01,195.8,Bovine meat,Ireland,150-200
+1975-11-01,0.9,Calf and young cattle,Ireland,0-50
+1975-11-01,176.1,Bovine meat,Ireland,150-200
+1975-11-01,175.2,Adult cattle,Ireland,150-200
+1975-12-01,0.4,Calf and young cattle,Ireland,0-50
+1975-12-01,143.7,Bovine meat,Ireland,100-150
+1975-12-01,143.3,Adult cattle,Ireland,100-150
+1976-01-01,117.9,Adult cattle,Ireland,100-150
+1976-01-01,0.4,Calf and young cattle,Ireland,0-50
+1976-01-01,118.3,Bovine meat,Ireland,100-150
+1976-02-01,0.3,Calf and young cattle,Ireland,0-50
+1976-02-01,94.3,Adult cattle,Ireland,50-100
+1976-02-01,94.6,Bovine meat,Ireland,50-100
+1976-03-01,96.9,Bovine meat,Ireland,50-100
+1976-03-01,96.7,Adult cattle,Ireland,50-100
+1976-03-01,0.2,Calf and young cattle,Ireland,0-50
+1976-04-01,97.2,Bovine meat,Ireland,50-100
+1976-04-01,0.2,Calf and young cattle,Ireland,0-50
+1976-04-01,97.0,Adult cattle,Ireland,50-100
+1976-05-01,100.5,Adult cattle,Ireland,100-150
+1976-05-01,100.7,Bovine meat,Ireland,100-150
+1976-05-01,0.2,Calf and young cattle,Ireland,0-50
+1976-06-01,84.6,Adult cattle,Ireland,50-100
+1976-06-01,84.9,Bovine meat,Ireland,50-100
+1976-06-01,0.3,Calf and young cattle,Ireland,0-50
+1976-07-01,79.0,Adult cattle,Ireland,50-100
+1976-07-01,0.3,Calf and young cattle,Ireland,0-50
+1976-07-01,79.3,Bovine meat,Ireland,50-100
+1976-08-01,110.8,Adult cattle,Ireland,100-150
+1976-08-01,0.2,Calf and young cattle,Ireland,0-50
+1976-08-01,111.0,Bovine meat,Ireland,100-150
+1976-09-01,0.2,Calf and young cattle,Ireland,0-50
+1976-09-01,133.0,Adult cattle,Ireland,100-150
+1976-09-01,133.2,Bovine meat,Ireland,100-150
+1976-10-01,126.2,Adult cattle,Ireland,100-150
+1976-10-01,0.3,Calf and young cattle,Ireland,0-50
+1976-10-01,126.5,Bovine meat,Ireland,100-150
+1976-11-01,0.5,Calf and young cattle,Ireland,0-50
+1976-11-01,142.5,Bovine meat,Ireland,100-150
+1976-11-01,142.0,Adult cattle,Ireland,100-150
+1976-12-01,0.6,Calf and young cattle,Ireland,0-50
+1976-12-01,110.5,Bovine meat,Ireland,100-150
+1976-12-01,109.9,Adult cattle,Ireland,100-150
+1977-01-01,95.9,Bovine meat,Ireland,50-100
+1977-01-01,95.4,Adult cattle,Ireland,50-100
+1977-01-01,0.5,Calf and young cattle,Ireland,0-50
+1977-02-01,90.4,Adult cattle,Ireland,50-100
+1977-02-01,0.3,Calf and young cattle,Ireland,0-50
+1977-02-01,90.7,Bovine meat,Ireland,50-100
+1977-03-01,86.7,Bovine meat,Ireland,50-100
+1977-03-01,86.5,Adult cattle,Ireland,50-100
+1977-03-01,0.2,Calf and young cattle,Ireland,0-50
+1977-04-01,0.3,Calf and young cattle,Ireland,0-50
+1977-04-01,87.1,Adult cattle,Ireland,50-100
+1977-04-01,87.4,Bovine meat,Ireland,50-100
+1977-05-01,0.3,Calf and young cattle,Ireland,0-50
+1977-05-01,99.8,Adult cattle,Ireland,50-100
+1977-05-01,100.1,Bovine meat,Ireland,100-150
+1977-06-01,106.6,Bovine meat,Ireland,100-150
+1977-06-01,0.2,Calf and young cattle,Ireland,0-50
+1977-06-01,106.4,Adult cattle,Ireland,100-150
+1977-07-01,0.3,Calf and young cattle,Ireland,0-50
+1977-07-01,109.0,Bovine meat,Ireland,100-150
+1977-07-01,108.7,Adult cattle,Ireland,100-150
+1977-08-01,140.1,Adult cattle,Ireland,100-150
+1977-08-01,140.4,Bovine meat,Ireland,100-150
+1977-08-01,0.3,Calf and young cattle,Ireland,0-50
+1977-09-01,0.3,Calf and young cattle,Ireland,0-50
+1977-09-01,165.0,Bovine meat,Ireland,150-200
+1977-09-01,164.7,Adult cattle,Ireland,150-200
+1977-10-01,160.7,Adult cattle,Ireland,150-200
+1977-10-01,161.9,Bovine meat,Ireland,150-200
+1977-10-01,1.2,Calf and young cattle,Ireland,0-50
+1977-11-01,176.5,Bovine meat,Ireland,150-200
+1977-11-01,0.3,Calf and young cattle,Ireland,0-50
+1977-11-01,176.2,Adult cattle,Ireland,150-200
+1977-12-01,136.5,Adult cattle,Ireland,100-150
+1977-12-01,0.2,Calf and young cattle,Ireland,0-50
+1977-12-01,136.7,Bovine meat,Ireland,100-150
+1978-01-01,147.8,Bovine meat,Ireland,100-150
+1978-01-01,147.5,Adult cattle,Ireland,100-150
+1978-01-01,0.3,Calf and young cattle,Ireland,0-50
+1978-02-01,96.9,Adult cattle,Ireland,50-100
+1978-02-01,0.3,Calf and young cattle,Ireland,0-50
+1978-02-01,97.2,Bovine meat,Ireland,50-100
+1978-03-01,96.6,Adult cattle,Ireland,50-100
+1978-03-01,0.3,Calf and young cattle,Ireland,0-50
+1978-03-01,96.9,Bovine meat,Ireland,50-100
+1978-04-01,77.9,Bovine meat,Ireland,50-100
+1978-04-01,77.5,Adult cattle,Ireland,50-100
+1978-04-01,0.4,Calf and young cattle,Ireland,0-50
+1978-05-01,88.3,Adult cattle,Ireland,50-100
+1978-05-01,88.6,Bovine meat,Ireland,50-100
+1978-05-01,0.3,Calf and young cattle,Ireland,0-50
+1978-06-01,114.6,Bovine meat,Ireland,100-150
+1978-06-01,0.3,Calf and young cattle,Ireland,0-50
+1978-06-01,114.3,Adult cattle,Ireland,100-150
+1978-07-01,120.3,Bovine meat,Ireland,100-150
+1978-07-01,119.9,Adult cattle,Ireland,100-150
+1978-07-01,0.4,Calf and young cattle,Ireland,0-50
+1978-08-01,0.5,Calf and young cattle,Ireland,0-50
+1978-08-01,130.2,Adult cattle,Ireland,100-150
+1978-08-01,130.7,Bovine meat,Ireland,100-150
+1978-09-01,0.6,Calf and young cattle,Ireland,0-50
+1978-09-01,141.4,Adult cattle,Ireland,100-150
+1978-09-01,142.0,Bovine meat,Ireland,100-150
+1978-10-01,158.3,Adult cattle,Ireland,150-200
+1978-10-01,159.0,Bovine meat,Ireland,150-200
+1978-10-01,0.7,Calf and young cattle,Ireland,0-50
+1978-11-01,0.7,Calf and young cattle,Ireland,0-50
+1978-11-01,172.2,Adult cattle,Ireland,150-200
+1978-11-01,172.9,Bovine meat,Ireland,150-200
+1978-12-01,124.5,Adult cattle,Ireland,100-150
+1978-12-01,0.5,Calf and young cattle,Ireland,0-50
+1978-12-01,125.0,Bovine meat,Ireland,100-150
+1979-01-01,109.9,Bovine meat,Ireland,100-150
+1979-01-01,109.4,Adult cattle,Ireland,100-150
+1979-01-01,0.5,Calf and young cattle,Ireland,0-50
+1979-02-01,0.3,Calf and young cattle,Ireland,0-50
+1979-02-01,84.8,Adult cattle,Ireland,50-100
+1979-02-01,85.1,Bovine meat,Ireland,50-100
+1979-03-01,99.5,Bovine meat,Ireland,50-100
+1979-03-01,99.0,Adult cattle,Ireland,50-100
+1979-03-01,0.5,Calf and young cattle,Ireland,0-50
+1979-04-01,0.6,Calf and young cattle,Ireland,0-50
+1979-04-01,87.6,Adult cattle,Ireland,50-100
+1979-04-01,88.2,Bovine meat,Ireland,50-100
+1979-05-01,82.1,Bovine meat,Ireland,50-100
+1979-05-01,0.5,Calf and young cattle,Ireland,0-50
+1979-05-01,81.6,Adult cattle,Ireland,50-100
+1979-06-01,84.8,Bovine meat,Ireland,50-100
+1979-06-01,84.3,Adult cattle,Ireland,50-100
+1979-06-01,0.5,Calf and young cattle,Ireland,0-50
+1979-07-01,107.2,Bovine meat,Ireland,100-150
+1979-07-01,106.6,Adult cattle,Ireland,100-150
+1979-07-01,0.6,Calf and young cattle,Ireland,0-50
+1979-08-01,128.9,Bovine meat,Ireland,100-150
+1979-08-01,128.3,Adult cattle,Ireland,100-150
+1979-08-01,0.6,Calf and young cattle,Ireland,0-50
+1979-09-01,150.2,Adult cattle,Ireland,150-200
+1979-09-01,0.7,Calf and young cattle,Ireland,0-50
+1979-09-01,150.9,Bovine meat,Ireland,150-200
+1979-10-01,182.3,Adult cattle,Ireland,150-200
+1979-10-01,0.9,Calf and young cattle,Ireland,0-50
+1979-10-01,183.2,Bovine meat,Ireland,150-200
+1979-11-01,0.7,Calf and young cattle,Ireland,0-50
+1979-11-01,197.6,Adult cattle,Ireland,150-200
+1979-11-01,198.3,Bovine meat,Ireland,150-200
+1979-12-01,0.8,Calf and young cattle,Ireland,0-50
+1979-12-01,140.7,Adult cattle,Ireland,100-150
+1979-12-01,141.5,Bovine meat,Ireland,100-150
+1980-01-01,149.7,Adult cattle,Ireland,100-150
+1980-01-01,0.5,Calf and young cattle,Ireland,0-50
+1980-01-01,150.2,Bovine meat,Ireland,150-200
+1980-02-01,140.4,Adult cattle,Ireland,100-150
+1980-02-01,0.5,Calf and young cattle,Ireland,0-50
+1980-02-01,140.9,Bovine meat,Ireland,100-150
+1980-03-01,107.6,Adult cattle,Ireland,100-150
+1980-03-01,108.3,Bovine meat,Ireland,100-150
+1980-03-01,0.7,Calf and young cattle,Ireland,0-50
+1980-04-01,99.5,Adult cattle,Ireland,50-100
+1980-04-01,0.5,Calf and young cattle,Ireland,0-50
+1980-04-01,100.0,Bovine meat,Ireland,100-150
+1980-05-01,0.5,Calf and young cattle,Ireland,0-50
+1980-05-01,105.0,Adult cattle,Ireland,100-150
+1980-05-01,105.5,Bovine meat,Ireland,100-150
+1980-06-01,0.3,Calf and young cattle,Ireland,0-50
+1980-06-01,104.3,Adult cattle,Ireland,100-150
+1980-06-01,104.6,Bovine meat,Ireland,100-150
+1980-07-01,129.6,Adult cattle,Ireland,100-150
+1980-07-01,130.4,Bovine meat,Ireland,100-150
+1980-07-01,0.8,Calf and young cattle,Ireland,0-50
+1980-08-01,0.7,Calf and young cattle,Ireland,0-50
+1980-08-01,152.7,Adult cattle,Ireland,150-200
+1980-08-01,153.4,Bovine meat,Ireland,150-200
+1980-09-01,171.6,Bovine meat,Ireland,150-200
+1980-09-01,171.1,Adult cattle,Ireland,150-200
+1980-09-01,0.5,Calf and young cattle,Ireland,0-50
+1980-10-01,206.8,Bovine meat,Ireland,200-250
+1980-10-01,206.0,Adult cattle,Ireland,200-250
+1980-10-01,0.8,Calf and young cattle,Ireland,0-50
+1980-11-01,174.2,Adult cattle,Ireland,150-200
+1980-11-01,174.8,Bovine meat,Ireland,150-200
+1980-11-01,0.6,Calf and young cattle,Ireland,0-50
+1980-12-01,120.0,Adult cattle,Ireland,100-150
+1980-12-01,0.5,Calf and young cattle,Ireland,0-50
+1980-12-01,120.5,Bovine meat,Ireland,100-150
+1981-01-01,87.4,Adult cattle,Ireland,50-100
+1981-01-01,0.5,Calf and young cattle,Ireland,0-50
+1981-01-01,87.9,Bovine meat,Ireland,50-100
+1981-02-01,67.9,Bovine meat,Ireland,50-100
+1981-02-01,67.6,Adult cattle,Ireland,50-100
+1981-02-01,0.3,Calf and young cattle,Ireland,0-50
+1981-03-01,70.4,Adult cattle,Ireland,50-100
+1981-03-01,0.5,Calf and young cattle,Ireland,0-50
+1981-03-01,70.9,Bovine meat,Ireland,50-100
+1981-04-01,69.2,Bovine meat,Ireland,50-100
+1981-04-01,68.7,Adult cattle,Ireland,50-100
+1981-04-01,0.5,Calf and young cattle,Ireland,0-50
+1981-05-01,0.6,Calf and young cattle,Ireland,0-50
+1981-05-01,84.6,Adult cattle,Ireland,50-100
+1981-05-01,85.2,Bovine meat,Ireland,50-100
+1981-06-01,89.9,Bovine meat,Ireland,50-100
+1981-06-01,0.6,Calf and young cattle,Ireland,0-50
+1981-06-01,89.3,Adult cattle,Ireland,50-100
+1981-07-01,99.0,Adult cattle,Ireland,50-100
+1981-07-01,99.5,Bovine meat,Ireland,50-100
+1981-07-01,0.5,Calf and young cattle,Ireland,0-50
+1981-08-01,0.3,Calf and young cattle,Ireland,0-50
+1981-08-01,108.9,Bovine meat,Ireland,100-150
+1981-08-01,108.6,Adult cattle,Ireland,100-150
+1981-09-01,140.0,Bovine meat,Ireland,100-150
+1981-09-01,0.6,Calf and young cattle,Ireland,0-50
+1981-09-01,139.4,Adult cattle,Ireland,100-150
+1981-10-01,151.3,Adult cattle,Ireland,150-200
+1981-10-01,151.8,Bovine meat,Ireland,150-200
+1981-10-01,0.5,Calf and young cattle,Ireland,0-50
+1981-11-01,0.6,Calf and young cattle,Ireland,0-50
+1981-11-01,127.7,Bovine meat,Ireland,100-150
+1981-11-01,127.1,Adult cattle,Ireland,100-150
+1981-12-01,0.6,Calf and young cattle,Ireland,0-50
+1981-12-01,85.8,Adult cattle,Ireland,50-100
+1981-12-01,86.4,Bovine meat,Ireland,50-100
+1982-01-01,70.1,Bovine meat,Ireland,50-100
+1982-01-01,0.8,Calf and young cattle,Ireland,0-50
+1982-01-01,69.3,Adult cattle,Ireland,50-100
+1982-02-01,69.8,Adult cattle,Ireland,50-100
+1982-02-01,70.5,Bovine meat,Ireland,50-100
+1982-02-01,0.7,Calf and young cattle,Ireland,0-50
+1982-03-01,0.8,Calf and young cattle,Ireland,0-50
+1982-03-01,80.7,Bovine meat,Ireland,50-100
+1982-03-01,79.9,Adult cattle,Ireland,50-100
+1982-04-01,76.1,Bovine meat,Ireland,50-100
+1982-04-01,75.6,Adult cattle,Ireland,50-100
+1982-04-01,0.5,Calf and young cattle,Ireland,0-50
+1982-05-01,71.8,Adult cattle,Ireland,50-100
+1982-05-01,0.7,Calf and young cattle,Ireland,0-50
+1982-05-01,72.5,Bovine meat,Ireland,50-100
+1982-06-01,87.2,Bovine meat,Ireland,50-100
+1982-06-01,86.5,Adult cattle,Ireland,50-100
+1982-06-01,0.7,Calf and young cattle,Ireland,0-50
+1982-07-01,0.7,Calf and young cattle,Ireland,0-50
+1982-07-01,101.2,Bovine meat,Ireland,100-150
+1982-07-01,100.5,Adult cattle,Ireland,100-150
+1982-08-01,122.6,Bovine meat,Ireland,100-150
+1982-08-01,122.0,Adult cattle,Ireland,100-150
+1982-08-01,0.6,Calf and young cattle,Ireland,0-50
+1982-09-01,143.1,Adult cattle,Ireland,100-150
+1982-09-01,0.6,Calf and young cattle,Ireland,0-50
+1982-09-01,143.7,Bovine meat,Ireland,100-150
+1982-10-01,162.2,Adult cattle,Ireland,150-200
+1982-10-01,162.8,Bovine meat,Ireland,150-200
+1982-10-01,0.6,Calf and young cattle,Ireland,0-50
+1982-11-01,156.8,Adult cattle,Ireland,150-200
+1982-11-01,0.6,Calf and young cattle,Ireland,0-50
+1982-11-01,157.4,Bovine meat,Ireland,150-200
+1982-12-01,91.0,Bovine meat,Ireland,50-100
+1982-12-01,90.5,Adult cattle,Ireland,50-100
+1982-12-01,0.5,Calf and young cattle,Ireland,0-50
+1983-01-01,0.8,Calf and young cattle,Ireland,0-50
+1983-01-01,81.5,Bovine meat,Ireland,50-100
+1983-01-01,80.7,Adult cattle,Ireland,50-100
+1983-02-01,77.3,Bovine meat,Ireland,50-100
+1983-02-01,0.5,Calf and young cattle,Ireland,0-50
+1983-02-01,76.8,Adult cattle,Ireland,50-100
+1983-03-01,84.7,Adult cattle,Ireland,50-100
+1983-03-01,85.1,Bovine meat,Ireland,50-100
+1983-03-01,0.4,Calf and young cattle,Ireland,0-50
+1983-04-01,0.4,Calf and young cattle,Ireland,0-50
+1983-04-01,68.7,Bovine meat,Ireland,50-100
+1983-04-01,68.3,Adult cattle,Ireland,50-100
+1983-05-01,0.5,Calf and young cattle,Ireland,0-50
+1983-05-01,76.0,Bovine meat,Ireland,50-100
+1983-05-01,75.5,Adult cattle,Ireland,50-100
+1983-06-01,0.5,Calf and young cattle,Ireland,0-50
+1983-06-01,89.7,Adult cattle,Ireland,50-100
+1983-06-01,90.2,Bovine meat,Ireland,50-100
+1983-07-01,99.6,Adult cattle,Ireland,50-100
+1983-07-01,99.9,Bovine meat,Ireland,50-100
+1983-07-01,0.3,Calf and young cattle,Ireland,0-50
+1983-08-01,114.0,Bovine meat,Ireland,100-150
+1983-08-01,0.6,Calf and young cattle,Ireland,0-50
+1983-08-01,113.4,Adult cattle,Ireland,100-150
+1983-09-01,0.7,Calf and young cattle,Ireland,0-50
+1983-09-01,137.1,Adult cattle,Ireland,100-150
+1983-09-01,137.8,Bovine meat,Ireland,100-150
+1983-10-01,151.4,Bovine meat,Ireland,150-200
+1983-10-01,150.8,Adult cattle,Ireland,150-200
+1983-10-01,0.6,Calf and young cattle,Ireland,0-50
+1983-11-01,162.8,Adult cattle,Ireland,150-200
+1983-11-01,0.5,Calf and young cattle,Ireland,0-50
+1983-11-01,163.3,Bovine meat,Ireland,150-200
+1983-12-01,114.7,Bovine meat,Ireland,100-150
+1983-12-01,114.4,Adult cattle,Ireland,100-150
+1983-12-01,0.3,Calf and young cattle,Ireland,0-50
+1984-01-01,0.7,Calf and young cattle,Ireland,0-50
+1984-01-01,91.4,Adult cattle,Ireland,50-100
+1984-01-01,92.1,Bovine meat,Ireland,50-100
+1984-02-01,92.9,Bovine meat,Ireland,50-100
+1984-02-01,92.4,Adult cattle,Ireland,50-100
+1984-02-01,0.5,Calf and young cattle,Ireland,0-50
+1984-03-01,88.0,Bovine meat,Ireland,50-100
+1984-03-01,87.5,Adult cattle,Ireland,50-100
+1984-03-01,0.5,Calf and young cattle,Ireland,0-50
+1984-04-01,74.1,Bovine meat,Ireland,50-100
+1984-04-01,0.5,Calf and young cattle,Ireland,0-50
+1984-04-01,73.6,Adult cattle,Ireland,50-100
+1984-05-01,0.5,Calf and young cattle,Ireland,0-50
+1984-05-01,78.4,Bovine meat,Ireland,50-100
+1984-05-01,77.9,Adult cattle,Ireland,50-100
+1984-06-01,77.1,Adult cattle,Ireland,50-100
+1984-06-01,0.6,Calf and young cattle,Ireland,0-50
+1984-06-01,77.7,Bovine meat,Ireland,50-100
+1984-07-01,93.7,Adult cattle,Ireland,50-100
+1984-07-01,94.4,Bovine meat,Ireland,50-100
+1984-07-01,0.7,Calf and young cattle,Ireland,0-50
+1984-08-01,130.1,Adult cattle,Ireland,100-150
+1984-08-01,131.0,Bovine meat,Ireland,100-150
+1984-08-01,0.9,Calf and young cattle,Ireland,0-50
+1984-09-01,165.0,Adult cattle,Ireland,150-200
+1984-09-01,165.9,Bovine meat,Ireland,150-200
+1984-09-01,0.9,Calf and young cattle,Ireland,0-50
+1984-10-01,0.5,Calf and young cattle,Ireland,0-50
+1984-10-01,199.4,Bovine meat,Ireland,150-200
+1984-10-01,198.9,Adult cattle,Ireland,150-200
+1984-11-01,195.8,Bovine meat,Ireland,150-200
+1984-11-01,0.8,Calf and young cattle,Ireland,0-50
+1984-11-01,195.0,Adult cattle,Ireland,150-200
+1984-12-01,0.4,Calf and young cattle,Ireland,0-50
+1984-12-01,106.6,Bovine meat,Ireland,100-150
+1984-12-01,106.2,Adult cattle,Ireland,100-150
+1985-01-01,0.3,Calf and young cattle,Ireland,0-50
+1985-01-01,106.6,Bovine meat,Ireland,100-150
+1985-01-01,106.3,Adult cattle,Ireland,100-150
+1985-02-01,79.1,Adult cattle,Ireland,50-100
+1985-02-01,79.4,Bovine meat,Ireland,50-100
+1985-02-01,0.3,Calf and young cattle,Ireland,0-50
+1985-03-01,90.3,Bovine meat,Ireland,50-100
+1985-03-01,0.2,Calf and young cattle,Ireland,0-50
+1985-03-01,90.1,Adult cattle,Ireland,50-100
+1985-04-01,95.0,Adult cattle,Ireland,50-100
+1985-04-01,95.3,Bovine meat,Ireland,50-100
+1985-04-01,0.3,Calf and young cattle,Ireland,0-50
+1985-05-01,0.2,Calf and young cattle,Ireland,0-50
+1985-05-01,118.1,Adult cattle,Ireland,100-150
+1985-05-01,118.3,Bovine meat,Ireland,100-150
+1985-06-01,78.6,Adult cattle,Ireland,50-100
+1985-06-01,79.1,Bovine meat,Ireland,50-100
+1985-06-01,0.5,Calf and young cattle,Ireland,0-50
+1985-07-01,0.2,Calf and young cattle,Ireland,0-50
+1985-07-01,97.3,Bovine meat,Ireland,50-100
+1985-07-01,97.1,Adult cattle,Ireland,50-100
+1985-08-01,0.1,Calf and young cattle,Ireland,0-50
+1985-08-01,130.5,Adult cattle,Ireland,100-150
+1985-08-01,130.6,Bovine meat,Ireland,100-150
+1985-09-01,180.7,Bovine meat,Ireland,150-200
+1985-09-01,0.3,Calf and young cattle,Ireland,0-50
+1985-09-01,180.4,Adult cattle,Ireland,150-200
+1985-10-01,222.4,Adult cattle,Ireland,200-250
+1985-10-01,222.6,Bovine meat,Ireland,200-250
+1985-10-01,0.2,Calf and young cattle,Ireland,0-50
+1985-11-01,195.6,Bovine meat,Ireland,150-200
+1985-11-01,0.2,Calf and young cattle,Ireland,0-50
+1985-11-01,195.4,Adult cattle,Ireland,150-200
+1985-12-01,0.3,Calf and young cattle,Ireland,0-50
+1985-12-01,122.7,Bovine meat,Ireland,100-150
+1985-12-01,122.4,Adult cattle,Ireland,100-150
+1986-01-01,5.96,Calf and young cattle,Portugal,0-50
+1986-01-01,38.15,Bovine meat,Portugal,0-50
+1986-01-01,108.0,Bovine meat,Ireland,100-150
+1986-01-01,107.8,Adult cattle,Ireland,100-150
+1986-01-01,0.2,Calf and young cattle,Ireland,0-50
+1986-01-01,32.19,Adult cattle,Portugal,0-50
+1986-02-01,5.46,Calf and young cattle,Portugal,0-50
+1986-02-01,33.98,Bovine meat,Portugal,0-50
+1986-02-01,28.53,Adult cattle,Portugal,0-50
+1986-02-01,98.3,Bovine meat,Ireland,50-100
+1986-02-01,98.0,Adult cattle,Ireland,50-100
+1986-02-01,0.3,Calf and young cattle,Ireland,0-50
+1986-03-01,5.95,Calf and young cattle,Portugal,0-50
+1986-03-01,98.8,Adult cattle,Ireland,50-100
+1986-03-01,99.1,Bovine meat,Ireland,50-100
+1986-03-01,0.3,Calf and young cattle,Ireland,0-50
+1986-03-01,36.37,Bovine meat,Portugal,0-50
+1986-03-01,30.42,Adult cattle,Portugal,0-50
+1986-04-01,112.7,Adult cattle,Ireland,100-150
+1986-04-01,0.4,Calf and young cattle,Ireland,0-50
+1986-04-01,113.1,Bovine meat,Ireland,100-150
+1986-04-01,33.53,Adult cattle,Portugal,0-50
+1986-04-01,39.51,Bovine meat,Portugal,0-50
+1986-04-01,5.99,Calf and young cattle,Portugal,0-50
+1986-05-01,103.5,Adult cattle,Ireland,100-150
+1986-05-01,36.74,Bovine meat,Portugal,0-50
+1986-05-01,5.45,Calf and young cattle,Portugal,0-50
+1986-05-01,31.28,Adult cattle,Portugal,0-50
+1986-05-01,0.3,Calf and young cattle,Ireland,0-50
+1986-05-01,103.8,Bovine meat,Ireland,100-150
+1986-06-01,91.1,Bovine meat,Ireland,50-100
+1986-06-01,0.3,Calf and young cattle,Ireland,0-50
+1986-06-01,39.0,Bovine meat,Portugal,0-50
+1986-06-01,33.59,Adult cattle,Portugal,0-50
+1986-06-01,5.41,Calf and young cattle,Portugal,0-50
+1986-06-01,90.8,Adult cattle,Ireland,50-100
+1986-07-01,0.4,Calf and young cattle,Ireland,0-50
+1986-07-01,128.6,Adult cattle,Ireland,100-150
+1986-07-01,6.36,Calf and young cattle,Portugal,0-50
+1986-07-01,129.0,Bovine meat,Ireland,100-150
+1986-07-01,45.23,Bovine meat,Portugal,0-50
+1986-07-01,38.87,Adult cattle,Portugal,0-50
+1986-08-01,37.77,Adult cattle,Portugal,0-50
+1986-08-01,44.46,Bovine meat,Portugal,0-50
+1986-08-01,6.69,Calf and young cattle,Portugal,0-50
+1986-08-01,0.3,Calf and young cattle,Ireland,0-50
+1986-08-01,151.7,Bovine meat,Ireland,150-200
+1986-08-01,151.4,Adult cattle,Ireland,150-200
+1986-09-01,6.12,Calf and young cattle,Portugal,0-50
+1986-09-01,38.21,Adult cattle,Portugal,0-50
+1986-09-01,44.33,Bovine meat,Portugal,0-50
+1986-09-01,0.4,Calf and young cattle,Ireland,0-50
+1986-09-01,178.0,Adult cattle,Ireland,150-200
+1986-09-01,178.4,Bovine meat,Ireland,150-200
+1986-10-01,267.0,Adult cattle,Ireland,250-280
+1986-10-01,0.4,Calf and young cattle,Ireland,0-50
+1986-10-01,267.4,Bovine meat,Ireland,250-280
+1986-10-01,38.04,Adult cattle,Portugal,0-50
+1986-10-01,5.88,Calf and young cattle,Portugal,0-50
+1986-10-01,43.91,Bovine meat,Portugal,0-50
+1986-11-01,37.62,Bovine meat,Portugal,0-50
+1986-11-01,4.76,Calf and young cattle,Portugal,0-50
+1986-11-01,225.6,Adult cattle,Ireland,200-250
+1986-11-01,225.8,Bovine meat,Ireland,200-250
+1986-11-01,0.2,Calf and young cattle,Ireland,0-50
+1986-11-01,32.85,Adult cattle,Portugal,0-50
+1986-12-01,130.6,Bovine meat,Ireland,100-150
+1986-12-01,0.3,Calf and young cattle,Ireland,0-50
+1986-12-01,130.3,Adult cattle,Ireland,100-150
+1986-12-01,44.16,Bovine meat,Portugal,0-50
+1986-12-01,38.3,Adult cattle,Portugal,0-50
+1986-12-01,5.87,Calf and young cattle,Portugal,0-50
+1987-01-01,36.6,Bovine meat,Portugal,0-50
+1987-01-01,113.9,Adult cattle,Ireland,100-150
+1987-01-01,5.1,Calf and young cattle,Portugal,0-50
+1987-01-01,31.5,Adult cattle,Portugal,0-50
+1987-01-01,114.2,Bovine meat,Ireland,100-150
+1987-01-01,0.3,Calf and young cattle,Ireland,0-50
+1987-02-01,107.5,Adult cattle,Ireland,100-150
+1987-02-01,0.3,Calf and young cattle,Ireland,0-50
+1987-02-01,107.8,Bovine meat,Ireland,100-150
+1987-02-01,30.15,Adult cattle,Portugal,0-50
+1987-02-01,4.88,Calf and young cattle,Portugal,0-50
+1987-02-01,35.03,Bovine meat,Portugal,0-50
+1987-03-01,36.68,Bovine meat,Portugal,0-50
+1987-03-01,4.79,Calf and young cattle,Portugal,0-50
+1987-03-01,125.4,Adult cattle,Ireland,100-150
+1987-03-01,0.3,Calf and young cattle,Ireland,0-50
+1987-03-01,125.7,Bovine meat,Ireland,100-150
+1987-03-01,31.9,Adult cattle,Portugal,0-50
+1987-04-01,0.2,Calf and young cattle,Ireland,0-50
+1987-04-01,33.78,Adult cattle,Portugal,0-50
+1987-04-01,4.72,Calf and young cattle,Portugal,0-50
+1987-04-01,38.49,Bovine meat,Portugal,0-50
+1987-04-01,90.4,Bovine meat,Ireland,50-100
+1987-04-01,90.2,Adult cattle,Ireland,50-100
+1987-05-01,35.3,Bovine meat,Portugal,0-50
+1987-05-01,85.3,Bovine meat,Ireland,50-100
+1987-05-01,0.2,Calf and young cattle,Ireland,0-50
+1987-05-01,85.1,Adult cattle,Ireland,50-100
+1987-05-01,4.45,Calf and young cattle,Portugal,0-50
+1987-05-01,30.85,Adult cattle,Portugal,0-50
+1987-06-01,104.0,Adult cattle,Ireland,100-150
+1987-06-01,0.2,Calf and young cattle,Ireland,0-50
+1987-06-01,104.2,Bovine meat,Ireland,100-150
+1987-06-01,33.69,Adult cattle,Portugal,0-50
+1987-06-01,38.6,Bovine meat,Portugal,0-50
+1987-06-01,4.91,Calf and young cattle,Portugal,0-50
+1987-07-01,6.2,Calf and young cattle,Portugal,0-50
+1987-07-01,115.3,Adult cattle,Ireland,100-150
+1987-07-01,0.3,Calf and young cattle,Ireland,0-50
+1987-07-01,115.6,Bovine meat,Ireland,100-150
+1987-07-01,43.5,Bovine meat,Portugal,0-50
+1987-07-01,37.3,Adult cattle,Portugal,0-50
+1987-08-01,123.0,Adult cattle,Ireland,100-150
+1987-08-01,5.57,Calf and young cattle,Portugal,0-50
+1987-08-01,123.2,Bovine meat,Ireland,100-150
+1987-08-01,0.2,Calf and young cattle,Ireland,0-50
+1987-08-01,46.37,Bovine meat,Portugal,0-50
+1987-08-01,40.8,Adult cattle,Portugal,0-50
+1987-09-01,5.31,Calf and young cattle,Portugal,0-50
+1987-09-01,190.8,Adult cattle,Ireland,150-200
+1987-09-01,0.3,Calf and young cattle,Ireland,0-50
+1987-09-01,191.1,Bovine meat,Ireland,150-200
+1987-09-01,42.7,Bovine meat,Portugal,0-50
+1987-09-01,37.39,Adult cattle,Portugal,0-50
+1987-10-01,43.32,Bovine meat,Portugal,0-50
+1987-10-01,37.85,Adult cattle,Portugal,0-50
+1987-10-01,5.46,Calf and young cattle,Portugal,0-50
+1987-10-01,262.3,Bovine meat,Ireland,250-280
+1987-10-01,261.8,Adult cattle,Ireland,250-280
+1987-10-01,0.5,Calf and young cattle,Ireland,0-50
+1987-11-01,172.5,Adult cattle,Ireland,150-200
+1987-11-01,35.1,Adult cattle,Portugal,0-50
+1987-11-01,4.7,Calf and young cattle,Portugal,0-50
+1987-11-01,39.8,Bovine meat,Portugal,0-50
+1987-11-01,172.9,Bovine meat,Ireland,150-200
+1987-11-01,0.4,Calf and young cattle,Ireland,0-50
+1987-12-01,41.35,Bovine meat,Portugal,0-50
+1987-12-01,0.3,Calf and young cattle,Ireland,0-50
+1987-12-01,95.3,Adult cattle,Ireland,50-100
+1987-12-01,95.6,Bovine meat,Ireland,50-100
+1987-12-01,36.05,Adult cattle,Portugal,0-50
+1987-12-01,5.3,Calf and young cattle,Portugal,0-50
+1988-01-01,34.8,Bovine meat,Portugal,0-50
+1988-01-01,31.0,Adult cattle,Portugal,0-50
+1988-01-01,3.8,Calf and young cattle,Portugal,0-50
+1988-01-01,90.4,Bovine meat,Ireland,50-100
+1988-01-01,0.1,Calf and young cattle,Ireland,0-50
+1988-01-01,90.3,Adult cattle,Ireland,50-100
+1988-02-01,30.5,Adult cattle,Portugal,0-50
+1988-02-01,4.3,Calf and young cattle,Portugal,0-50
+1988-02-01,34.8,Bovine meat,Portugal,0-50
+1988-02-01,94.9,Adult cattle,Ireland,50-100
+1988-02-01,0.1,Calf and young cattle,Ireland,0-50
+1988-02-01,95.0,Bovine meat,Ireland,50-100
+1988-03-01,4.7,Calf and young cattle,Portugal,0-50
+1988-03-01,38.4,Bovine meat,Portugal,0-50
+1988-03-01,109.4,Adult cattle,Ireland,100-150
+1988-03-01,33.7,Adult cattle,Portugal,0-50
+1988-03-01,0.2,Calf and young cattle,Ireland,0-50
+1988-03-01,109.6,Bovine meat,Ireland,100-150
+1988-04-01,32.7,Bovine meat,Portugal,0-50
+1988-04-01,3.9,Calf and young cattle,Portugal,0-50
+1988-04-01,28.8,Adult cattle,Portugal,0-50
+1988-04-01,88.0,Adult cattle,Ireland,50-100
+1988-04-01,0.1,Calf and young cattle,Ireland,0-50
+1988-04-01,88.1,Bovine meat,Ireland,50-100
+1988-05-01,32.2,Adult cattle,Portugal,0-50
+1988-05-01,70.7,Bovine meat,Ireland,50-100
+1988-05-01,0.2,Calf and young cattle,Ireland,0-50
+1988-05-01,70.5,Adult cattle,Ireland,50-100
+1988-05-01,4.1,Calf and young cattle,Portugal,0-50
+1988-05-01,36.3,Bovine meat,Portugal,0-50
+1988-06-01,0.2,Calf and young cattle,Ireland,0-50
+1988-06-01,87.6,Bovine meat,Ireland,50-100
+1988-06-01,37.6,Bovine meat,Portugal,0-50
+1988-06-01,87.4,Adult cattle,Ireland,50-100
+1988-06-01,4.3,Calf and young cattle,Portugal,0-50
+1988-06-01,33.3,Adult cattle,Portugal,0-50
+1988-07-01,0.2,Calf and young cattle,Ireland,0-50
+1988-07-01,81.9,Bovine meat,Ireland,50-100
+1988-07-01,81.7,Adult cattle,Ireland,50-100
+1988-07-01,36.2,Adult cattle,Portugal,0-50
+1988-07-01,40.3,Bovine meat,Portugal,0-50
+1988-07-01,4.1,Calf and young cattle,Portugal,0-50
+1988-08-01,109.5,Bovine meat,Ireland,100-150
+1988-08-01,109.4,Adult cattle,Ireland,100-150
+1988-08-01,0.1,Calf and young cattle,Ireland,0-50
+1988-08-01,5.9,Calf and young cattle,Portugal,0-50
+1988-08-01,53.8,Bovine meat,Portugal,50-100
+1988-08-01,47.9,Adult cattle,Portugal,0-50
+1988-09-01,0.2,Calf and young cattle,Ireland,0-50
+1988-09-01,158.7,Bovine meat,Ireland,150-200
+1988-09-01,158.5,Adult cattle,Ireland,150-200
+1988-09-01,42.4,Bovine meat,Portugal,0-50
+1988-09-01,4.9,Calf and young cattle,Portugal,0-50
+1988-09-01,37.5,Adult cattle,Portugal,0-50
+1988-10-01,33.39,Adult cattle,Portugal,0-50
+1988-10-01,0.3,Calf and young cattle,Ireland,0-50
+1988-10-01,252.6,Adult cattle,Ireland,250-280
+1988-10-01,252.9,Bovine meat,Ireland,250-280
+1988-10-01,4.48,Calf and young cattle,Portugal,0-50
+1988-10-01,37.87,Bovine meat,Portugal,0-50
+1988-11-01,40.75,Bovine meat,Portugal,0-50
+1988-11-01,4.53,Calf and young cattle,Portugal,0-50
+1988-11-01,0.3,Calf and young cattle,Ireland,0-50
+1988-11-01,208.3,Adult cattle,Ireland,200-250
+1988-11-01,208.6,Bovine meat,Ireland,200-250
+1988-11-01,36.22,Adult cattle,Portugal,0-50
+1988-12-01,101.2,Bovine meat,Ireland,100-150
+1988-12-01,0.2,Calf and young cattle,Ireland,0-50
+1988-12-01,5.25,Calf and young cattle,Portugal,0-50
+1988-12-01,39.96,Adult cattle,Portugal,0-50
+1988-12-01,101.0,Adult cattle,Ireland,100-150
+1988-12-01,45.21,Bovine meat,Portugal,0-50
+1989-01-01,61.8,Adult cattle,Ireland,50-100
+1989-01-01,61.9,Bovine meat,Ireland,50-100
+1989-01-01,0.1,Calf and young cattle,Ireland,0-50
+1989-01-01,44.94,Adult cattle,Portugal,0-50
+1989-01-01,50.83,Bovine meat,Portugal,50-100
+1989-01-01,5.89,Calf and young cattle,Portugal,0-50
+1989-02-01,42.77,Bovine meat,Portugal,0-50
+1989-02-01,37.68,Adult cattle,Portugal,0-50
+1989-02-01,62.8,Adult cattle,Ireland,50-100
+1989-02-01,0.2,Calf and young cattle,Ireland,0-50
+1989-02-01,63.0,Bovine meat,Ireland,50-100
+1989-02-01,5.09,Calf and young cattle,Portugal,0-50
+1989-03-01,41.18,Adult cattle,Portugal,0-50
+1989-03-01,46.94,Bovine meat,Portugal,0-50
+1989-03-01,5.76,Calf and young cattle,Portugal,0-50
+1989-03-01,128.2,Bovine meat,Ireland,100-150
+1989-03-01,0.1,Calf and young cattle,Ireland,0-50
+1989-03-01,128.1,Adult cattle,Ireland,100-150
+1989-04-01,0.3,Calf and young cattle,Ireland,0-50
+1989-04-01,44.31,Bovine meat,Portugal,0-50
+1989-04-01,39.31,Adult cattle,Portugal,0-50
+1989-04-01,5.0,Calf and young cattle,Portugal,0-50
+1989-04-01,62.0,Adult cattle,Ireland,50-100
+1989-04-01,62.3,Bovine meat,Ireland,50-100
+1989-05-01,0.2,Calf and young cattle,Ireland,0-50
+1989-05-01,43.04,Adult cattle,Portugal,0-50
+1989-05-01,48.22,Bovine meat,Portugal,0-50
+1989-05-01,5.18,Calf and young cattle,Portugal,0-50
+1989-05-01,67.4,Adult cattle,Ireland,50-100
+1989-05-01,67.6,Bovine meat,Ireland,50-100
+1989-06-01,39.8,Adult cattle,Portugal,0-50
+1989-06-01,5.36,Calf and young cattle,Portugal,0-50
+1989-06-01,75.9,Adult cattle,Ireland,50-100
+1989-06-01,0.1,Calf and young cattle,Ireland,0-50
+1989-06-01,76.0,Bovine meat,Ireland,50-100
+1989-06-01,45.17,Bovine meat,Portugal,0-50
+1989-07-01,43.8,Adult cattle,Portugal,0-50
+1989-07-01,95.7,Adult cattle,Ireland,50-100
+1989-07-01,0.1,Calf and young cattle,Ireland,0-50
+1989-07-01,49.59,Bovine meat,Portugal,0-50
+1989-07-01,5.8,Calf and young cattle,Portugal,0-50
+1989-07-01,95.8,Bovine meat,Ireland,50-100
+1989-08-01,105.7,Bovine meat,Ireland,100-150
+1989-08-01,0.2,Calf and young cattle,Ireland,0-50
+1989-08-01,105.5,Adult cattle,Ireland,100-150
+1989-08-01,8.35,Calf and young cattle,Portugal,0-50
+1989-08-01,52.96,Adult cattle,Portugal,50-100
+1989-08-01,61.31,Bovine meat,Portugal,50-100
+1989-09-01,39.62,Adult cattle,Portugal,0-50
+1989-09-01,5.32,Calf and young cattle,Portugal,0-50
+1989-09-01,108.2,Bovine meat,Ireland,100-150
+1989-09-01,108.1,Adult cattle,Ireland,100-150
+1989-09-01,0.1,Calf and young cattle,Ireland,0-50
+1989-09-01,44.95,Bovine meat,Portugal,0-50
+1989-10-01,41.85,Adult cattle,Portugal,0-50
+1989-10-01,0.3,Calf and young cattle,Ireland,0-50
+1989-10-01,208.9,Bovine meat,Ireland,200-250
+1989-10-01,208.6,Adult cattle,Ireland,200-250
+1989-10-01,6.66,Calf and young cattle,Portugal,0-50
+1989-10-01,48.5,Bovine meat,Portugal,0-50
+1989-11-01,38.07,Adult cattle,Portugal,0-50
+1989-11-01,277.2,Adult cattle,Ireland,250-280
+1989-11-01,6.13,Calf and young cattle,Portugal,0-50
+1989-11-01,277.6,Bovine meat,Ireland,250-280
+1989-11-01,44.2,Bovine meat,Portugal,0-50
+1989-11-01,0.4,Calf and young cattle,Ireland,0-50
+1989-12-01,39.42,Adult cattle,Portugal,0-50
+1989-12-01,45.91,Bovine meat,Portugal,0-50
+1989-12-01,6.5,Calf and young cattle,Portugal,0-50
+1989-12-01,114.5,Bovine meat,Ireland,100-150
+1989-12-01,0.2,Calf and young cattle,Ireland,0-50
+1989-12-01,114.3,Adult cattle,Ireland,100-150
+1990-01-01,0.2,Calf and young cattle,Ireland,0-50
+1990-01-01,96.3,Bovine meat,Ireland,50-100
+1990-01-01,96.1,Adult cattle,Ireland,50-100
+1990-01-01,6.45,Calf and young cattle,Portugal,0-50
+1990-01-01,35.33,Adult cattle,Portugal,0-50
+1990-01-01,41.77,Bovine meat,Portugal,0-50
+1990-02-01,5.04,Calf and young cattle,Portugal,0-50
+1990-02-01,34.92,Bovine meat,Portugal,0-50
+1990-02-01,29.88,Adult cattle,Portugal,0-50
+1990-02-01,88.6,Adult cattle,Ireland,50-100
+1990-02-01,0.1,Calf and young cattle,Ireland,0-50
+1990-02-01,88.7,Bovine meat,Ireland,50-100
+1990-03-01,105.2,Adult cattle,Ireland,100-150
+1990-03-01,105.3,Bovine meat,Ireland,100-150
+1990-03-01,5.27,Calf and young cattle,Portugal,0-50
+1990-03-01,0.1,Calf and young cattle,Ireland,0-50
+1990-03-01,29.87,Adult cattle,Portugal,0-50
+1990-03-01,35.14,Bovine meat,Portugal,0-50
+1990-04-01,38.08,Bovine meat,Portugal,0-50
+1990-04-01,88.0,Bovine meat,Ireland,50-100
+1990-04-01,0.1,Calf and young cattle,Ireland,0-50
+1990-04-01,33.13,Adult cattle,Portugal,0-50
+1990-04-01,87.9,Adult cattle,Ireland,50-100
+1990-04-01,4.96,Calf and young cattle,Portugal,0-50
+1990-05-01,5.33,Calf and young cattle,Portugal,0-50
+1990-05-01,95.4,Adult cattle,Ireland,50-100
+1990-05-01,0.4,Calf and young cattle,Ireland,0-50
+1990-05-01,95.8,Bovine meat,Ireland,50-100
+1990-05-01,36.98,Adult cattle,Portugal,0-50
+1990-05-01,42.31,Bovine meat,Portugal,0-50
+1990-06-01,5.0,Calf and young cattle,Portugal,0-50
+1990-06-01,36.82,Bovine meat,Portugal,0-50
+1990-06-01,0.2,Calf and young cattle,Ireland,0-50
+1990-06-01,101.4,Bovine meat,Ireland,100-150
+1990-06-01,31.82,Adult cattle,Portugal,0-50
+1990-06-01,101.2,Adult cattle,Ireland,100-150
+1990-07-01,112.7,Adult cattle,Ireland,100-150
+1990-07-01,38.51,Adult cattle,Portugal,0-50
+1990-07-01,0.2,Calf and young cattle,Ireland,0-50
+1990-07-01,112.9,Bovine meat,Ireland,100-150
+1990-07-01,5.59,Calf and young cattle,Portugal,0-50
+1990-07-01,44.1,Bovine meat,Portugal,0-50
+1990-08-01,6.87,Calf and young cattle,Portugal,0-50
+1990-08-01,53.23,Bovine meat,Portugal,50-100
+1990-08-01,135.2,Bovine meat,Ireland,100-150
+1990-08-01,0.2,Calf and young cattle,Ireland,0-50
+1990-08-01,46.36,Adult cattle,Portugal,0-50
+1990-08-01,135.0,Adult cattle,Ireland,100-150
+1990-09-01,38.52,Bovine meat,Portugal,0-50
+1990-09-01,160.0,Bovine meat,Ireland,150-200
+1990-09-01,34.51,Adult cattle,Portugal,0-50
+1990-09-01,4.01,Calf and young cattle,Portugal,0-50
+1990-09-01,0.2,Calf and young cattle,Ireland,0-50
+1990-09-01,159.8,Adult cattle,Ireland,150-200
+1990-10-01,49.45,Bovine meat,Portugal,0-50
+1990-10-01,6.04,Calf and young cattle,Portugal,0-50
+1990-10-01,43.41,Adult cattle,Portugal,0-50
+1990-10-01,0.3,Calf and young cattle,Ireland,0-50
+1990-10-01,251.2,Adult cattle,Ireland,250-280
+1990-10-01,251.5,Bovine meat,Ireland,250-280
+1990-11-01,36.34,Adult cattle,Portugal,0-50
+1990-11-01,41.95,Bovine meat,Portugal,0-50
+1990-11-01,224.8,Adult cattle,Ireland,200-250
+1990-11-01,5.61,Calf and young cattle,Portugal,0-50
+1990-11-01,0.4,Calf and young cattle,Ireland,0-50
+1990-11-01,225.2,Bovine meat,Ireland,200-250
+1990-12-01,118.2,Bovine meat,Ireland,100-150
+1990-12-01,0.4,Calf and young cattle,Ireland,0-50
+1990-12-01,117.8,Adult cattle,Ireland,100-150
+1990-12-01,39.09,Adult cattle,Portugal,0-50
+1990-12-01,45.28,Bovine meat,Portugal,0-50
+1990-12-01,6.19,Calf and young cattle,Portugal,0-50
+1991-01-01,0.1,Calf and young cattle,Ireland,0-50
+1991-01-01,110.6,Bovine meat,Ireland,100-150
+1991-01-01,46.82,Bovine meat,Portugal,0-50
+1991-01-01,110.5,Adult cattle,Ireland,100-150
+1991-01-01,7.01,Calf and young cattle,Portugal,0-50
+1991-01-01,39.81,Adult cattle,Portugal,0-50
+1991-02-01,103.5,Bovine meat,Ireland,100-150
+1991-02-01,31.18,Adult cattle,Portugal,0-50
+1991-02-01,103.4,Adult cattle,Ireland,100-150
+1991-02-01,0.1,Calf and young cattle,Ireland,0-50
+1991-02-01,5.17,Calf and young cattle,Portugal,0-50
+1991-02-01,36.35,Bovine meat,Portugal,0-50
+1991-03-01,124.0,Adult cattle,Ireland,100-150
+1991-03-01,124.1,Bovine meat,Ireland,100-150
+1991-03-01,0.1,Calf and young cattle,Ireland,0-50
+1991-03-01,37.05,Bovine meat,Portugal,0-50
+1991-03-01,4.63,Calf and young cattle,Portugal,0-50
+1991-03-01,32.42,Adult cattle,Portugal,0-50
+1991-04-01,135.6,Adult cattle,Ireland,100-150
+1991-04-01,135.9,Bovine meat,Ireland,100-150
+1991-04-01,0.3,Calf and young cattle,Ireland,0-50
+1991-04-01,6.3,Calf and young cattle,Portugal,0-50
+1991-04-01,45.64,Bovine meat,Portugal,0-50
+1991-04-01,39.34,Adult cattle,Portugal,0-50
+1991-05-01,104.9,Bovine meat,Ireland,100-150
+1991-05-01,104.7,Adult cattle,Ireland,100-150
+1991-05-01,0.2,Calf and young cattle,Ireland,0-50
+1991-05-01,5.52,Calf and young cattle,Portugal,0-50
+1991-05-01,36.93,Adult cattle,Portugal,0-50
+1991-05-01,42.45,Bovine meat,Portugal,0-50
+1991-06-01,0.1,Calf and young cattle,Ireland,0-50
+1991-06-01,115.0,Adult cattle,Ireland,100-150
+1991-06-01,115.1,Bovine meat,Ireland,100-150
+1991-06-01,38.16,Bovine meat,Portugal,0-50
+1991-06-01,33.99,Adult cattle,Portugal,0-50
+1991-06-01,4.16,Calf and young cattle,Portugal,0-50
+1991-07-01,103.4,Adult cattle,Ireland,100-150
+1991-07-01,44.42,Adult cattle,Portugal,0-50
+1991-07-01,6.33,Calf and young cattle,Portugal,0-50
+1991-07-01,50.75,Bovine meat,Portugal,50-100
+1991-07-01,103.7,Bovine meat,Ireland,100-150
+1991-07-01,0.3,Calf and young cattle,Ireland,0-50
+1991-08-01,51.93,Bovine meat,Portugal,50-100
+1991-08-01,44.61,Adult cattle,Portugal,0-50
+1991-08-01,7.33,Calf and young cattle,Portugal,0-50
+1991-08-01,0.4,Calf and young cattle,Ireland,0-50
+1991-08-01,142.1,Adult cattle,Ireland,100-150
+1991-08-01,142.5,Bovine meat,Ireland,100-150
+1991-09-01,48.86,Bovine meat,Portugal,0-50
+1991-09-01,7.31,Calf and young cattle,Portugal,0-50
+1991-09-01,184.2,Adult cattle,Ireland,150-200
+1991-09-01,0.3,Calf and young cattle,Ireland,0-50
+1991-09-01,184.5,Bovine meat,Ireland,150-200
+1991-09-01,41.55,Adult cattle,Portugal,0-50
+1991-10-01,247.9,Bovine meat,Ireland,200-250
+1991-10-01,247.4,Adult cattle,Ireland,200-250
+1991-10-01,41.23,Adult cattle,Portugal,0-50
+1991-10-01,48.9,Bovine meat,Portugal,0-50
+1991-10-01,0.5,Calf and young cattle,Ireland,0-50
+1991-10-01,7.67,Calf and young cattle,Portugal,0-50
+1991-11-01,229.6,Bovine meat,Ireland,200-250
+1991-11-01,229.3,Adult cattle,Ireland,200-250
+1991-11-01,5.79,Calf and young cattle,Portugal,0-50
+1991-11-01,34.94,Adult cattle,Portugal,0-50
+1991-11-01,0.3,Calf and young cattle,Ireland,0-50
+1991-11-01,40.73,Bovine meat,Portugal,0-50
+1991-12-01,111.1,Adult cattle,Ireland,100-150
+1991-12-01,0.2,Calf and young cattle,Ireland,0-50
+1991-12-01,7.36,Calf and young cattle,Portugal,0-50
+1991-12-01,42.65,Adult cattle,Portugal,0-50
+1991-12-01,50.01,Bovine meat,Portugal,50-100
+1991-12-01,111.3,Bovine meat,Ireland,100-150
+1992-01-01,7.45,Calf and young cattle,Portugal,0-50
+1992-01-01,36.57,Adult cattle,Portugal,0-50
+1992-01-01,44.01,Bovine meat,Portugal,0-50
+1992-01-01,0.2,Calf and young cattle,Ireland,0-50
+1992-01-01,109.3,Adult cattle,Ireland,100-150
+1992-01-01,109.5,Bovine meat,Ireland,100-150
+1992-02-01,30.19,Adult cattle,Portugal,0-50
+1992-02-01,35.89,Bovine meat,Portugal,0-50
+1992-02-01,98.7,Bovine meat,Ireland,50-100
+1992-02-01,0.1,Calf and young cattle,Ireland,0-50
+1992-02-01,5.7,Calf and young cattle,Portugal,0-50
+1992-02-01,98.6,Adult cattle,Ireland,50-100
+1992-03-01,40.21,Bovine meat,Portugal,0-50
+1992-03-01,6.5,Calf and young cattle,Portugal,0-50
+1992-03-01,140.1,Bovine meat,Ireland,100-150
+1992-03-01,140.0,Adult cattle,Ireland,100-150
+1992-03-01,0.1,Calf and young cattle,Ireland,0-50
+1992-03-01,33.71,Adult cattle,Portugal,0-50
+1992-04-01,5.57,Calf and young cattle,Portugal,0-50
+1992-04-01,122.5,Adult cattle,Ireland,100-150
+1992-04-01,122.8,Bovine meat,Ireland,100-150
+1992-04-01,38.99,Bovine meat,Portugal,0-50
+1992-04-01,0.3,Calf and young cattle,Ireland,0-50
+1992-04-01,33.41,Adult cattle,Portugal,0-50
+1992-05-01,105.5,Adult cattle,Ireland,100-150
+1992-05-01,6.53,Calf and young cattle,Portugal,0-50
+1992-05-01,31.32,Adult cattle,Portugal,0-50
+1992-05-01,37.85,Bovine meat,Portugal,0-50
+1992-06-01,33.28,Adult cattle,Portugal,0-50
+1992-06-01,5.76,Calf and young cattle,Portugal,0-50
+1992-06-01,39.04,Bovine meat,Portugal,0-50
+1992-06-01,104.3,Adult cattle,Ireland,100-150
+1992-06-01,0.1,Calf and young cattle,Ireland,0-50
+1992-06-01,104.4,Bovine meat,Ireland,100-150
+1992-07-01,119.1,Adult cattle,Ireland,100-150
+1992-07-01,6.58,Calf and young cattle,Portugal,0-50
+1992-07-01,44.77,Bovine meat,Portugal,0-50
+1992-07-01,38.19,Adult cattle,Portugal,0-50
+1992-07-01,119.2,Bovine meat,Ireland,100-150
+1992-07-01,0.1,Calf and young cattle,Ireland,0-50
+1992-08-01,54.23,Bovine meat,Portugal,50-100
+1992-08-01,45.67,Adult cattle,Portugal,0-50
+1992-08-01,8.57,Calf and young cattle,Portugal,0-50
+1992-08-01,121.8,Adult cattle,Ireland,100-150
+1992-08-01,0.1,Calf and young cattle,Ireland,0-50
+1992-08-01,121.9,Bovine meat,Ireland,100-150
+1992-09-01,212.3,Bovine meat,Ireland,200-250
+1992-09-01,51.21,Bovine meat,Portugal,50-100
+1992-09-01,8.07,Calf and young cattle,Portugal,0-50
+1992-09-01,43.14,Adult cattle,Portugal,0-50
+1992-10-01,260.7,Bovine meat,Ireland,250-280
+1992-10-01,7.54,Calf and young cattle,Portugal,0-50
+1992-10-01,44.28,Bovine meat,Portugal,0-50
+1992-10-01,36.74,Adult cattle,Portugal,0-50
+1992-11-01,201.0,Bovine meat,Ireland,200-250
+1992-11-01,7.11,Calf and young cattle,Portugal,0-50
+1992-11-01,39.3,Adult cattle,Portugal,0-50
+1992-11-01,46.4,Bovine meat,Portugal,0-50
+1992-12-01,117.4,Bovine meat,Ireland,100-150
+1992-12-01,50.86,Bovine meat,Portugal,50-100
+1992-12-01,42.31,Adult cattle,Portugal,0-50
+1992-12-01,8.55,Calf and young cattle,Portugal,0-50
+1993-01-01,114.9,Adult cattle,Ireland,100-150
+1993-01-01,6.65,Calf and young cattle,Portugal,0-50
+1993-01-01,38.05,Adult cattle,Portugal,0-50
+1993-01-01,44.7,Bovine meat,Portugal,0-50
+1993-02-01,111.7,Bovine meat,Ireland,100-150
+1993-02-01,5.93,Calf and young cattle,Portugal,0-50
+1993-02-01,39.04,Bovine meat,Portugal,0-50
+1993-02-01,33.11,Adult cattle,Portugal,0-50
+1993-03-01,6.9,Calf and young cattle,Portugal,0-50
+1993-03-01,45.66,Bovine meat,Portugal,0-50
+1993-03-01,38.76,Adult cattle,Portugal,0-50
+1993-03-01,126.4,Adult cattle,Ireland,100-150
+1993-04-01,148.5,Adult cattle,Ireland,100-150
+1993-04-01,37.01,Adult cattle,Portugal,0-50
+1993-04-01,6.2,Calf and young cattle,Portugal,0-50
+1993-04-01,43.21,Bovine meat,Portugal,0-50
+1993-05-01,35.69,Adult cattle,Portugal,0-50
+1993-05-01,41.5,Bovine meat,Portugal,0-50
+1993-05-01,97.9,Adult cattle,Ireland,50-100
+1993-05-01,98.0,Bovine meat,Ireland,50-100
+1993-05-01,5.81,Calf and young cattle,Portugal,0-50
+1993-05-01,0.1,Calf and young cattle,Ireland,0-50
+1993-06-01,0.1,Calf and young cattle,Ireland,0-50
+1993-06-01,107.9,Bovine meat,Ireland,100-150
+1993-06-01,6.01,Calf and young cattle,Portugal,0-50
+1993-06-01,39.8,Bovine meat,Portugal,0-50
+1993-06-01,33.79,Adult cattle,Portugal,0-50
+1993-06-01,107.8,Adult cattle,Ireland,100-150
+1993-07-01,36.08,Adult cattle,Portugal,0-50
+1993-07-01,42.26,Bovine meat,Portugal,0-50
+1993-07-01,114.7,Adult cattle,Ireland,100-150
+1993-07-01,6.18,Calf and young cattle,Portugal,0-50
+1993-08-01,49.71,Bovine meat,Portugal,0-50
+1993-08-01,42.42,Adult cattle,Portugal,0-50
+1993-08-01,7.29,Calf and young cattle,Portugal,0-50
+1993-08-01,127.0,Bovine meat,Ireland,100-150
+1993-09-01,154.5,Bovine meat,Ireland,150-200
+1993-09-01,6.14,Calf and young cattle,Portugal,0-50
+1993-09-01,41.02,Bovine meat,Portugal,0-50
+1993-09-01,34.88,Adult cattle,Portugal,0-50
+1993-10-01,171.0,Bovine meat,Ireland,150-200
+1993-10-01,5.42,Calf and young cattle,Portugal,0-50
+1993-10-01,35.65,Bovine meat,Portugal,0-50
+1993-10-01,30.23,Adult cattle,Portugal,0-50
+1993-11-01,37.3,Bovine meat,Portugal,0-50
+1993-11-01,31.81,Adult cattle,Portugal,0-50
+1993-11-01,5.48,Calf and young cattle,Portugal,0-50
+1993-11-01,215.3,Adult cattle,Ireland,200-250
+1993-12-01,5.72,Calf and young cattle,Portugal,0-50
+1993-12-01,30.52,Adult cattle,Portugal,0-50
+1993-12-01,36.24,Bovine meat,Portugal,0-50
+1993-12-01,110.5,Adult cattle,Ireland,100-150
+1994-01-01,33.71,Bovine meat,Portugal,0-50
+1994-01-01,5.32,Calf and young cattle,Portugal,0-50
+1994-01-01,28.39,Adult cattle,Portugal,0-50
+1994-01-01,92.5,Adult cattle,Ireland,50-100
+1994-01-01,0.1,Calf and young cattle,Ireland,0-50
+1994-01-01,92.6,Bovine meat,Ireland,50-100
+1994-02-01,24.7,Adult cattle,Portugal,0-50
+1994-02-01,28.84,Bovine meat,Portugal,0-50
+1994-02-01,4.15,Calf and young cattle,Portugal,0-50
+1994-02-01,84.8,Bovine meat,Ireland,50-100
+1994-03-01,29.13,Adult cattle,Portugal,0-50
+1994-03-01,33.98,Bovine meat,Portugal,0-50
+1994-03-01,143.2,Bovine meat,Ireland,100-150
+1994-03-01,4.86,Calf and young cattle,Portugal,0-50
+1994-04-01,142.0,Adult cattle,Ireland,100-150
+1994-04-01,3.16,Calf and young cattle,Portugal,0-50
+1994-04-01,28.1,Bovine meat,Portugal,0-50
+1994-04-01,24.94,Adult cattle,Portugal,0-50
+1994-05-01,4.09,Calf and young cattle,Portugal,0-50
+1994-05-01,32.97,Bovine meat,Portugal,0-50
+1994-05-01,28.88,Adult cattle,Portugal,0-50
+1994-05-01,72.5,Adult cattle,Ireland,50-100
+1994-05-01,72.6,Bovine meat,Ireland,50-100
+1994-05-01,0.1,Calf and young cattle,Ireland,0-50
+1994-06-01,4.62,Calf and young cattle,Portugal,0-50
+1994-06-01,29.74,Bovine meat,Portugal,0-50
+1994-06-01,25.11,Adult cattle,Portugal,0-50
+1994-06-01,87.1,Adult cattle,Ireland,50-100
+1994-07-01,30.2,Bovine meat,Portugal,0-50
+1994-07-01,4.64,Calf and young cattle,Portugal,0-50
+1994-07-01,25.56,Adult cattle,Portugal,0-50
+1994-07-01,84.0,Adult cattle,Ireland,50-100
+1994-08-01,0.2,Calf and young cattle,Ireland,0-50
+1994-08-01,123.9,Bovine meat,Ireland,100-150
+1994-08-01,123.7,Adult cattle,Ireland,100-150
+1994-08-01,33.24,Adult cattle,Portugal,0-50
+1994-08-01,39.02,Bovine meat,Portugal,0-50
+1994-08-01,5.78,Calf and young cattle,Portugal,0-50
+1994-09-01,0.1,Calf and young cattle,Ireland,0-50
+1994-09-01,158.6,Bovine meat,Ireland,150-200
+1994-09-01,158.5,Adult cattle,Ireland,150-200
+1994-09-01,26.92,Adult cattle,Portugal,0-50
+1994-09-01,31.67,Bovine meat,Portugal,0-50
+1994-09-01,4.75,Calf and young cattle,Portugal,0-50
+1994-10-01,0.1,Calf and young cattle,Ireland,0-50
+1994-10-01,160.6,Bovine meat,Ireland,150-200
+1994-10-01,160.5,Adult cattle,Ireland,150-200
+1994-10-01,4.47,Calf and young cattle,Portugal,0-50
+1994-10-01,27.35,Adult cattle,Portugal,0-50
+1994-10-01,31.82,Bovine meat,Portugal,0-50
+1994-11-01,4.27,Calf and young cattle,Portugal,0-50
+1994-11-01,181.7,Bovine meat,Ireland,150-200
+1994-11-01,0.1,Calf and young cattle,Ireland,0-50
+1994-11-01,30.16,Bovine meat,Portugal,0-50
+1994-11-01,25.89,Adult cattle,Portugal,0-50
+1994-11-01,181.6,Adult cattle,Ireland,150-200
+1994-12-01,105.3,Bovine meat,Ireland,100-150
+1994-12-01,4.59,Calf and young cattle,Portugal,0-50
+1994-12-01,26.39,Adult cattle,Portugal,0-50
+1994-12-01,30.98,Bovine meat,Portugal,0-50
+1995-01-01,122.4,Bovine meat,Ireland,100-150
+1995-01-01,5.4,Calf and young cattle,Portugal,0-50
+1995-01-01,30.94,Bovine meat,Portugal,0-50
+1995-01-01,25.53,Adult cattle,Portugal,0-50
+1995-02-01,123.2,Adult cattle,Ireland,100-150
+1995-02-01,4.3,Calf and young cattle,Portugal,0-50
+1995-02-01,26.54,Bovine meat,Portugal,0-50
+1995-02-01,22.24,Adult cattle,Portugal,0-50
+1995-03-01,152.0,Bovine meat,Ireland,150-200
+1995-03-01,4.95,Calf and young cattle,Portugal,0-50
+1995-03-01,25.61,Adult cattle,Portugal,0-50
+1995-03-01,30.56,Bovine meat,Portugal,0-50
+1995-04-01,4.9,Calf and young cattle,Portugal,0-50
+1995-04-01,142.2,Bovine meat,Ireland,100-150
+1995-04-01,29.18,Bovine meat,Portugal,0-50
+1995-04-01,24.29,Adult cattle,Portugal,0-50
+1995-05-01,35.07,Bovine meat,Portugal,0-50
+1995-05-01,118.2,Bovine meat,Ireland,100-150
+1995-05-01,29.08,Adult cattle,Portugal,0-50
+1995-05-01,5.99,Calf and young cattle,Portugal,0-50
+1995-06-01,31.17,Bovine meat,Portugal,0-50
+1995-06-01,25.99,Adult cattle,Portugal,0-50
+1995-06-01,5.18,Calf and young cattle,Portugal,0-50
+1995-06-01,88.9,Bovine meat,Ireland,50-100
+1995-07-01,29.23,Adult cattle,Portugal,0-50
+1995-07-01,83.6,Adult cattle,Ireland,50-100
+1995-07-01,35.35,Bovine meat,Portugal,0-50
+1995-07-01,6.12,Calf and young cattle,Portugal,0-50
+1995-08-01,129.0,Adult cattle,Ireland,100-150
+1995-08-01,41.06,Bovine meat,Portugal,0-50
+1995-08-01,8.67,Calf and young cattle,Portugal,0-50
+1995-08-01,32.4,Adult cattle,Portugal,0-50
+1995-09-01,5.84,Calf and young cattle,Portugal,0-50
+1995-09-01,32.98,Bovine meat,Portugal,0-50
+1995-09-01,27.14,Adult cattle,Portugal,0-50
+1995-09-01,139.3,Adult cattle,Ireland,100-150
+1995-10-01,164.9,Adult cattle,Ireland,150-200
+1995-10-01,29.07,Adult cattle,Portugal,0-50
+1995-10-01,6.57,Calf and young cattle,Portugal,0-50
+1995-10-01,35.63,Bovine meat,Portugal,0-50
+1995-11-01,174.0,Adult cattle,Ireland,150-200
+1995-11-01,5.54,Calf and young cattle,Portugal,0-50
+1995-11-01,27.8,Adult cattle,Portugal,0-50
+1995-11-01,33.33,Bovine meat,Portugal,0-50
+1995-12-01,76.1,Adult cattle,Ireland,50-100
+1995-12-01,34.37,Bovine meat,Portugal,0-50
+1995-12-01,26.92,Adult cattle,Portugal,0-50
+1995-12-01,7.46,Calf and young cattle,Portugal,0-50
+1996-01-01,36.31,Bovine meat,Portugal,0-50
+1996-01-01,30.26,Adult cattle,Portugal,0-50
+1996-01-01,6.05,Calf and young cattle,Portugal,0-50
+1996-01-01,118.2,Adult cattle,Ireland,100-150
+1996-02-01,32.54,Bovine meat,Portugal,0-50
+1996-02-01,27.38,Adult cattle,Portugal,0-50
+1996-02-01,5.17,Calf and young cattle,Portugal,0-50
+1996-02-01,146.3,Adult cattle,Ireland,100-150
+1996-03-01,30.73,Bovine meat,Portugal,0-50
+1996-03-01,24.24,Adult cattle,Portugal,0-50
+1996-03-01,6.49,Calf and young cattle,Portugal,0-50
+1996-03-01,0.2,Calf and young cattle,Ireland,0-50
+1996-03-01,116.3,Adult cattle,Ireland,100-150
+1996-03-01,116.5,Bovine meat,Ireland,100-150
+1996-04-01,15.62,Adult cattle,Portugal,0-50
+1996-04-01,20.51,Bovine meat,Portugal,0-50
+1996-04-01,104.9,Bovine meat,Ireland,100-150
+1996-04-01,104.6,Adult cattle,Ireland,100-150
+1996-04-01,0.3,Calf and young cattle,Ireland,0-50
+1996-04-01,4.89,Calf and young cattle,Portugal,0-50
+1996-05-01,147.0,Adult cattle,Ireland,100-150
+1996-05-01,147.4,Bovine meat,Ireland,100-150
+1996-05-01,0.4,Calf and young cattle,Ireland,0-50
+1996-05-01,5.18,Calf and young cattle,Portugal,0-50
+1996-05-01,24.34,Bovine meat,Portugal,0-50
+1996-05-01,19.16,Adult cattle,Portugal,0-50
+1996-06-01,20.15,Adult cattle,Portugal,0-50
+1996-06-01,88.7,Bovine meat,Ireland,50-100
+1996-06-01,0.1,Calf and young cattle,Ireland,0-50
+1996-06-01,88.6,Adult cattle,Ireland,50-100
+1996-06-01,5.31,Calf and young cattle,Portugal,0-50
+1996-06-01,25.46,Bovine meat,Portugal,0-50
+1996-07-01,7.84,Calf and young cattle,Portugal,0-50
+1996-07-01,37.99,Bovine meat,Portugal,0-50
+1996-07-01,30.15,Adult cattle,Portugal,0-50
+1996-07-01,117.2,Adult cattle,Ireland,100-150
+1996-07-01,117.4,Bovine meat,Ireland,100-150
+1996-07-01,0.2,Calf and young cattle,Ireland,0-50
+1996-08-01,35.82,Bovine meat,Portugal,0-50
+1996-08-01,29.13,Adult cattle,Portugal,0-50
+1996-08-01,6.69,Calf and young cattle,Portugal,0-50
+1996-08-01,0.3,Calf and young cattle,Ireland,0-50
+1996-08-01,151.0,Adult cattle,Ireland,150-200
+1996-08-01,151.3,Bovine meat,Ireland,150-200
+1996-09-01,7.56,Calf and young cattle,Portugal,0-50
+1996-09-01,34.87,Bovine meat,Portugal,0-50
+1996-09-01,27.31,Adult cattle,Portugal,0-50
+1996-09-01,144.8,Adult cattle,Ireland,100-150
+1996-09-01,145.3,Bovine meat,Ireland,100-150
+1996-09-01,0.5,Calf and young cattle,Ireland,0-50
+1996-10-01,0.3,Calf and young cattle,Ireland,0-50
+1996-10-01,222.0,Adult cattle,Ireland,200-250
+1996-10-01,28.09,Adult cattle,Portugal,0-50
+1996-10-01,7.75,Calf and young cattle,Portugal,0-50
+1996-10-01,35.84,Bovine meat,Portugal,0-50
+1996-10-01,222.3,Bovine meat,Ireland,200-250
+1996-11-01,183.1,Adult cattle,Ireland,150-200
+1996-11-01,0.2,Calf and young cattle,Ireland,0-50
+1996-11-01,183.3,Bovine meat,Ireland,150-200
+1996-11-01,31.1,Bovine meat,Portugal,0-50
+1996-11-01,6.75,Calf and young cattle,Portugal,0-50
+1996-11-01,24.36,Adult cattle,Portugal,0-50
+1996-12-01,0.1,Calf and young cattle,Ireland,0-50
+1996-12-01,108.1,Bovine meat,Ireland,100-150
+1996-12-01,108.0,Adult cattle,Ireland,100-150
+1996-12-01,26.84,Adult cattle,Portugal,0-50
+1996-12-01,36.99,Bovine meat,Portugal,0-50
+1996-12-01,10.15,Calf and young cattle,Portugal,0-50
+1997-01-01,7.29,Calf and young cattle,Portugal,0-50
+1997-01-01,170.6,Bovine meat,Ireland,150-200
+1997-01-01,170.5,Adult cattle,Ireland,150-200
+1997-01-01,0.1,Calf and young cattle,Ireland,0-50
+1997-01-01,28.36,Adult cattle,Portugal,0-50
+1997-01-01,35.65,Bovine meat,Portugal,0-50
+1997-02-01,4.7,Calf and young cattle,Ireland,0-50
+1997-02-01,153.9,Bovine meat,Ireland,150-200
+1997-02-01,30.95,Bovine meat,Portugal,0-50
+1997-02-01,6.75,Calf and young cattle,Portugal,0-50
+1997-02-01,149.2,Adult cattle,Ireland,100-150
+1997-02-01,24.2,Adult cattle,Portugal,0-50
+1997-03-01,7.3,Calf and young cattle,Ireland,0-50
+1997-03-01,160.8,Bovine meat,Ireland,150-200
+1997-03-01,25.87,Adult cattle,Portugal,0-50
+1997-03-01,7.35,Calf and young cattle,Portugal,0-50
+1997-03-01,33.22,Bovine meat,Portugal,0-50
+1997-03-01,153.5,Adult cattle,Ireland,150-200
+1997-04-01,8.57,Calf and young cattle,Portugal,0-50
+1997-04-01,35.69,Bovine meat,Portugal,0-50
+1997-04-01,27.12,Adult cattle,Portugal,0-50
+1997-04-01,164.8,Bovine meat,Ireland,150-200
+1997-04-01,4.5,Calf and young cattle,Ireland,0-50
+1997-04-01,160.3,Adult cattle,Ireland,150-200
+1997-05-01,36.18,Bovine meat,Portugal,0-50
+1997-05-01,2.1,Calf and young cattle,Ireland,0-50
+1997-05-01,143.9,Bovine meat,Ireland,100-150
+1997-05-01,28.67,Adult cattle,Portugal,0-50
+1997-05-01,7.52,Calf and young cattle,Portugal,0-50
+1997-05-01,141.8,Adult cattle,Ireland,100-150
+1997-06-01,104.7,Adult cattle,Ireland,100-150
+1997-06-01,36.75,Bovine meat,Portugal,0-50
+1997-06-01,105.5,Bovine meat,Ireland,100-150
+1997-06-01,28.95,Adult cattle,Portugal,0-50
+1997-06-01,7.8,Calf and young cattle,Portugal,0-50
+1997-06-01,0.8,Calf and young cattle,Ireland,0-50
+1997-07-01,125.5,Adult cattle,Ireland,100-150
+1997-07-01,126.1,Bovine meat,Ireland,100-150
+1997-07-01,42.65,Bovine meat,Portugal,0-50
+1997-07-01,9.99,Calf and young cattle,Portugal,0-50
+1997-07-01,0.6,Calf and young cattle,Ireland,0-50
+1997-07-01,32.66,Adult cattle,Portugal,0-50
+1997-08-01,29.56,Adult cattle,Portugal,0-50
+1997-08-01,40.3,Bovine meat,Portugal,0-50
+1997-08-01,0.2,Calf and young cattle,Ireland,0-50
+1997-08-01,130.4,Adult cattle,Ireland,100-150
+1997-08-01,130.6,Bovine meat,Ireland,100-150
+1997-08-01,10.74,Calf and young cattle,Portugal,0-50
+1997-09-01,0.5,Calf and young cattle,Ireland,0-50
+1997-09-01,9.82,Calf and young cattle,Portugal,0-50
+1997-09-01,173.5,Adult cattle,Ireland,150-200
+1997-09-01,29.71,Adult cattle,Portugal,0-50
+1997-09-01,39.52,Bovine meat,Portugal,0-50
+1997-09-01,174.0,Bovine meat,Ireland,150-200
+1997-10-01,8.77,Calf and young cattle,Portugal,0-50
+1997-10-01,27.18,Adult cattle,Portugal,0-50
+1997-10-01,178.4,Adult cattle,Ireland,150-200
+1997-10-01,0.4,Calf and young cattle,Ireland,0-50
+1997-10-01,178.8,Bovine meat,Ireland,150-200
+1997-10-01,35.95,Bovine meat,Portugal,0-50
+1997-11-01,176.1,Adult cattle,Ireland,150-200
+1997-11-01,176.3,Bovine meat,Ireland,150-200
+1997-11-01,34.36,Bovine meat,Portugal,0-50
+1997-11-01,9.56,Calf and young cattle,Portugal,0-50
+1997-11-01,24.8,Adult cattle,Portugal,0-50
+1997-11-01,0.2,Calf and young cattle,Ireland,0-50
+1997-12-01,114.8,Bovine meat,Ireland,100-150
+1997-12-01,0.1,Calf and young cattle,Ireland,0-50
+1997-12-01,114.7,Adult cattle,Ireland,100-150
+1997-12-01,25.47,Adult cattle,Portugal,0-50
+1997-12-01,11.96,Calf and young cattle,Portugal,0-50
+1997-12-01,37.43,Bovine meat,Portugal,0-50
+1998-01-01,22.67,Adult cattle,Portugal,0-50
+1998-01-01,7.85,Calf and young cattle,Portugal,0-50
+1998-01-01,30.52,Bovine meat,Portugal,0-50
+1998-01-01,184.2,Bovine meat,Ireland,150-200
+1998-01-01,0.5,Calf and young cattle,Ireland,0-50
+1998-01-01,183.7,Adult cattle,Ireland,150-200
+1998-02-01,20.52,Adult cattle,Portugal,0-50
+1998-02-01,28.54,Bovine meat,Portugal,0-50
+1998-02-01,1.0,Calf and young cattle,Ireland,0-50
+1998-02-01,164.7,Bovine meat,Ireland,150-200
+1998-02-01,163.7,Adult cattle,Ireland,150-200
+1998-02-01,8.02,Calf and young cattle,Portugal,0-50
+1998-03-01,183.5,Adult cattle,Ireland,150-200
+1998-03-01,31.38,Bovine meat,Portugal,0-50
+1998-03-01,22.76,Adult cattle,Portugal,0-50
+1998-03-01,184.9,Bovine meat,Ireland,150-200
+1998-03-01,8.61,Calf and young cattle,Portugal,0-50
+1998-03-01,1.4,Calf and young cattle,Ireland,0-50
+1998-04-01,1.0,Calf and young cattle,Ireland,0-50
+1998-04-01,178.7,Adult cattle,Ireland,150-200
+1998-04-01,179.7,Bovine meat,Ireland,150-200
+1998-04-01,19.62,Adult cattle,Portugal,0-50
+1998-04-01,30.79,Bovine meat,Portugal,0-50
+1998-04-01,11.16,Calf and young cattle,Portugal,0-50
+1998-05-01,118.9,Adult cattle,Ireland,100-150
+1998-05-01,119.8,Bovine meat,Ireland,100-150
+1998-05-01,0.9,Calf and young cattle,Ireland,0-50
+1998-05-01,9.04,Calf and young cattle,Portugal,0-50
+1998-05-01,29.56,Bovine meat,Portugal,0-50
+1998-05-01,20.52,Adult cattle,Portugal,0-50
+1998-06-01,112.6,Adult cattle,Ireland,100-150
+1998-06-01,113.1,Bovine meat,Ireland,100-150
+1998-06-01,0.5,Calf and young cattle,Ireland,0-50
+1998-06-01,10.18,Calf and young cattle,Portugal,0-50
+1998-06-01,33.58,Bovine meat,Portugal,0-50
+1998-06-01,23.4,Adult cattle,Portugal,0-50
+1998-07-01,143.4,Bovine meat,Ireland,100-150
+1998-07-01,0.3,Calf and young cattle,Ireland,0-50
+1998-07-01,10.63,Calf and young cattle,Portugal,0-50
+1998-07-01,25.1,Adult cattle,Portugal,0-50
+1998-07-01,35.74,Bovine meat,Portugal,0-50
+1998-07-01,143.1,Adult cattle,Ireland,100-150
+1998-08-01,36.72,Bovine meat,Portugal,0-50
+1998-08-01,24.57,Adult cattle,Portugal,0-50
+1998-08-01,12.15,Calf and young cattle,Portugal,0-50
+1998-08-01,0.4,Calf and young cattle,Ireland,0-50
+1998-08-01,143.8,Adult cattle,Ireland,100-150
+1998-08-01,144.2,Bovine meat,Ireland,100-150
+1998-09-01,0.2,Calf and young cattle,Ireland,0-50
+1998-09-01,33.11,Bovine meat,Portugal,0-50
+1998-09-01,152.5,Adult cattle,Ireland,150-200
+1998-09-01,23.21,Adult cattle,Portugal,0-50
+1998-09-01,9.9,Calf and young cattle,Portugal,0-50
+1998-09-01,152.7,Bovine meat,Ireland,150-200
+1998-10-01,0.1,Calf and young cattle,Ireland,0-50
+1998-10-01,171.3,Bovine meat,Ireland,150-200
+1998-10-01,171.2,Adult cattle,Ireland,150-200
+1998-10-01,18.96,Adult cattle,Portugal,0-50
+1998-10-01,28.84,Bovine meat,Portugal,0-50
+1998-10-01,9.87,Calf and young cattle,Portugal,0-50
+1998-11-01,0.4,Calf and young cattle,Ireland,0-50
+1998-11-01,207.6,Adult cattle,Ireland,200-250
+1998-11-01,208.0,Bovine meat,Ireland,200-250
+1998-11-01,31.01,Bovine meat,Portugal,0-50
+1998-11-01,21.59,Adult cattle,Portugal,0-50
+1998-11-01,9.42,Calf and young cattle,Portugal,0-50
+1998-12-01,155.9,Bovine meat,Ireland,150-200
+1998-12-01,0.3,Calf and young cattle,Ireland,0-50
+1998-12-01,155.6,Adult cattle,Ireland,150-200
+1998-12-01,20.6,Adult cattle,Portugal,0-50
+1998-12-01,11.5,Calf and young cattle,Portugal,0-50
+1998-12-01,32.1,Bovine meat,Portugal,0-50
+1999-01-01,19.8,Adult cattle,Portugal,0-50
+1999-01-01,189.4,Adult cattle,Ireland,150-200
+1999-01-01,0.4,Calf and young cattle,Ireland,0-50
+1999-01-01,189.8,Bovine meat,Ireland,150-200
+1999-01-01,29.11,Bovine meat,Portugal,0-50
+1999-01-01,9.31,Calf and young cattle,Portugal,0-50
+1999-02-01,9.21,Calf and young cattle,Portugal,0-50
+1999-02-01,18.17,Adult cattle,Portugal,0-50
+1999-02-01,27.37,Bovine meat,Portugal,0-50
+1999-02-01,179.9,Bovine meat,Ireland,150-200
+1999-02-01,177.9,Adult cattle,Ireland,150-200
+1999-02-01,2.0,Calf and young cattle,Ireland,0-50
+1999-03-01,11.56,Calf and young cattle,Portugal,0-50
+1999-03-01,31.81,Bovine meat,Portugal,0-50
+1999-03-01,7.8,Calf and young cattle,Ireland,0-50
+1999-03-01,190.7,Adult cattle,Ireland,150-200
+1999-03-01,20.25,Adult cattle,Portugal,0-50
+1999-03-01,198.5,Bovine meat,Ireland,150-200
+1999-04-01,20.55,Adult cattle,Portugal,0-50
+1999-04-01,9.67,Calf and young cattle,Portugal,0-50
+1999-04-01,30.22,Bovine meat,Portugal,0-50
+1999-04-01,160.8,Adult cattle,Ireland,150-200
+1999-04-01,4.6,Calf and young cattle,Ireland,0-50
+1999-04-01,165.4,Bovine meat,Ireland,150-200
+1999-05-01,2.7,Calf and young cattle,Ireland,0-50
+1999-05-01,150.5,Adult cattle,Ireland,150-200
+1999-05-01,34.62,Bovine meat,Portugal,0-50
+1999-05-01,11.25,Calf and young cattle,Portugal,0-50
+1999-05-01,23.37,Adult cattle,Portugal,0-50
+1999-05-01,153.2,Bovine meat,Ireland,150-200
+1999-06-01,32.11,Bovine meat,Portugal,0-50
+1999-06-01,150.0,Adult cattle,Ireland,150-200
+1999-06-01,151.1,Bovine meat,Ireland,150-200
+1999-06-01,10.44,Calf and young cattle,Portugal,0-50
+1999-06-01,1.1,Calf and young cattle,Ireland,0-50
+1999-06-01,21.67,Adult cattle,Portugal,0-50
+1999-07-01,147.8,Bovine meat,Ireland,100-150
+1999-07-01,0.6,Calf and young cattle,Ireland,0-50
+1999-07-01,147.2,Adult cattle,Ireland,100-150
+1999-07-01,10.23,Calf and young cattle,Portugal,0-50
+1999-07-01,33.01,Bovine meat,Portugal,0-50
+1999-07-01,22.78,Adult cattle,Portugal,0-50
+1999-08-01,27.3,Adult cattle,Portugal,0-50
+1999-08-01,0.6,Calf and young cattle,Ireland,0-50
+1999-08-01,15.09,Calf and young cattle,Portugal,0-50
+1999-08-01,171.3,Adult cattle,Ireland,150-200
+1999-08-01,171.9,Bovine meat,Ireland,150-200
+1999-08-01,42.39,Bovine meat,Portugal,0-50
+1999-09-01,11.32,Calf and young cattle,Portugal,0-50
+1999-09-01,24.48,Adult cattle,Portugal,0-50
+1999-09-01,35.8,Bovine meat,Portugal,0-50
+1999-09-01,199.9,Bovine meat,Ireland,150-200
+1999-09-01,199.1,Adult cattle,Ireland,150-200
+1999-09-01,0.8,Calf and young cattle,Ireland,0-50
+1999-10-01,11.06,Calf and young cattle,Portugal,0-50
+1999-10-01,202.2,Adult cattle,Ireland,200-250
+1999-10-01,33.88,Bovine meat,Portugal,0-50
+1999-10-01,22.82,Adult cattle,Portugal,0-50
+1999-10-01,0.9,Calf and young cattle,Ireland,0-50
+1999-10-01,203.1,Bovine meat,Ireland,200-250
+1999-11-01,22.36,Adult cattle,Portugal,0-50
+1999-11-01,0.8,Calf and young cattle,Ireland,0-50
+1999-11-01,32.84,Bovine meat,Portugal,0-50
+1999-11-01,212.9,Adult cattle,Ireland,200-250
+1999-11-01,213.7,Bovine meat,Ireland,200-250
+1999-11-01,10.48,Calf and young cattle,Portugal,0-50
+1999-12-01,12.99,Calf and young cattle,Portugal,0-50
+1999-12-01,35.21,Bovine meat,Portugal,0-50
+1999-12-01,22.22,Adult cattle,Portugal,0-50
+1999-12-01,158.7,Bovine meat,Ireland,150-200
+1999-12-01,157.9,Adult cattle,Ireland,150-200
+1999-12-01,0.8,Calf and young cattle,Ireland,0-50
+2000-01-01,34.67,Bovine meat,Portugal,0-50
+2000-01-01,23.16,Adult cattle,Portugal,0-50
+2000-01-01,11.5,Calf and young cattle,Portugal,0-50
+2000-01-01,118.9,Adult cattle,Ireland,100-150
+2000-01-01,119.1,Bovine meat,Ireland,100-150
+2000-01-01,0.2,Calf and young cattle,Ireland,0-50
+2000-02-01,0.4,Calf and young cattle,Ireland,0-50
+2000-02-01,20.79,Adult cattle,Portugal,0-50
+2000-02-01,31.49,Bovine meat,Portugal,0-50
+2000-02-01,10.7,Calf and young cattle,Portugal,0-50
+2000-02-01,193.0,Adult cattle,Ireland,150-200
+2000-02-01,193.4,Bovine meat,Ireland,150-200
+2000-03-01,205.7,Bovine meat,Ireland,200-250
+2000-03-01,1.0,Calf and young cattle,Ireland,0-50
+2000-03-01,11.65,Calf and young cattle,Portugal,0-50
+2000-03-01,33.52,Bovine meat,Portugal,0-50
+2000-03-01,204.7,Adult cattle,Ireland,200-250
+2000-03-01,21.86,Adult cattle,Portugal,0-50
+2000-04-01,30.78,Bovine meat,Portugal,0-50
+2000-04-01,19.67,Adult cattle,Portugal,0-50
+2000-04-01,166.2,Adult cattle,Ireland,150-200
+2000-04-01,166.8,Bovine meat,Ireland,150-200
+2000-04-01,0.6,Calf and young cattle,Ireland,0-50
+2000-04-01,11.11,Calf and young cattle,Portugal,0-50
+2000-05-01,162.5,Adult cattle,Ireland,150-200
+2000-05-01,163.2,Bovine meat,Ireland,150-200
+2000-05-01,11.39,Calf and young cattle,Portugal,0-50
+2000-05-01,25.56,Adult cattle,Portugal,0-50
+2000-05-01,36.95,Bovine meat,Portugal,0-50
+2000-05-01,0.7,Calf and young cattle,Ireland,0-50
+2000-06-01,24.37,Adult cattle,Portugal,0-50
+2000-06-01,35.03,Bovine meat,Portugal,0-50
+2000-06-01,0.3,Calf and young cattle,Ireland,0-50
+2000-06-01,139.3,Adult cattle,Ireland,100-150
+2000-06-01,139.6,Bovine meat,Ireland,100-150
+2000-06-01,10.66,Calf and young cattle,Portugal,0-50
+2000-07-01,0.3,Calf and young cattle,Ireland,0-50
+2000-07-01,117.1,Adult cattle,Ireland,100-150
+2000-07-01,26.99,Adult cattle,Portugal,0-50
+2000-07-01,12.1,Calf and young cattle,Portugal,0-50
+2000-07-01,39.08,Bovine meat,Portugal,0-50
+2000-07-01,117.4,Bovine meat,Ireland,100-150
+2000-08-01,160.6,Adult cattle,Ireland,150-200
+2000-08-01,160.8,Bovine meat,Ireland,150-200
+2000-08-01,43.56,Bovine meat,Portugal,0-50
+2000-08-01,28.9,Adult cattle,Portugal,0-50
+2000-08-01,0.2,Calf and young cattle,Ireland,0-50
+2000-08-01,14.67,Calf and young cattle,Portugal,0-50
+2000-09-01,11.27,Calf and young cattle,Portugal,0-50
+2000-09-01,35.98,Bovine meat,Portugal,0-50
+2000-09-01,24.71,Adult cattle,Portugal,0-50
+2000-09-01,179.8,Adult cattle,Ireland,150-200
+2000-09-01,0.2,Calf and young cattle,Ireland,0-50
+2000-09-01,180.0,Bovine meat,Ireland,150-200
+2000-10-01,184.3,Bovine meat,Ireland,150-200
+2000-10-01,0.1,Calf and young cattle,Ireland,0-50
+2000-10-01,184.2,Adult cattle,Ireland,150-200
+2000-10-01,38.19,Bovine meat,Portugal,0-50
+2000-10-01,12.9,Calf and young cattle,Portugal,0-50
+2000-10-01,25.3,Adult cattle,Portugal,0-50
+2000-11-01,18.23,Adult cattle,Portugal,0-50
+2000-11-01,27.98,Bovine meat,Portugal,0-50
+2000-11-01,171.9,Bovine meat,Ireland,150-200
+2000-11-01,9.75,Calf and young cattle,Portugal,0-50
+2000-12-01,31.57,Bovine meat,Portugal,0-50
+2000-12-01,83.4,Adult cattle,Ireland,50-100
+2000-12-01,83.5,Bovine meat,Ireland,50-100
+2000-12-01,0.1,Calf and young cattle,Ireland,0-50
+2000-12-01,11.81,Calf and young cattle,Portugal,0-50
+2000-12-01,19.76,Adult cattle,Portugal,0-50
+2001-01-01,18.81,Adult cattle,Portugal,0-50
+2001-01-01,11.61,Calf and young cattle,Portugal,0-50
+2001-01-01,30.42,Bovine meat,Portugal,0-50
+2001-01-01,96.9,Bovine meat,Ireland,50-100
+2001-01-01,0.1,Calf and young cattle,Ireland,0-50
+2001-01-01,96.8,Adult cattle,Ireland,50-100
+2001-02-01,79.7,Adult cattle,Ireland,50-100
+2001-02-01,0.6,Calf and young cattle,Ireland,0-50
+2001-02-01,80.3,Bovine meat,Ireland,50-100
+2001-02-01,26.22,Bovine meat,Portugal,0-50
+2001-02-01,9.53,Calf and young cattle,Portugal,0-50
+2001-02-01,16.69,Adult cattle,Portugal,0-50
+2001-03-01,16.61,Adult cattle,Portugal,0-50
+2001-03-01,112.4,Bovine meat,Ireland,100-150
+2001-03-01,111.7,Adult cattle,Ireland,100-150
+2001-03-01,0.7,Calf and young cattle,Ireland,0-50
+2001-03-01,9.58,Calf and young cattle,Portugal,0-50
+2001-03-01,26.19,Bovine meat,Portugal,0-50
+2001-04-01,11.32,Calf and young cattle,Portugal,0-50
+2001-04-01,18.86,Adult cattle,Portugal,0-50
+2001-04-01,30.17,Bovine meat,Portugal,0-50
+2001-04-01,98.1,Bovine meat,Ireland,50-100
+2001-04-01,0.5,Calf and young cattle,Ireland,0-50
+2001-04-01,97.6,Adult cattle,Ireland,50-100
+2001-05-01,30.97,Bovine meat,Portugal,0-50
+2001-05-01,110.9,Bovine meat,Ireland,100-150
+2001-05-01,0.2,Calf and young cattle,Ireland,0-50
+2001-05-01,110.7,Adult cattle,Ireland,100-150
+2001-05-01,19.29,Adult cattle,Portugal,0-50
+2001-05-01,11.68,Calf and young cattle,Portugal,0-50
+2001-06-01,11.81,Calf and young cattle,Portugal,0-50
+2001-06-01,30.03,Bovine meat,Portugal,0-50
+2001-06-01,18.22,Adult cattle,Portugal,0-50
+2001-06-01,0.4,Calf and young cattle,Ireland,0-50
+2001-06-01,114.7,Bovine meat,Ireland,100-150
+2001-06-01,114.3,Adult cattle,Ireland,100-150
+2001-07-01,22.09,Adult cattle,Portugal,0-50
+2001-07-01,14.34,Calf and young cattle,Portugal,0-50
+2001-07-01,137.4,Bovine meat,Ireland,100-150
+2001-07-01,137.3,Adult cattle,Ireland,100-150
+2001-07-01,0.1,Calf and young cattle,Ireland,0-50
+2001-07-01,36.43,Bovine meat,Portugal,0-50
+2001-08-01,166.7,Adult cattle,Ireland,150-200
+2001-08-01,167.0,Bovine meat,Ireland,150-200
+2001-08-01,14.41,Calf and young cattle,Portugal,0-50
+2001-08-01,37.5,Bovine meat,Portugal,0-50
+2001-08-01,23.09,Adult cattle,Portugal,0-50
+2001-08-01,0.3,Calf and young cattle,Ireland,0-50
+2001-09-01,19.65,Adult cattle,Portugal,0-50
+2001-09-01,12.18,Calf and young cattle,Portugal,0-50
+2001-09-01,31.83,Bovine meat,Portugal,0-50
+2001-09-01,159.7,Bovine meat,Ireland,150-200
+2001-09-01,0.3,Calf and young cattle,Ireland,0-50
+2001-09-01,159.4,Adult cattle,Ireland,150-200
+2001-10-01,188.9,Adult cattle,Ireland,150-200
+2001-10-01,189.2,Bovine meat,Ireland,150-200
+2001-10-01,0.3,Calf and young cattle,Ireland,0-50
+2001-10-01,13.93,Calf and young cattle,Portugal,0-50
+2001-10-01,24.59,Adult cattle,Portugal,0-50
+2001-10-01,38.52,Bovine meat,Portugal,0-50
+2001-11-01,34.37,Bovine meat,Portugal,0-50
+2001-11-01,22.57,Adult cattle,Portugal,0-50
+2001-11-01,0.1,Calf and young cattle,Ireland,0-50
+2001-11-01,213.3,Bovine meat,Ireland,200-250
+2001-11-01,213.2,Adult cattle,Ireland,200-250
+2001-11-01,11.8,Calf and young cattle,Portugal,0-50
+2001-12-01,24.44,Adult cattle,Portugal,0-50
+2001-12-01,15.26,Calf and young cattle,Portugal,0-50
+2001-12-01,39.7,Bovine meat,Portugal,0-50
+2001-12-01,0.2,Calf and young cattle,Ireland,0-50
+2001-12-01,135.7,Bovine meat,Ireland,100-150
+2001-12-01,135.5,Adult cattle,Ireland,100-150
+2002-01-01,37.93,Bovine meat,Portugal,0-50
+2002-01-01,12.61,Calf and young cattle,Portugal,0-50
+2002-01-01,168.8,Bovine meat,Ireland,150-200
+2002-01-01,168.6,Adult cattle,Ireland,150-200
+2002-01-01,25.32,Adult cattle,Portugal,0-50
+2002-01-01,0.2,Calf and young cattle,Ireland,0-50
+2002-02-01,133.3,Adult cattle,Ireland,100-150
+2002-02-01,134.0,Bovine meat,Ireland,100-150
+2002-02-01,0.7,Calf and young cattle,Ireland,0-50
+2002-02-01,11.73,Calf and young cattle,Portugal,0-50
+2002-02-01,32.28,Bovine meat,Portugal,0-50
+2002-02-01,20.55,Adult cattle,Portugal,0-50
+2002-03-01,21.39,Adult cattle,Portugal,0-50
+2002-03-01,12.26,Calf and young cattle,Portugal,0-50
+2002-03-01,121.7,Adult cattle,Ireland,100-150
+2002-03-01,122.9,Bovine meat,Ireland,100-150
+2002-03-01,1.2,Calf and young cattle,Ireland,0-50
+2002-03-01,33.65,Bovine meat,Portugal,0-50
+2002-04-01,13.85,Calf and young cattle,Portugal,0-50
+2002-04-01,138.1,Adult cattle,Ireland,100-150
+2002-04-01,0.9,Calf and young cattle,Ireland,0-50
+2002-04-01,37.78,Bovine meat,Portugal,0-50
+2002-04-01,23.93,Adult cattle,Portugal,0-50
+2002-04-01,139.0,Bovine meat,Ireland,100-150
+2002-05-01,142.2,Bovine meat,Ireland,100-150
+2002-05-01,23.89,Adult cattle,Portugal,0-50
+2002-05-01,0.5,Calf and young cattle,Ireland,0-50
+2002-05-01,12.24,Calf and young cattle,Portugal,0-50
+2002-05-01,141.7,Adult cattle,Ireland,100-150
+2002-05-01,36.13,Bovine meat,Portugal,0-50
+2002-06-01,10.69,Calf and young cattle,Portugal,0-50
+2002-06-01,32.02,Bovine meat,Portugal,0-50
+2002-06-01,21.34,Adult cattle,Portugal,0-50
+2002-06-01,112.5,Adult cattle,Ireland,100-150
+2002-06-01,113.0,Bovine meat,Ireland,100-150
+2002-06-01,0.5,Calf and young cattle,Ireland,0-50
+2002-07-01,40.08,Bovine meat,Portugal,0-50
+2002-07-01,13.65,Calf and young cattle,Portugal,0-50
+2002-07-01,0.3,Calf and young cattle,Ireland,0-50
+2002-07-01,150.6,Bovine meat,Ireland,150-200
+2002-07-01,150.3,Adult cattle,Ireland,150-200
+2002-07-01,26.43,Adult cattle,Portugal,0-50
+2002-08-01,144.5,Bovine meat,Ireland,100-150
+2002-08-01,13.82,Calf and young cattle,Portugal,0-50
+2002-08-01,38.84,Bovine meat,Portugal,0-50
+2002-08-01,25.02,Adult cattle,Portugal,0-50
+2002-08-01,144.0,Adult cattle,Ireland,100-150
+2002-08-01,0.5,Calf and young cattle,Ireland,0-50
+2002-09-01,167.3,Bovine meat,Ireland,150-200
+2002-09-01,24.15,Adult cattle,Portugal,0-50
+2002-09-01,37.69,Bovine meat,Portugal,0-50
+2002-09-01,13.54,Calf and young cattle,Portugal,0-50
+2002-09-01,167.2,Adult cattle,Ireland,150-200
+2002-09-01,0.1,Calf and young cattle,Ireland,0-50
+2002-10-01,0.6,Calf and young cattle,Ireland,0-50
+2002-10-01,182.2,Adult cattle,Ireland,150-200
+2002-10-01,12.65,Calf and young cattle,Portugal,0-50
+2002-10-01,182.8,Bovine meat,Ireland,150-200
+2002-10-01,37.41,Bovine meat,Portugal,0-50
+2002-10-01,24.76,Adult cattle,Portugal,0-50
+2002-11-01,11.9,Calf and young cattle,Portugal,0-50
+2002-11-01,21.65,Adult cattle,Portugal,0-50
+2002-11-01,182.5,Bovine meat,Ireland,150-200
+2002-11-01,182.3,Adult cattle,Ireland,150-200
+2002-11-01,0.2,Calf and young cattle,Ireland,0-50
+2002-11-01,33.55,Bovine meat,Portugal,0-50
+2002-12-01,23.4,Adult cattle,Portugal,0-50
+2002-12-01,15.36,Calf and young cattle,Portugal,0-50
+2002-12-01,134.1,Bovine meat,Ireland,100-150
+2002-12-01,133.8,Adult cattle,Ireland,100-150
+2002-12-01,0.3,Calf and young cattle,Ireland,0-50
+2002-12-01,38.76,Bovine meat,Portugal,0-50
+2003-01-01,157.6,Adult cattle,Ireland,150-200
+2003-01-01,0.2,Calf and young cattle,Ireland,0-50
+2003-01-01,157.8,Bovine meat,Ireland,150-200
+2003-01-01,35.71,Bovine meat,Portugal,0-50
+2003-01-01,12.6,Calf and young cattle,Portugal,0-50
+2003-01-01,23.1,Adult cattle,Portugal,0-50
+2003-02-01,0.4,Calf and young cattle,Ireland,0-50
+2003-02-01,11.69,Calf and young cattle,Portugal,0-50
+2003-02-01,32.5,Bovine meat,Portugal,0-50
+2003-02-01,143.7,Adult cattle,Ireland,100-150
+2003-02-01,144.1,Bovine meat,Ireland,100-150
+2003-02-01,20.8,Adult cattle,Portugal,0-50
+2003-03-01,24.3,Adult cattle,Portugal,0-50
+2003-03-01,13.18,Calf and young cattle,Portugal,0-50
+2003-03-01,37.48,Bovine meat,Portugal,0-50
+2003-03-01,134.1,Adult cattle,Ireland,100-150
+2003-03-01,0.6,Calf and young cattle,Ireland,0-50
+2003-03-01,134.7,Bovine meat,Ireland,100-150
+2003-04-01,24.29,Adult cattle,Portugal,0-50
+2003-04-01,37.28,Bovine meat,Portugal,0-50
+2003-04-01,153.5,Bovine meat,Ireland,150-200
+2003-04-01,152.9,Adult cattle,Ireland,150-200
+2003-04-01,12.99,Calf and young cattle,Portugal,0-50
+2003-04-01,0.6,Calf and young cattle,Ireland,0-50
+2003-05-01,34.55,Bovine meat,Portugal,0-50
+2003-05-01,22.66,Adult cattle,Portugal,0-50
+2003-05-01,0.6,Calf and young cattle,Ireland,0-50
+2003-05-01,140.6,Bovine meat,Ireland,100-150
+2003-05-01,11.9,Calf and young cattle,Portugal,0-50
+2003-05-01,140.0,Adult cattle,Ireland,100-150
+2003-06-01,23.28,Adult cattle,Portugal,0-50
+2003-06-01,35.29,Bovine meat,Portugal,0-50
+2003-06-01,127.8,Bovine meat,Ireland,100-150
+2003-06-01,0.3,Calf and young cattle,Ireland,0-50
+2003-06-01,127.5,Adult cattle,Ireland,100-150
+2003-06-01,12.01,Calf and young cattle,Portugal,0-50
+2003-07-01,25.03,Adult cattle,Portugal,0-50
+2003-07-01,0.2,Calf and young cattle,Ireland,0-50
+2003-07-01,37.97,Bovine meat,Portugal,0-50
+2003-07-01,157.1,Adult cattle,Ireland,150-200
+2003-07-01,157.3,Bovine meat,Ireland,150-200
+2003-07-01,12.95,Calf and young cattle,Portugal,0-50
+2003-08-01,12.54,Calf and young cattle,Portugal,0-50
+2003-08-01,35.4,Bovine meat,Portugal,0-50
+2003-08-01,152.5,Bovine meat,Ireland,150-200
+2003-08-01,0.2,Calf and young cattle,Ireland,0-50
+2003-08-01,152.3,Adult cattle,Ireland,150-200
+2003-08-01,22.86,Adult cattle,Portugal,0-50
+2003-09-01,37.42,Bovine meat,Portugal,0-50
+2003-09-01,24.73,Adult cattle,Portugal,0-50
+2003-09-01,182.8,Adult cattle,Ireland,150-200
+2003-09-01,183.1,Bovine meat,Ireland,150-200
+2003-09-01,0.3,Calf and young cattle,Ireland,0-50
+2003-09-01,12.69,Calf and young cattle,Portugal,0-50
+2003-10-01,194.4,Adult cattle,Ireland,150-200
+2003-10-01,12.26,Calf and young cattle,Portugal,0-50
+2003-10-01,194.6,Bovine meat,Ireland,150-200
+2003-10-01,24.14,Adult cattle,Portugal,0-50
+2003-10-01,0.2,Calf and young cattle,Ireland,0-50
+2003-10-01,36.4,Bovine meat,Portugal,0-50
+2003-11-01,33.19,Bovine meat,Portugal,0-50
+2003-11-01,22.16,Adult cattle,Portugal,0-50
+2003-11-01,11.03,Calf and young cattle,Portugal,0-50
+2003-11-01,175.1,Bovine meat,Ireland,150-200
+2003-11-01,0.1,Calf and young cattle,Ireland,0-50
+2003-11-01,175.0,Adult cattle,Ireland,150-200
+2003-12-01,142.4,Adult cattle,Ireland,100-150
+2003-12-01,14.39,Calf and young cattle,Portugal,0-50
+2003-12-01,0.1,Calf and young cattle,Ireland,0-50
+2003-12-01,142.5,Bovine meat,Ireland,100-150
+2003-12-01,40.12,Bovine meat,Portugal,0-50
+2003-12-01,25.74,Adult cattle,Portugal,0-50
+2004-01-01,141.5,Bovine meat,Ireland,100-150
+2004-01-01,141.4,Adult cattle,Ireland,100-150
+2004-01-01,0.1,Calf and young cattle,Ireland,0-50
+2004-01-01,11.57,Calf and young cattle,Portugal,0-50
+2004-01-01,23.73,Adult cattle,Portugal,0-50
+2004-01-01,35.3,Bovine meat,Portugal,0-50
+2004-02-01,32.82,Bovine meat,Portugal,0-50
+2004-02-01,22.09,Adult cattle,Portugal,0-50
+2004-02-01,10.72,Calf and young cattle,Portugal,0-50
+2004-02-01,0.1,Calf and young cattle,Ireland,0-50
+2004-02-01,133.9,Adult cattle,Ireland,100-150
+2004-02-01,134.0,Bovine meat,Ireland,100-150
+2004-03-01,148.5,Adult cattle,Ireland,100-150
+2004-03-01,148.9,Bovine meat,Ireland,100-150
+2004-03-01,0.4,Calf and young cattle,Ireland,0-50
+2004-03-01,38.46,Bovine meat,Portugal,0-50
+2004-03-01,26.26,Adult cattle,Portugal,0-50
+2004-03-01,12.2,Calf and young cattle,Portugal,0-50
+2004-04-01,139.8,Bovine meat,Ireland,100-150
+2004-04-01,24.56,Adult cattle,Portugal,0-50
+2004-04-01,139.5,Adult cattle,Ireland,100-150
+2004-04-01,11.67,Calf and young cattle,Portugal,0-50
+2004-04-01,36.24,Bovine meat,Portugal,0-50
+2004-04-01,0.3,Calf and young cattle,Ireland,0-50
+2004-05-01,26.52,Adult cattle,Portugal,0-50
+2004-05-01,120.4,Bovine meat,Ireland,100-150
+2004-05-01,0.3,Calf and young cattle,Ireland,0-50
+2004-05-01,120.1,Adult cattle,Ireland,100-150
+2004-05-01,11.39,Calf and young cattle,Portugal,0-50
+2004-05-01,37.91,Bovine meat,Portugal,0-50
+2004-06-01,118.8,Bovine meat,Ireland,100-150
+2004-06-01,118.5,Adult cattle,Ireland,100-150
+2004-06-01,11.58,Calf and young cattle,Portugal,0-50
+2004-06-01,26.84,Adult cattle,Portugal,0-50
+2004-06-01,38.42,Bovine meat,Portugal,0-50
+2004-06-01,0.3,Calf and young cattle,Ireland,0-50
+2004-07-01,28.1,Adult cattle,Portugal,0-50
+2004-07-01,12.68,Calf and young cattle,Portugal,0-50
+2004-07-01,140.2,Bovine meat,Ireland,100-150
+2004-07-01,140.0,Adult cattle,Ireland,100-150
+2004-07-01,0.2,Calf and young cattle,Ireland,0-50
+2004-07-01,40.78,Bovine meat,Portugal,0-50
+2004-08-01,157.5,Bovine meat,Ireland,150-200
+2004-08-01,0.2,Calf and young cattle,Ireland,0-50
+2004-08-01,157.3,Adult cattle,Ireland,150-200
+2004-08-01,30.96,Adult cattle,Portugal,0-50
+2004-08-01,14.88,Calf and young cattle,Portugal,0-50
+2004-08-01,45.84,Bovine meat,Portugal,0-50
+2004-09-01,27.1,Adult cattle,Portugal,0-50
+2004-09-01,39.2,Bovine meat,Portugal,0-50
+2004-09-01,12.1,Calf and young cattle,Portugal,0-50
+2004-09-01,175.1,Bovine meat,Ireland,150-200
+2004-09-01,0.2,Calf and young cattle,Ireland,0-50
+2004-09-01,174.9,Adult cattle,Ireland,150-200
+2004-10-01,180.8,Bovine meat,Ireland,150-200
+2004-10-01,0.2,Calf and young cattle,Ireland,0-50
+2004-10-01,180.6,Adult cattle,Ireland,150-200
+2004-10-01,26.95,Adult cattle,Portugal,0-50
+2004-10-01,12.11,Calf and young cattle,Portugal,0-50
+2004-10-01,39.06,Bovine meat,Portugal,0-50
+2004-11-01,190.2,Adult cattle,Ireland,150-200
+2004-11-01,43.01,Bovine meat,Portugal,0-50
+2004-11-01,29.62,Adult cattle,Portugal,0-50
+2004-11-01,13.39,Calf and young cattle,Portugal,0-50
+2004-12-01,165.5,Adult cattle,Ireland,150-200
+2004-12-01,0.1,Calf and young cattle,Ireland,0-50
+2004-12-01,28.09,Adult cattle,Portugal,0-50
+2004-12-01,14.24,Calf and young cattle,Portugal,0-50
+2004-12-01,42.33,Bovine meat,Portugal,0-50
+2004-12-01,165.6,Bovine meat,Ireland,150-200
+2005-01-01,84.71,Bovine meat,Ireland,50-100
+2005-01-01,0.01,Calf and young cattle,Ireland,0-50
+2005-01-01,12.84,Calf and young cattle,Portugal,0-50
+2005-01-01,25.38,Adult cattle,Portugal,0-50
+2005-01-01,38.22,Bovine meat,Portugal,0-50
+2005-01-01,84.7,Adult cattle,Ireland,50-100
+2005-02-01,0.03,Calf and young cattle,Ireland,0-50
+2005-02-01,131.83,Bovine meat,Ireland,100-150
+2005-02-01,131.8,Adult cattle,Ireland,100-150
+2005-02-01,10.95,Calf and young cattle,Portugal,0-50
+2005-02-01,22.87,Adult cattle,Portugal,0-50
+2005-02-01,33.82,Bovine meat,Portugal,0-50
+2005-03-01,139.06,Bovine meat,Ireland,100-150
+2005-03-01,0.16,Calf and young cattle,Ireland,0-50
+2005-03-01,26.06,Adult cattle,Portugal,0-50
+2005-03-01,39.93,Bovine meat,Portugal,0-50
+2005-03-01,13.87,Calf and young cattle,Portugal,0-50
+2005-03-01,138.9,Adult cattle,Ireland,100-150
+2005-04-01,129.81,Bovine meat,Ireland,100-150
+2005-04-01,37.58,Bovine meat,Portugal,0-50
+2005-04-01,0.11,Calf and young cattle,Ireland,0-50
+2005-04-01,129.7,Adult cattle,Ireland,100-150
+2005-04-01,12.02,Calf and young cattle,Portugal,0-50
+2005-04-01,25.56,Adult cattle,Portugal,0-50
+2005-05-01,133.03,Bovine meat,Ireland,100-150
+2005-05-01,28.19,Adult cattle,Portugal,0-50
+2005-05-01,132.9,Adult cattle,Ireland,100-150
+2005-05-01,41.75,Bovine meat,Portugal,0-50
+2005-05-01,13.56,Calf and young cattle,Portugal,0-50
+2005-05-01,0.13,Calf and young cattle,Ireland,0-50
+2005-06-01,135.7,Adult cattle,Ireland,100-150
+2005-06-01,25.42,Adult cattle,Portugal,0-50
+2005-06-01,0.14,Calf and young cattle,Ireland,0-50
+2005-06-01,135.84,Bovine meat,Ireland,100-150
+2005-06-01,12.68,Calf and young cattle,Portugal,0-50
+2005-06-01,38.1,Bovine meat,Portugal,0-50
+2005-07-01,26.7,Adult cattle,Portugal,0-50
+2005-07-01,0.1,Calf and young cattle,Ireland,0-50
+2005-07-01,126.7,Bovine meat,Ireland,100-150
+2005-07-01,13.34,Calf and young cattle,Portugal,0-50
+2005-07-01,126.6,Adult cattle,Ireland,100-150
+2005-07-01,40.04,Bovine meat,Portugal,0-50
+2005-08-01,17.57,Calf and young cattle,Portugal,0-50
+2005-08-01,47.93,Bovine meat,Portugal,0-50
+2005-08-01,150.5,Adult cattle,Ireland,150-200
+2005-08-01,0.05,Calf and young cattle,Ireland,0-50
+2005-08-01,30.36,Adult cattle,Portugal,0-50
+2005-08-01,150.55,Bovine meat,Ireland,150-200
+2005-09-01,25.97,Adult cattle,Portugal,0-50
+2005-09-01,13.79,Calf and young cattle,Portugal,0-50
+2005-09-01,169.84,Bovine meat,Ireland,150-200
+2005-09-01,39.76,Bovine meat,Portugal,0-50
+2005-09-01,0.04,Calf and young cattle,Ireland,0-50
+2005-09-01,169.8,Adult cattle,Ireland,150-200
+2005-10-01,26.92,Adult cattle,Portugal,0-50
+2005-10-01,15.13,Calf and young cattle,Portugal,0-50
+2005-10-01,152.1,Adult cattle,Ireland,150-200
+2005-10-01,0.19,Calf and young cattle,Ireland,0-50
+2005-10-01,152.29,Bovine meat,Ireland,150-200
+2005-10-01,42.05,Bovine meat,Portugal,0-50
+2005-11-01,41.42,Bovine meat,Portugal,0-50
+2005-11-01,26.5,Adult cattle,Portugal,0-50
+2005-11-01,0.12,Calf and young cattle,Ireland,0-50
+2005-11-01,14.92,Calf and young cattle,Portugal,0-50
+2005-11-01,185.0,Adult cattle,Ireland,150-200
+2005-11-01,185.12,Bovine meat,Ireland,150-200
+2005-12-01,40.33,Bovine meat,Portugal,0-50
+2005-12-01,15.8,Calf and young cattle,Portugal,0-50
+2005-12-01,24.53,Adult cattle,Portugal,0-50
+2005-12-01,145.8,Adult cattle,Ireland,100-150
+2005-12-01,0.12,Calf and young cattle,Ireland,0-50
+2005-12-01,145.92,Bovine meat,Ireland,100-150
+2006-01-01,40.02,Bovine meat,Portugal,0-50
+2006-01-01,138.0,Adult cattle,Ireland,100-150
+2006-01-01,14.82,Calf and young cattle,Portugal,0-50
+2006-01-01,25.2,Adult cattle,Portugal,0-50
+2006-02-01,12.24,Calf and young cattle,Portugal,0-50
+2006-02-01,21.49,Adult cattle,Portugal,0-50
+2006-02-01,33.73,Bovine meat,Portugal,0-50
+2006-02-01,137.8,Bovine meat,Ireland,100-150
+2006-02-01,137.7,Adult cattle,Ireland,100-150
+2006-02-01,0.1,Calf and young cattle,Ireland,0-50
+2006-03-01,159.4,Bovine meat,Ireland,150-200
+2006-03-01,0.1,Calf and young cattle,Ireland,0-50
+2006-03-01,159.3,Adult cattle,Ireland,150-200
+2006-03-01,24.75,Adult cattle,Portugal,0-50
+2006-03-01,14.01,Calf and young cattle,Portugal,0-50
+2006-03-01,38.76,Bovine meat,Portugal,0-50
+2006-04-01,22.11,Adult cattle,Portugal,0-50
+2006-04-01,35.45,Bovine meat,Portugal,0-50
+2006-04-01,134.7,Bovine meat,Ireland,100-150
+2006-04-01,13.34,Calf and young cattle,Portugal,0-50
+2006-05-01,148.3,Bovine meat,Ireland,100-150
+2006-05-01,26.98,Adult cattle,Portugal,0-50
+2006-05-01,41.06,Bovine meat,Portugal,0-50
+2006-05-01,14.08,Calf and young cattle,Portugal,0-50
+2006-06-01,138.6,Bovine meat,Ireland,100-150
+2006-06-01,11.97,Calf and young cattle,Portugal,0-50
+2006-06-01,24.1,Adult cattle,Portugal,0-50
+2006-06-01,36.07,Bovine meat,Portugal,0-50
+2006-07-01,137.1,Adult cattle,Ireland,100-150
+2006-07-01,39.1,Bovine meat,Portugal,0-50
+2006-07-01,9.22,Calf and young cattle,Portugal,0-50
+2006-07-01,29.88,Adult cattle,Portugal,0-50
+2006-08-01,10.85,Calf and young cattle,Portugal,0-50
+2006-08-01,146.4,Adult cattle,Ireland,100-150
+2006-08-01,39.62,Bovine meat,Portugal,0-50
+2006-08-01,28.77,Adult cattle,Portugal,0-50
+2006-09-01,8.45,Calf and young cattle,Portugal,0-50
+2006-09-01,24.21,Adult cattle,Portugal,0-50
+2006-09-01,32.66,Bovine meat,Portugal,0-50
+2006-09-01,165.0,Bovine meat,Ireland,150-200
+2006-10-01,9.24,Calf and young cattle,Portugal,0-50
+2006-10-01,27.55,Adult cattle,Portugal,0-50
+2006-10-01,36.79,Bovine meat,Portugal,0-50
+2006-10-01,166.5,Bovine meat,Ireland,150-200
+2006-11-01,178.6,Bovine meat,Ireland,150-200
+2006-11-01,24.37,Adult cattle,Portugal,0-50
+2006-11-01,8.41,Calf and young cattle,Portugal,0-50
+2006-11-01,32.78,Bovine meat,Portugal,0-50
+2006-12-01,23.11,Adult cattle,Portugal,0-50
+2006-12-01,122.8,Bovine meat,Ireland,100-150
+2006-12-01,33.2,Bovine meat,Portugal,0-50
+2006-12-01,10.09,Calf and young cattle,Portugal,0-50
+2007-01-01,153.5,Adult cattle,Ireland,150-200
+2007-01-01,8.46,Calf and young cattle,Portugal,0-50
+2007-01-01,23.85,Adult cattle,Portugal,0-50
+2007-01-01,32.31,Bovine meat,Portugal,0-50
+2007-02-01,143.3,Adult cattle,Ireland,100-150
+2007-02-01,20.66,Adult cattle,Portugal,0-50
+2007-02-01,6.76,Calf and young cattle,Portugal,0-50
+2007-02-01,27.42,Bovine meat,Portugal,0-50
+2007-03-01,143.5,Bovine meat,Ireland,100-150
+2007-03-01,28.66,Bovine meat,Portugal,0-50
+2007-03-01,6.8,Calf and young cattle,Portugal,0-50
+2007-03-01,21.86,Adult cattle,Portugal,0-50
+2007-04-01,143.8,Adult cattle,Ireland,100-150
+2007-04-01,7.96,Calf and young cattle,Portugal,0-50
+2007-04-01,32.34,Bovine meat,Portugal,0-50
+2007-04-01,24.37,Adult cattle,Portugal,0-50
+2007-05-01,32.3,Bovine meat,Portugal,0-50
+2007-05-01,146.9,Adult cattle,Ireland,100-150
+2007-05-01,6.89,Calf and young cattle,Portugal,0-50
+2007-05-01,25.42,Adult cattle,Portugal,0-50
+2007-06-01,22.22,Adult cattle,Portugal,0-50
+2007-06-01,6.62,Calf and young cattle,Portugal,0-50
+2007-06-01,122.8,Adult cattle,Ireland,100-150
+2007-06-01,28.84,Bovine meat,Portugal,0-50
+2007-07-01,137.0,Bovine meat,Ireland,100-150
+2007-07-01,25.92,Adult cattle,Portugal,0-50
+2007-07-01,8.37,Calf and young cattle,Portugal,0-50
+2007-07-01,34.29,Bovine meat,Portugal,0-50
+2007-08-01,151.9,Bovine meat,Ireland,150-200
+2007-08-01,34.37,Bovine meat,Portugal,0-50
+2007-08-01,8.23,Calf and young cattle,Portugal,0-50
+2007-08-01,26.13,Adult cattle,Portugal,0-50
+2007-09-01,152.1,Adult cattle,Ireland,150-200
+2007-09-01,6.8,Calf and young cattle,Portugal,0-50
+2007-09-01,20.28,Adult cattle,Portugal,0-50
+2007-09-01,27.08,Bovine meat,Portugal,0-50
+2007-10-01,33.84,Bovine meat,Portugal,0-50
+2007-10-01,175.3,Adult cattle,Ireland,150-200
+2007-10-01,8.66,Calf and young cattle,Portugal,0-50
+2007-10-01,25.18,Adult cattle,Portugal,0-50
+2007-11-01,182.5,Bovine meat,Ireland,150-200
+2007-11-01,29.76,Bovine meat,Portugal,0-50
+2007-11-01,7.08,Calf and young cattle,Portugal,0-50
+2007-11-01,22.68,Adult cattle,Portugal,0-50
+2007-12-01,33.63,Bovine meat,Portugal,0-50
+2007-12-01,118.0,Bovine meat,Ireland,100-150
+2007-12-01,24.67,Adult cattle,Portugal,0-50
+2007-12-01,8.96,Calf and young cattle,Portugal,0-50
+2008-01-01,25.25,Adult cattle,Portugal,0-50
+2008-01-01,0.04,Calf and young cattle,Ireland,0-50
+2008-01-01,137.16,Bovine meat,Ireland,100-150
+2008-01-01,137.12,Adult cattle,Ireland,100-150
+2008-01-01,7.25,Calf and young cattle,Portugal,0-50
+2008-01-01,32.5,Bovine meat,Portugal,0-50
+2008-02-01,22.4,Adult cattle,Portugal,0-50
+2008-02-01,28.86,Bovine meat,Portugal,0-50
+2008-02-01,6.46,Calf and young cattle,Portugal,0-50
+2008-02-01,0.01,Calf and young cattle,Ireland,0-50
+2008-02-01,134.53,Bovine meat,Ireland,100-150
+2008-02-01,134.52,Adult cattle,Ireland,100-150
+2008-03-01,7.63,Calf and young cattle,Portugal,0-50
+2008-03-01,32.56,Bovine meat,Portugal,0-50
+2008-03-01,123.68,Bovine meat,Ireland,100-150
+2008-03-01,0.03,Calf and young cattle,Ireland,0-50
+2008-03-01,123.65,Adult cattle,Ireland,100-150
+2008-03-01,24.93,Adult cattle,Portugal,0-50
+2008-04-01,7.2,Calf and young cattle,Portugal,0-50
+2008-04-01,0.06,Calf and young cattle,Ireland,0-50
+2008-04-01,139.74,Bovine meat,Ireland,100-150
+2008-04-01,33.82,Bovine meat,Portugal,0-50
+2008-04-01,26.62,Adult cattle,Portugal,0-50
+2008-04-01,139.68,Adult cattle,Ireland,100-150
+2008-05-01,27.12,Adult cattle,Portugal,0-50
+2008-05-01,34.76,Bovine meat,Portugal,0-50
+2008-05-01,7.65,Calf and young cattle,Portugal,0-50
+2008-05-01,0.02,Calf and young cattle,Ireland,0-50
+2008-05-01,126.85,Bovine meat,Ireland,100-150
+2008-05-01,126.83,Adult cattle,Ireland,100-150
+2008-06-01,8.76,Calf and young cattle,Portugal,0-50
+2008-06-01,27.91,Adult cattle,Portugal,0-50
+2008-06-01,36.66,Bovine meat,Portugal,0-50
+2008-06-01,126.25,Bovine meat,Ireland,100-150
+2008-06-01,126.22,Adult cattle,Ireland,100-150
+2008-06-01,0.03,Calf and young cattle,Ireland,0-50
+2008-07-01,13.85,Calf and young cattle,Portugal,0-50
+2008-07-01,40.94,Bovine meat,Portugal,0-50
+2008-07-01,27.1,Adult cattle,Portugal,0-50
+2008-07-01,140.39,Adult cattle,Ireland,100-150
+2008-07-01,140.42,Bovine meat,Ireland,100-150
+2008-07-01,0.03,Calf and young cattle,Ireland,0-50
+2008-08-01,15.68,Calf and young cattle,Portugal,0-50
+2008-08-01,25.53,Adult cattle,Portugal,0-50
+2008-08-01,41.21,Bovine meat,Portugal,0-50
+2008-08-01,140.62,Bovine meat,Ireland,100-150
+2008-08-01,140.49,Adult cattle,Ireland,100-150
+2008-08-01,0.13,Calf and young cattle,Ireland,0-50
+2008-09-01,164.24,Bovine meat,Ireland,150-200
+2008-09-01,164.07,Adult cattle,Ireland,150-200
+2008-09-01,0.17,Calf and young cattle,Ireland,0-50
+2008-09-01,16.69,Calf and young cattle,Portugal,0-50
+2008-09-01,25.7,Adult cattle,Portugal,0-50
+2008-09-01,42.39,Bovine meat,Portugal,0-50
+2008-10-01,41.95,Bovine meat,Portugal,0-50
+2008-10-01,176.62,Bovine meat,Ireland,150-200
+2008-10-01,176.38,Adult cattle,Ireland,150-200
+2008-10-01,0.24,Calf and young cattle,Ireland,0-50
+2008-10-01,16.9,Calf and young cattle,Portugal,0-50
+2008-10-01,25.05,Adult cattle,Portugal,0-50
+2008-11-01,0.16,Calf and young cattle,Ireland,0-50
+2008-11-01,134.24,Adult cattle,Ireland,100-150
+2008-11-01,134.39,Bovine meat,Ireland,100-150
+2008-11-01,38.74,Bovine meat,Portugal,0-50
+2008-11-01,23.27,Adult cattle,Portugal,0-50
+2008-11-01,15.48,Calf and young cattle,Portugal,0-50
+2008-12-01,0.21,Calf and young cattle,Ireland,0-50
+2008-12-01,120.46,Bovine meat,Ireland,100-150
+2008-12-01,120.25,Adult cattle,Ireland,100-150
+2008-12-01,25.15,Adult cattle,Portugal,0-50
+2008-12-01,45.03,Bovine meat,Portugal,0-50
+2008-12-01,19.88,Calf and young cattle,Portugal,0-50
+2009-01-01,0.16,Young cattle,Ireland,0-50
+2009-01-01,113.83,Adult cattle,Ireland,100-150
+2009-01-01,0.07,Calf,Ireland,0-50
+2009-01-01,0.23,Calf and young cattle,Ireland,0-50
+2009-01-01,35.18,Bovine meat,Portugal,0-50
+2009-01-01,22.99,Adult cattle,Portugal,0-50
+2009-01-01,12.18,Calf and young cattle,Portugal,0-50
+2009-01-01,4.98,Calf,Portugal,0-50
+2009-01-01,7.21,Young cattle,Portugal,0-50
+2009-01-01,114.05,Bovine meat,Ireland,100-150
+2009-02-01,6.75,Young cattle,Portugal,0-50
+2009-02-01,32.6,Bovine meat,Portugal,0-50
+2009-02-01,21.45,Adult cattle,Portugal,0-50
+2009-02-01,124.04,Adult cattle,Ireland,100-150
+2009-02-01,0.06,Calf,Ireland,0-50
+2009-02-01,124.53,Bovine meat,Ireland,100-150
+2009-02-01,0.49,Calf and young cattle,Ireland,0-50
+2009-02-01,0.44,Young cattle,Ireland,0-50
+2009-02-01,11.15,Calf and young cattle,Portugal,0-50
+2009-02-01,4.4,Calf,Portugal,0-50
+2009-03-01,37.27,Bovine meat,Portugal,0-50
+2009-03-01,0.3,Young cattle,Ireland,0-50
+2009-03-01,0.35,Calf and young cattle,Ireland,0-50
+2009-03-01,0.05,Calf,Ireland,0-50
+2009-03-01,125.84,Bovine meat,Ireland,100-150
+2009-03-01,12.69,Calf and young cattle,Portugal,0-50
+2009-03-01,6.73,Young cattle,Portugal,0-50
+2009-03-01,24.58,Adult cattle,Portugal,0-50
+2009-03-01,125.49,Adult cattle,Ireland,100-150
+2009-03-01,5.96,Calf,Portugal,0-50
+2009-04-01,0.02,Young cattle,Ireland,0-50
+2009-04-01,0.08,Calf,Ireland,0-50
+2009-04-01,0.09,Calf and young cattle,Ireland,0-50
+2009-04-01,25.28,Adult cattle,Portugal,0-50
+2009-04-01,38.14,Bovine meat,Portugal,0-50
+2009-04-01,5.73,Calf,Portugal,0-50
+2009-04-01,7.13,Young cattle,Portugal,0-50
+2009-04-01,12.86,Calf and young cattle,Portugal,0-50
+2009-04-01,127.38,Adult cattle,Ireland,100-150
+2009-04-01,127.48,Bovine meat,Ireland,100-150
+2009-05-01,35.67,Bovine meat,Portugal,0-50
+2009-05-01,5.74,Young cattle,Portugal,0-50
+2009-05-01,5.65,Calf,Portugal,0-50
+2009-05-01,0.12,Calf and young cattle,Ireland,0-50
+2009-05-01,0.1,Calf,Ireland,0-50
+2009-05-01,0.02,Young cattle,Ireland,0-50
+2009-05-01,24.29,Adult cattle,Portugal,0-50
+2009-05-01,123.34,Bovine meat,Ireland,100-150
+2009-05-01,123.21,Adult cattle,Ireland,100-150
+2009-05-01,11.39,Calf and young cattle,Portugal,0-50
+2009-06-01,118.98,Adult cattle,Ireland,100-150
+2009-06-01,37.81,Bovine meat,Portugal,0-50
+2009-06-01,12.26,Calf and young cattle,Portugal,0-50
+2009-06-01,6.31,Young cattle,Portugal,0-50
+2009-06-01,5.94,Calf,Portugal,0-50
+2009-06-01,25.55,Adult cattle,Portugal,0-50
+2009-06-01,0.06,Calf and young cattle,Ireland,0-50
+2009-06-01,119.04,Bovine meat,Ireland,100-150
+2009-07-01,0.04,Calf,Ireland,0-50
+2009-07-01,138.11,Bovine meat,Ireland,100-150
+2009-07-01,138.07,Adult cattle,Ireland,100-150
+2009-07-01,7.44,Calf,Portugal,0-50
+2009-07-01,12.14,Calf and young cattle,Portugal,0-50
+2009-07-01,4.7,Young cattle,Portugal,0-50
+2009-07-01,40.65,Bovine meat,Portugal,0-50
+2009-07-01,28.51,Adult cattle,Portugal,0-50
+2009-08-01,8.05,Calf,Portugal,0-50
+2009-08-01,13.04,Calf and young cattle,Portugal,0-50
+2009-08-01,27.29,Adult cattle,Portugal,0-50
+2009-08-01,40.33,Bovine meat,Portugal,0-50
+2009-08-01,5.0,Young cattle,Portugal,0-50
+2009-08-01,130.22,Adult cattle,Ireland,100-150
+2009-08-01,0.04,Calf,Ireland,0-50
+2009-08-01,130.6,Bovine meat,Ireland,100-150
+2009-08-01,0.38,Calf and young cattle,Ireland,0-50
+2009-08-01,0.34,Young cattle,Ireland,0-50
+2009-09-01,0.06,Calf,Ireland,0-50
+2009-09-01,157.33,Bovine meat,Ireland,150-200
+2009-09-01,4.56,Young cattle,Portugal,0-50
+2009-09-01,0.48,Calf and young cattle,Ireland,0-50
+2009-09-01,7.64,Calf,Portugal,0-50
+2009-09-01,12.2,Calf and young cattle,Portugal,0-50
+2009-09-01,36.52,Bovine meat,Portugal,0-50
+2009-09-01,156.85,Adult cattle,Ireland,150-200
+2009-09-01,0.42,Young cattle,Ireland,0-50
+2009-09-01,24.32,Adult cattle,Portugal,0-50
+2009-10-01,0.34,Young cattle,Ireland,0-50
+2009-10-01,4.86,Young cattle,Portugal,0-50
+2009-10-01,0.41,Calf and young cattle,Ireland,0-50
+2009-10-01,7.65,Calf,Portugal,0-50
+2009-10-01,0.07,Calf,Ireland,0-50
+2009-10-01,12.5,Calf and young cattle,Portugal,0-50
+2009-10-01,35.4,Bovine meat,Portugal,0-50
+2009-10-01,22.9,Adult cattle,Portugal,0-50
+2009-10-01,150.56,Bovine meat,Ireland,150-200
+2009-10-01,150.15,Adult cattle,Ireland,150-200
+2009-11-01,157.23,Adult cattle,Ireland,150-200
+2009-11-01,0.02,Calf,Ireland,0-50
+2009-11-01,0.33,Calf and young cattle,Ireland,0-50
+2009-11-01,0.31,Young cattle,Ireland,0-50
+2009-11-01,37.07,Bovine meat,Portugal,0-50
+2009-11-01,7.49,Calf,Portugal,0-50
+2009-11-01,5.75,Young cattle,Portugal,0-50
+2009-11-01,13.24,Calf and young cattle,Portugal,0-50
+2009-11-01,157.56,Bovine meat,Ireland,150-200
+2009-11-01,23.83,Adult cattle,Portugal,0-50
+2009-12-01,37.93,Bovine meat,Portugal,0-50
+2009-12-01,8.06,Young cattle,Portugal,0-50
+2009-12-01,0.3,Young cattle,Ireland,0-50
+2009-12-01,22.01,Adult cattle,Portugal,0-50
+2009-12-01,0.39,Calf and young cattle,Ireland,0-50
+2009-12-01,15.91,Calf and young cattle,Portugal,0-50
+2009-12-01,0.09,Calf,Ireland,0-50
+2009-12-01,7.86,Calf,Portugal,0-50
+2009-12-01,131.96,Bovine meat,Ireland,100-150
+2009-12-01,131.57,Adult cattle,Ireland,100-150
+2010-01-01,11.57,Calf and young cattle,Portugal,0-50
+2010-01-01,0.02,Calf,Ireland,0-50
+2010-01-01,4.84,Calf,Portugal,0-50
+2010-01-01,0.28,Calf and young cattle,Ireland,0-50
+2010-01-01,125.97,Bovine meat,Ireland,100-150
+2010-01-01,125.69,Adult cattle,Ireland,100-150
+2010-01-01,20.42,Adult cattle,Portugal,0-50
+2010-01-01,0.26,Young cattle,Ireland,0-50
+2010-01-01,6.72,Young cattle,Portugal,0-50
+2010-01-01,31.98,Bovine meat,Portugal,0-50
+2010-02-01,6.25,Young cattle,Portugal,0-50
+2010-02-01,0.87,Calf and young cattle,Ireland,0-50
+2010-02-01,0.6,Calf,Ireland,0-50
+2010-02-01,0.28,Young cattle,Ireland,0-50
+2010-02-01,29.36,Bovine meat,Portugal,0-50
+2010-02-01,3.76,Calf,Portugal,0-50
+2010-02-01,19.35,Adult cattle,Portugal,0-50
+2010-02-01,10.0,Calf and young cattle,Portugal,0-50
+2010-02-01,140.8,Bovine meat,Ireland,100-150
+2010-02-01,139.93,Adult cattle,Ireland,100-150
+2010-03-01,37.62,Bovine meat,Portugal,0-50
+2010-03-01,6.55,Young cattle,Portugal,0-50
+2010-03-01,161.05,Bovine meat,Ireland,150-200
+2010-03-01,0.36,Young cattle,Ireland,0-50
+2010-03-01,5.27,Calf,Portugal,0-50
+2010-03-01,159.01,Adult cattle,Ireland,150-200
+2010-03-01,1.68,Calf,Ireland,0-50
+2010-03-01,25.8,Adult cattle,Portugal,0-50
+2010-03-01,2.04,Calf and young cattle,Ireland,0-50
+2010-03-01,11.82,Calf and young cattle,Portugal,0-50
+2010-04-01,0.66,Calf and young cattle,Ireland,0-50
+2010-04-01,5.07,Young cattle,Portugal,0-50
+2010-04-01,8.64,Calf and young cattle,Portugal,0-50
+2010-04-01,138.62,Adult cattle,Ireland,100-150
+2010-04-01,21.06,Adult cattle,Portugal,0-50
+2010-04-01,29.71,Bovine meat,Portugal,0-50
+2010-04-01,3.57,Calf,Portugal,0-50
+2010-04-01,0.49,Calf,Ireland,0-50
+2010-04-01,139.28,Bovine meat,Ireland,100-150
+2010-04-01,0.17,Young cattle,Ireland,0-50
+2010-05-01,4.39,Calf,Portugal,0-50
+2010-05-01,0.32,Calf and young cattle,Ireland,0-50
+2010-05-01,134.55,Adult cattle,Ireland,100-150
+2010-05-01,0.17,Calf,Ireland,0-50
+2010-05-01,134.87,Bovine meat,Ireland,100-150
+2010-05-01,33.63,Bovine meat,Portugal,0-50
+2010-05-01,0.16,Young cattle,Ireland,0-50
+2010-05-01,24.42,Adult cattle,Portugal,0-50
+2010-05-01,9.21,Calf and young cattle,Portugal,0-50
+2010-05-01,4.82,Young cattle,Portugal,0-50
+2010-06-01,22.68,Adult cattle,Portugal,0-50
+2010-06-01,8.87,Calf and young cattle,Portugal,0-50
+2010-06-01,140.06,Bovine meat,Ireland,100-150
+2010-06-01,0.19,Calf and young cattle,Ireland,0-50
+2010-06-01,0.18,Young cattle,Ireland,0-50
+2010-06-01,139.87,Adult cattle,Ireland,100-150
+2010-06-01,0.01,Calf,Ireland,0-50
+2010-06-01,4.32,Calf,Portugal,0-50
+2010-06-01,4.56,Young cattle,Portugal,0-50
+2010-06-01,31.56,Bovine meat,Portugal,0-50
+2010-07-01,0.15,Calf and young cattle,Ireland,0-50
+2010-07-01,134.74,Bovine meat,Ireland,100-150
+2010-07-01,33.11,Bovine meat,Portugal,0-50
+2010-07-01,4.62,Young cattle,Portugal,0-50
+2010-07-01,9.8,Calf and young cattle,Portugal,0-50
+2010-07-01,23.31,Adult cattle,Portugal,0-50
+2010-07-01,5.18,Calf,Portugal,0-50
+2010-07-01,0.01,Calf,Ireland,0-50
+2010-07-01,134.59,Adult cattle,Ireland,100-150
+2010-08-01,11.83,Calf and young cattle,Portugal,0-50
+2010-08-01,4.96,Young cattle,Portugal,0-50
+2010-08-01,136.74,Adult cattle,Ireland,100-150
+2010-08-01,0.28,Young cattle,Ireland,0-50
+2010-08-01,0.01,Calf,Ireland,0-50
+2010-08-01,36.76,Bovine meat,Portugal,0-50
+2010-08-01,6.87,Calf,Portugal,0-50
+2010-08-01,0.29,Calf and young cattle,Ireland,0-50
+2010-08-01,24.94,Adult cattle,Portugal,0-50
+2010-08-01,137.03,Bovine meat,Ireland,100-150
+2010-09-01,159.92,Adult cattle,Ireland,150-200
+2010-09-01,0.39,Calf and young cattle,Ireland,0-50
+2010-09-01,0.38,Young cattle,Ireland,0-50
+2010-09-01,160.31,Bovine meat,Ireland,150-200
+2010-09-01,0.02,Calf,Ireland,0-50
+2010-09-01,6.65,Calf,Portugal,0-50
+2010-09-01,33.18,Bovine meat,Portugal,0-50
+2010-09-01,4.39,Young cattle,Portugal,0-50
+2010-09-01,11.04,Calf and young cattle,Portugal,0-50
+2010-09-01,22.15,Adult cattle,Portugal,0-50
+2010-10-01,147.63,Adult cattle,Ireland,100-150
+2010-10-01,0.43,Calf and young cattle,Ireland,0-50
+2010-10-01,0.27,Young cattle,Ireland,0-50
+2010-10-01,148.06,Bovine meat,Ireland,100-150
+2010-10-01,0.16,Calf,Ireland,0-50
+2010-10-01,6.96,Calf,Portugal,0-50
+2010-10-01,34.08,Bovine meat,Portugal,0-50
+2010-10-01,4.64,Young cattle,Portugal,0-50
+2010-10-01,11.6,Calf and young cattle,Portugal,0-50
+2010-10-01,22.48,Adult cattle,Portugal,0-50
+2010-11-01,37.3,Bovine meat,Portugal,0-50
+2010-11-01,5.61,Young cattle,Portugal,0-50
+2010-11-01,24.46,Adult cattle,Portugal,0-50
+2010-11-01,12.84,Calf and young cattle,Portugal,0-50
+2010-11-01,7.23,Calf,Portugal,0-50
+2010-11-01,0.09,Calf,Ireland,0-50
+2010-11-01,0.36,Calf and young cattle,Ireland,0-50
+2010-11-01,165.74,Adult cattle,Ireland,150-200
+2010-11-01,0.27,Young cattle,Ireland,0-50
+2010-11-01,166.09,Bovine meat,Ireland,150-200
+2010-12-01,7.28,Young cattle,Portugal,0-50
+2010-12-01,14.29,Calf and young cattle,Portugal,0-50
+2010-12-01,22.11,Adult cattle,Portugal,0-50
+2010-12-01,36.4,Bovine meat,Portugal,0-50
+2010-12-01,7.01,Calf,Portugal,0-50
+2010-12-01,0.01,Calf,Ireland,0-50
+2010-12-01,128.16,Bovine meat,Ireland,100-150
+2010-12-01,127.65,Adult cattle,Ireland,100-150
+2010-12-01,0.51,Calf and young cattle,Ireland,0-50
+2010-12-01,0.5,Young cattle,Ireland,0-50
+2011-01-01,120.86,Bovine meat,Ireland,100-150
+2011-01-01,0.48,Young cattle,Ireland,0-50
+2011-01-01,0.5,Calf and young cattle,Ireland,0-50
+2011-01-01,0.02,Calf,Ireland,0-50
+2011-01-01,120.36,Adult cattle,Ireland,100-150
+2011-01-01,20.29,Adult cattle,Portugal,0-50
+2011-01-01,4.8,Calf,Portugal,0-50
+2011-01-01,11.48,Calf and young cattle,Portugal,0-50
+2011-01-01,6.68,Young cattle,Portugal,0-50
+2011-01-01,31.78,Bovine meat,Portugal,0-50
+2011-02-01,18.24,Adult cattle,Portugal,0-50
+2011-02-01,10.53,Calf and young cattle,Portugal,0-50
+2011-02-01,3.89,Calf,Portugal,0-50
+2011-02-01,6.64,Young cattle,Portugal,0-50
+2011-02-01,28.77,Bovine meat,Portugal,0-50
+2011-02-01,127.44,Bovine meat,Ireland,100-150
+2011-02-01,0.6,Young cattle,Ireland,0-50
+2011-02-01,0.71,Calf,Ireland,0-50
+2011-02-01,1.31,Calf and young cattle,Ireland,0-50
+2011-02-01,126.13,Adult cattle,Ireland,100-150
+2011-03-01,10.45,Calf and young cattle,Portugal,0-50
+2011-03-01,148.32,Bovine meat,Ireland,100-150
+2011-03-01,0.49,Young cattle,Ireland,0-50
+2011-03-01,20.49,Adult cattle,Portugal,0-50
+2011-03-01,4.23,Calf,Portugal,0-50
+2011-03-01,30.94,Bovine meat,Portugal,0-50
+2011-03-01,146.38,Adult cattle,Ireland,100-150
+2011-03-01,1.94,Calf and young cattle,Ireland,0-50
+2011-03-01,6.22,Young cattle,Portugal,0-50
+2011-03-01,1.45,Calf,Ireland,0-50
+2011-04-01,4.48,Calf,Portugal,0-50
+2011-04-01,9.94,Calf and young cattle,Portugal,0-50
+2011-04-01,20.97,Adult cattle,Portugal,0-50
+2011-04-01,0.44,Young cattle,Ireland,0-50
+2011-04-01,136.93,Bovine meat,Ireland,100-150
+2011-04-01,0.77,Calf and young cattle,Ireland,0-50
+2011-04-01,136.17,Adult cattle,Ireland,100-150
+2011-04-01,30.91,Bovine meat,Portugal,0-50
+2011-04-01,0.32,Calf,Ireland,0-50
+2011-04-01,5.45,Young cattle,Portugal,0-50
+2011-05-01,0.58,Calf and young cattle,Ireland,0-50
+2011-05-01,135.39,Bovine meat,Ireland,100-150
+2011-05-01,0.07,Calf,Ireland,0-50
+2011-05-01,0.52,Young cattle,Ireland,0-50
+2011-05-01,5.13,Young cattle,Portugal,0-50
+2011-05-01,10.21,Calf and young cattle,Portugal,0-50
+2011-05-01,34.58,Bovine meat,Portugal,0-50
+2011-05-01,24.37,Adult cattle,Portugal,0-50
+2011-05-01,134.81,Adult cattle,Ireland,100-150
+2011-05-01,5.08,Calf,Portugal,0-50
+2011-06-01,24.4,Adult cattle,Portugal,0-50
+2011-06-01,5.55,Calf,Portugal,0-50
+2011-06-01,10.84,Calf and young cattle,Portugal,0-50
+2011-06-01,35.23,Bovine meat,Portugal,0-50
+2011-06-01,0.58,Calf and young cattle,Ireland,0-50
+2011-06-01,136.14,Adult cattle,Ireland,100-150
+2011-06-01,0.03,Calf,Ireland,0-50
+2011-06-01,0.55,Young cattle,Ireland,0-50
+2011-06-01,5.29,Young cattle,Portugal,0-50
+2011-06-01,136.71,Bovine meat,Ireland,100-150
+2011-07-01,0.3,Calf and young cattle,Ireland,0-50
+2011-07-01,0.26,Young cattle,Ireland,0-50
+2011-07-01,118.25,Bovine meat,Ireland,100-150
+2011-07-01,5.92,Calf,Portugal,0-50
+2011-07-01,23.61,Adult cattle,Portugal,0-50
+2011-07-01,4.86,Young cattle,Portugal,0-50
+2011-07-01,10.78,Calf and young cattle,Portugal,0-50
+2011-07-01,34.38,Bovine meat,Portugal,0-50
+2011-07-01,0.04,Calf,Ireland,0-50
+2011-07-01,117.95,Adult cattle,Ireland,100-150
+2011-08-01,14.55,Calf and young cattle,Portugal,0-50
+2011-08-01,43.56,Bovine meat,Portugal,0-50
+2011-08-01,29.01,Adult cattle,Portugal,0-50
+2011-08-01,0.43,Young cattle,Ireland,0-50
+2011-08-01,140.78,Adult cattle,Ireland,100-150
+2011-08-01,141.25,Bovine meat,Ireland,100-150
+2011-08-01,7.97,Calf,Portugal,0-50
+2011-08-01,0.47,Calf and young cattle,Ireland,0-50
+2011-08-01,0.04,Calf,Ireland,0-50
+2011-08-01,6.57,Young cattle,Portugal,0-50
+2011-09-01,0.08,Calf,Ireland,0-50
+2011-09-01,0.31,Young cattle,Ireland,0-50
+2011-09-01,152.21,Adult cattle,Ireland,150-200
+2011-09-01,0.38,Calf and young cattle,Ireland,0-50
+2011-09-01,152.6,Bovine meat,Ireland,150-200
+2011-09-01,35.52,Bovine meat,Portugal,0-50
+2011-09-01,12.28,Calf and young cattle,Portugal,0-50
+2011-09-01,7.27,Calf,Portugal,0-50
+2011-09-01,5.01,Young cattle,Portugal,0-50
+2011-09-01,23.24,Adult cattle,Portugal,0-50
+2011-10-01,7.44,Calf,Portugal,0-50
+2011-10-01,23.42,Adult cattle,Portugal,0-50
+2011-10-01,36.99,Bovine meat,Portugal,0-50
+2011-10-01,6.13,Young cattle,Portugal,0-50
+2011-10-01,13.57,Calf and young cattle,Portugal,0-50
+2011-10-01,0.08,Calf,Ireland,0-50
+2011-10-01,149.99,Adult cattle,Ireland,100-150
+2011-10-01,150.3,Bovine meat,Ireland,150-200
+2011-10-01,0.31,Calf and young cattle,Ireland,0-50
+2011-10-01,0.23,Young cattle,Ireland,0-50
+2011-11-01,36.19,Bovine meat,Portugal,0-50
+2011-11-01,21.86,Adult cattle,Portugal,0-50
+2011-11-01,14.33,Calf and young cattle,Portugal,0-50
+2011-11-01,6.25,Young cattle,Portugal,0-50
+2011-11-01,8.08,Calf,Portugal,0-50
+2011-11-01,0.58,Calf and young cattle,Ireland,0-50
+2011-11-01,0.15,Calf,Ireland,0-50
+2011-11-01,159.72,Adult cattle,Ireland,150-200
+2011-11-01,0.42,Young cattle,Ireland,0-50
+2011-11-01,160.29,Bovine meat,Ireland,150-200
+2011-12-01,36.01,Bovine meat,Portugal,0-50
+2011-12-01,0.39,Young cattle,Ireland,0-50
+2011-12-01,0.49,Calf and young cattle,Ireland,0-50
+2011-12-01,20.21,Adult cattle,Portugal,0-50
+2011-12-01,15.8,Calf and young cattle,Portugal,0-50
+2011-12-01,8.22,Young cattle,Portugal,0-50
+2011-12-01,7.57,Calf,Portugal,0-50
+2011-12-01,0.1,Calf,Ireland,0-50
+2011-12-01,113.53,Adult cattle,Ireland,100-150
+2011-12-01,114.02,Bovine meat,Ireland,100-150
+2012-01-01,8.02,Young cattle,Portugal,0-50
+2012-01-01,6.36,Calf,Portugal,0-50
+2012-01-01,33.78,Bovine meat,Portugal,0-50
+2012-01-01,19.4,Adult cattle,Portugal,0-50
+2012-01-01,123.86,Adult cattle,Ireland,100-150
+2012-01-01,124.13,Bovine meat,Ireland,100-150
+2012-01-01,0.03,Calf,Ireland,0-50
+2012-01-01,0.25,Young cattle,Ireland,0-50
+2012-01-01,0.28,Calf and young cattle,Ireland,0-50
+2012-01-01,14.38,Calf and young cattle,Portugal,0-50
+2012-02-01,118.14,Bovine meat,Ireland,100-150
+2012-02-01,0.32,Young cattle,Ireland,0-50
+2012-02-01,4.45,Calf,Portugal,0-50
+2012-02-01,17.8,Adult cattle,Portugal,0-50
+2012-02-01,12.0,Calf and young cattle,Portugal,0-50
+2012-02-01,117.65,Adult cattle,Ireland,100-150
+2012-02-01,7.55,Young cattle,Portugal,0-50
+2012-02-01,0.49,Calf and young cattle,Ireland,0-50
+2012-02-01,0.17,Calf,Ireland,0-50
+2012-02-01,29.8,Bovine meat,Portugal,0-50
+2012-03-01,7.02,Young cattle,Portugal,0-50
+2012-03-01,11.17,Calf and young cattle,Portugal,0-50
+2012-03-01,30.61,Bovine meat,Portugal,0-50
+2012-03-01,4.16,Calf,Portugal,0-50
+2012-03-01,112.39,Bovine meat,Ireland,100-150
+2012-03-01,0.28,Young cattle,Ireland,0-50
+2012-03-01,0.44,Calf and young cattle,Ireland,0-50
+2012-03-01,111.95,Adult cattle,Ireland,100-150
+2012-03-01,19.44,Adult cattle,Portugal,0-50
+2012-03-01,0.16,Calf,Ireland,0-50
+2012-04-01,0.02,Calf,Ireland,0-50
+2012-04-01,110.36,Bovine meat,Ireland,100-150
+2012-04-01,0.22,Young cattle,Ireland,0-50
+2012-04-01,21.29,Adult cattle,Portugal,0-50
+2012-04-01,11.88,Calf and young cattle,Portugal,0-50
+2012-04-01,33.17,Bovine meat,Portugal,0-50
+2012-04-01,6.99,Young cattle,Portugal,0-50
+2012-04-01,4.9,Calf,Portugal,0-50
+2012-04-01,110.12,Adult cattle,Ireland,100-150
+2012-04-01,0.24,Calf and young cattle,Ireland,0-50
+2012-05-01,0.27,Young cattle,Ireland,0-50
+2012-05-01,0.02,Calf,Ireland,0-50
+2012-05-01,5.42,Young cattle,Portugal,0-50
+2012-05-01,0.29,Calf and young cattle,Ireland,0-50
+2012-05-01,118.31,Bovine meat,Ireland,100-150
+2012-05-01,33.87,Bovine meat,Portugal,0-50
+2012-05-01,10.62,Calf and young cattle,Portugal,0-50
+2012-05-01,5.2,Calf,Portugal,0-50
+2012-05-01,118.02,Adult cattle,Ireland,100-150
+2012-05-01,23.25,Adult cattle,Portugal,0-50
+2012-06-01,31.29,Bovine meat,Portugal,0-50
+2012-06-01,9.73,Calf and young cattle,Portugal,0-50
+2012-06-01,5.06,Calf,Portugal,0-50
+2012-06-01,21.56,Adult cattle,Portugal,0-50
+2012-06-01,0.05,Calf,Ireland,0-50
+2012-06-01,106.09,Bovine meat,Ireland,100-150
+2012-06-01,0.42,Calf and young cattle,Ireland,0-50
+2012-06-01,0.37,Young cattle,Ireland,0-50
+2012-06-01,4.67,Young cattle,Portugal,0-50
+2012-06-01,105.68,Adult cattle,Ireland,100-150
+2012-07-01,115.06,Adult cattle,Ireland,100-150
+2012-07-01,0.4,Calf and young cattle,Ireland,0-50
+2012-07-01,115.46,Bovine meat,Ireland,100-150
+2012-07-01,0.33,Young cattle,Ireland,0-50
+2012-07-01,6.4,Young cattle,Portugal,0-50
+2012-07-01,28.01,Adult cattle,Portugal,0-50
+2012-07-01,40.85,Bovine meat,Portugal,0-50
+2012-07-01,12.84,Calf and young cattle,Portugal,0-50
+2012-07-01,6.44,Calf,Portugal,0-50
+2012-07-01,0.07,Calf,Ireland,0-50
+2012-08-01,40.75,Bovine meat,Portugal,0-50
+2012-08-01,7.91,Calf,Portugal,0-50
+2012-08-01,6.51,Young cattle,Portugal,0-50
+2012-08-01,14.42,Calf and young cattle,Portugal,0-50
+2012-08-01,26.34,Adult cattle,Portugal,0-50
+2012-08-01,0.34,Young cattle,Ireland,0-50
+2012-08-01,0.4,Calf and young cattle,Ireland,0-50
+2012-08-01,127.72,Adult cattle,Ireland,100-150
+2012-08-01,128.12,Bovine meat,Ireland,100-150
+2012-08-01,0.07,Calf,Ireland,0-50
+2012-09-01,20.46,Adult cattle,Portugal,0-50
+2012-09-01,0.35,Calf and young cattle,Ireland,0-50
+2012-09-01,0.26,Young cattle,Ireland,0-50
+2012-09-01,6.87,Calf,Portugal,0-50
+2012-09-01,126.37,Bovine meat,Ireland,100-150
+2012-09-01,126.03,Adult cattle,Ireland,100-150
+2012-09-01,0.08,Calf,Ireland,0-50
+2012-09-01,32.18,Bovine meat,Portugal,0-50
+2012-09-01,4.85,Young cattle,Portugal,0-50
+2012-09-01,11.72,Calf and young cattle,Portugal,0-50
+2012-10-01,0.4,Calf and young cattle,Ireland,0-50
+2012-10-01,0.13,Calf,Ireland,0-50
+2012-10-01,154.64,Adult cattle,Ireland,150-200
+2012-10-01,7.05,Young cattle,Portugal,0-50
+2012-10-01,155.04,Bovine meat,Ireland,150-200
+2012-10-01,22.2,Adult cattle,Portugal,0-50
+2012-10-01,37.2,Bovine meat,Portugal,0-50
+2012-10-01,0.28,Young cattle,Ireland,0-50
+2012-10-01,15.0,Calf and young cattle,Portugal,0-50
+2012-10-01,7.95,Calf,Portugal,0-50
+2012-11-01,6.32,Young cattle,Portugal,0-50
+2012-11-01,18.82,Adult cattle,Portugal,0-50
+2012-11-01,12.66,Calf and young cattle,Portugal,0-50
+2012-11-01,6.34,Calf,Portugal,0-50
+2012-11-01,31.48,Bovine meat,Portugal,0-50
+2012-11-01,0.11,Calf,Ireland,0-50
+2012-11-01,0.27,Young cattle,Ireland,0-50
+2012-11-01,149.52,Adult cattle,Ireland,100-150
+2012-11-01,0.38,Calf and young cattle,Ireland,0-50
+2012-11-01,149.9,Bovine meat,Ireland,100-150
+2012-12-01,119.04,Adult cattle,Ireland,100-150
+2012-12-01,0.31,Young cattle,Ireland,0-50
+2012-12-01,119.43,Bovine meat,Ireland,100-150
+2012-12-01,0.39,Calf and young cattle,Ireland,0-50
+2012-12-01,15.36,Calf and young cattle,Portugal,0-50
+2012-12-01,6.97,Calf,Portugal,0-50
+2012-12-01,33.71,Bovine meat,Portugal,0-50
+2012-12-01,8.39,Young cattle,Portugal,0-50
+2012-12-01,18.35,Adult cattle,Portugal,0-50
+2012-12-01,0.08,Calf,Ireland,0-50
+2013-01-01,29.31,Bovine meat,Portugal,0-50
+2013-01-01,0.27,Young cattle,Ireland,0-50
+2013-01-01,0.29,Calf and young cattle,Ireland,0-50
+2013-01-01,136.96,Adult cattle,Ireland,100-150
+2013-01-01,4.88,Calf,Portugal,0-50
+2013-01-01,0.02,Calf,Ireland,0-50
+2013-01-01,137.25,Bovine meat,Ireland,100-150
+2013-01-01,16.96,Adult cattle,Portugal,0-50
+2013-01-01,7.47,Young cattle,Portugal,0-50
+2013-01-01,12.35,Calf and young cattle,Portugal,0-50
+2013-02-01,10.01,Calf and young cattle,Portugal,0-50
+2013-02-01,128.41,Bovine meat,Ireland,100-150
+2013-02-01,3.65,Calf,Portugal,0-50
+2013-02-01,127.76,Adult cattle,Ireland,100-150
+2013-02-01,0.36,Young cattle,Ireland,0-50
+2013-02-01,0.29,Calf,Ireland,0-50
+2013-02-01,0.65,Calf and young cattle,Ireland,0-50
+2013-02-01,25.42,Bovine meat,Portugal,0-50
+2013-02-01,15.41,Adult cattle,Portugal,0-50
+2013-02-01,6.36,Young cattle,Portugal,0-50
+2013-03-01,17.2,Adult cattle,Portugal,0-50
+2013-03-01,27.36,Bovine meat,Portugal,0-50
+2013-03-01,3.82,Calf,Portugal,0-50
+2013-03-01,117.41,Bovine meat,Ireland,100-150
+2013-03-01,1.03,Calf and young cattle,Ireland,0-50
+2013-03-01,0.7,Calf,Ireland,0-50
+2013-03-01,116.38,Adult cattle,Ireland,100-150
+2013-03-01,0.33,Young cattle,Ireland,0-50
+2013-03-01,6.34,Young cattle,Portugal,0-50
+2013-03-01,10.16,Calf and young cattle,Portugal,0-50
+2013-04-01,127.95,Bovine meat,Ireland,100-150
+2013-04-01,0.28,Young cattle,Ireland,0-50
+2013-04-01,0.22,Calf,Ireland,0-50
+2013-04-01,0.5,Calf and young cattle,Ireland,0-50
+2013-04-01,6.26,Young cattle,Portugal,0-50
+2013-04-01,4.17,Calf,Portugal,0-50
+2013-04-01,127.45,Adult cattle,Ireland,100-150
+2013-04-01,10.43,Calf and young cattle,Portugal,0-50
+2013-04-01,20.13,Adult cattle,Portugal,0-50
+2013-04-01,30.56,Bovine meat,Portugal,0-50
+2013-05-01,20.61,Adult cattle,Portugal,0-50
+2013-05-01,9.03,Calf and young cattle,Portugal,0-50
+2013-05-01,3.91,Calf,Portugal,0-50
+2013-05-01,5.12,Young cattle,Portugal,0-50
+2013-05-01,29.64,Bovine meat,Portugal,0-50
+2013-05-01,130.74,Adult cattle,Ireland,100-150
+2013-05-01,0.52,Calf and young cattle,Ireland,0-50
+2013-05-01,131.26,Bovine meat,Ireland,100-150
+2013-05-01,0.27,Young cattle,Ireland,0-50
+2013-05-01,0.25,Calf,Ireland,0-50
+2013-06-01,9.16,Calf and young cattle,Portugal,0-50
+2013-06-01,4.63,Calf,Portugal,0-50
+2013-06-01,28.59,Bovine meat,Portugal,0-50
+2013-06-01,0.05,Calf,Ireland,0-50
+2013-06-01,0.21,Young cattle,Ireland,0-50
+2013-06-01,113.58,Adult cattle,Ireland,100-150
+2013-06-01,0.25,Calf and young cattle,Ireland,0-50
+2013-06-01,19.43,Adult cattle,Portugal,0-50
+2013-06-01,4.54,Young cattle,Portugal,0-50
+2013-06-01,113.84,Bovine meat,Ireland,100-150
+2013-07-01,11.86,Calf and young cattle,Portugal,0-50
+2013-07-01,35.66,Bovine meat,Portugal,0-50
+2013-07-01,0.43,Calf and young cattle,Ireland,0-50
+2013-07-01,136.35,Bovine meat,Ireland,100-150
+2013-07-01,0.37,Young cattle,Ireland,0-50
+2013-07-01,135.92,Adult cattle,Ireland,100-150
+2013-07-01,0.06,Calf,Ireland,0-50
+2013-07-01,5.46,Young cattle,Portugal,0-50
+2013-07-01,23.8,Adult cattle,Portugal,0-50
+2013-07-01,6.4,Calf,Portugal,0-50
+2013-08-01,6.24,Calf,Portugal,0-50
+2013-08-01,23.06,Adult cattle,Portugal,0-50
+2013-08-01,12.26,Calf and young cattle,Portugal,0-50
+2013-08-01,123.76,Adult cattle,Ireland,100-150
+2013-08-01,35.32,Bovine meat,Portugal,0-50
+2013-08-01,124.12,Bovine meat,Ireland,100-150
+2013-08-01,0.36,Calf and young cattle,Ireland,0-50
+2013-08-01,0.09,Calf,Ireland,0-50
+2013-08-01,0.27,Young cattle,Ireland,0-50
+2013-08-01,6.01,Young cattle,Portugal,0-50
+2013-09-01,11.77,Calf and young cattle,Portugal,0-50
+2013-09-01,20.19,Adult cattle,Portugal,0-50
+2013-09-01,5.53,Young cattle,Portugal,0-50
+2013-09-01,144.93,Bovine meat,Ireland,100-150
+2013-09-01,0.09,Calf,Ireland,0-50
+2013-09-01,0.36,Calf and young cattle,Ireland,0-50
+2013-09-01,144.56,Adult cattle,Ireland,100-150
+2013-09-01,0.27,Young cattle,Ireland,0-50
+2013-09-01,31.97,Bovine meat,Portugal,0-50
+2013-09-01,6.25,Calf,Portugal,0-50
+2013-10-01,11.86,Calf and young cattle,Portugal,0-50
+2013-10-01,19.28,Adult cattle,Portugal,0-50
+2013-10-01,5.92,Calf,Portugal,0-50
+2013-10-01,31.14,Bovine meat,Portugal,0-50
+2013-10-01,157.45,Bovine meat,Ireland,150-200
+2013-10-01,0.19,Calf,Ireland,0-50
+2013-10-01,0.41,Calf and young cattle,Ireland,0-50
+2013-10-01,157.04,Adult cattle,Ireland,150-200
+2013-10-01,0.22,Young cattle,Ireland,0-50
+2013-10-01,5.94,Young cattle,Portugal,0-50
+2013-11-01,5.37,Young cattle,Portugal,0-50
+2013-11-01,17.82,Adult cattle,Portugal,0-50
+2013-11-01,10.45,Calf and young cattle,Portugal,0-50
+2013-11-01,5.08,Calf,Portugal,0-50
+2013-11-01,28.27,Bovine meat,Portugal,0-50
+2013-11-01,0.12,Calf,Ireland,0-50
+2013-11-01,145.11,Bovine meat,Ireland,100-150
+2013-11-01,0.33,Calf and young cattle,Ireland,0-50
+2013-11-01,0.22,Young cattle,Ireland,0-50
+2013-11-01,144.77,Adult cattle,Ireland,100-150
+2013-12-01,0.37,Calf and young cattle,Ireland,0-50
+2013-12-01,124.6,Bovine meat,Ireland,100-150
+2013-12-01,0.3,Young cattle,Ireland,0-50
+2013-12-01,0.07,Calf,Ireland,0-50
+2013-12-01,124.22,Adult cattle,Ireland,100-150
+2013-12-01,31.6,Bovine meat,Portugal,0-50
+2013-12-01,13.38,Calf and young cattle,Portugal,0-50
+2013-12-01,18.22,Adult cattle,Portugal,0-50
+2013-12-01,5.81,Calf,Portugal,0-50
+2013-12-01,7.57,Young cattle,Portugal,0-50
+2014-01-01,27.62,Bovine meat,Portugal,0-50
+2014-01-01,6.26,Young cattle,Portugal,0-50
+2014-01-01,10.65,Calf and young cattle,Portugal,0-50
+2014-01-01,4.39,Calf,Portugal,0-50
+2014-01-01,0.3,Calf and young cattle,Ireland,0-50
+2014-01-01,0.11,Calf,Ireland,0-50
+2014-01-01,147.11,Adult cattle,Ireland,100-150
+2014-01-01,0.19,Young cattle,Ireland,0-50
+2014-01-01,147.41,Bovine meat,Ireland,100-150
+2014-01-01,16.97,Adult cattle,Portugal,0-50
+2014-02-01,5.68,Young cattle,Portugal,0-50
+2014-02-01,136.07,Bovine meat,Ireland,100-150
+2014-02-01,0.07,Calf,Ireland,0-50
+2014-02-01,15.4,Adult cattle,Portugal,0-50
+2014-02-01,24.48,Bovine meat,Portugal,0-50
+2014-02-01,3.4,Calf,Portugal,0-50
+2014-02-01,9.08,Calf and young cattle,Portugal,0-50
+2014-02-01,1.58,Calf and young cattle,Ireland,0-50
+2014-02-01,134.5,Adult cattle,Ireland,100-150
+2014-02-01,1.51,Young cattle,Ireland,0-50
+2014-03-01,3.45,Calf,Portugal,0-50
+2014-03-01,25.67,Bovine meat,Portugal,0-50
+2014-03-01,9.57,Calf and young cattle,Portugal,0-50
+2014-03-01,6.13,Young cattle,Portugal,0-50
+2014-03-01,1.94,Young cattle,Ireland,0-50
+2014-03-01,2.42,Calf and young cattle,Ireland,0-50
+2014-03-01,146.36,Bovine meat,Ireland,100-150
+2014-03-01,143.94,Adult cattle,Ireland,100-150
+2014-03-01,16.09,Adult cattle,Portugal,0-50
+2014-03-01,0.48,Calf,Ireland,0-50
+2014-04-01,5.5,Young cattle,Portugal,0-50
+2014-04-01,4.06,Calf,Portugal,0-50
+2014-04-01,27.5,Bovine meat,Portugal,0-50
+2014-04-01,9.55,Calf and young cattle,Portugal,0-50
+2014-04-01,0.63,Young cattle,Ireland,0-50
+2014-04-01,0.3,Calf,Ireland,0-50
+2014-04-01,0.92,Calf and young cattle,Ireland,0-50
+2014-04-01,148.21,Bovine meat,Ireland,100-150
+2014-04-01,147.29,Adult cattle,Ireland,100-150
+2014-04-01,17.94,Adult cattle,Portugal,0-50
+2014-05-01,146.35,Bovine meat,Ireland,100-150
+2014-05-01,25.82,Bovine meat,Portugal,0-50
+2014-05-01,0.46,Calf and young cattle,Ireland,0-50
+2014-05-01,0.38,Young cattle,Ireland,0-50
+2014-05-01,4.73,Young cattle,Portugal,0-50
+2014-05-01,8.26,Calf and young cattle,Portugal,0-50
+2014-05-01,17.56,Adult cattle,Portugal,0-50
+2014-05-01,3.53,Calf,Portugal,0-50
+2014-05-01,145.89,Adult cattle,Ireland,100-150
+2014-05-01,0.09,Calf,Ireland,0-50
+2014-06-01,137.95,Adult cattle,Ireland,100-150
+2014-06-01,0.05,Calf,Ireland,0-50
+2014-06-01,0.19,Young cattle,Ireland,0-50
+2014-06-01,138.2,Bovine meat,Ireland,100-150
+2014-06-01,0.24,Calf and young cattle,Ireland,0-50
+2014-06-01,8.2,Calf and young cattle,Portugal,0-50
+2014-06-01,21.34,Adult cattle,Portugal,0-50
+2014-06-01,29.54,Bovine meat,Portugal,0-50
+2014-06-01,4.13,Young cattle,Portugal,0-50
+2014-06-01,4.07,Calf,Portugal,0-50
+2014-07-01,138.55,Bovine meat,Ireland,100-150
+2014-07-01,0.22,Calf and young cattle,Ireland,0-50
+2014-07-01,5.4,Young cattle,Portugal,0-50
+2014-07-01,4.79,Calf,Portugal,0-50
+2014-07-01,138.33,Adult cattle,Ireland,100-150
+2014-07-01,0.12,Calf,Ireland,0-50
+2014-07-01,30.82,Bovine meat,Portugal,0-50
+2014-07-01,10.19,Calf and young cattle,Portugal,0-50
+2014-07-01,20.62,Adult cattle,Portugal,0-50
+2014-07-01,0.1,Young cattle,Ireland,0-50
+2014-08-01,30.87,Bovine meat,Portugal,0-50
+2014-08-01,5.14,Young cattle,Portugal,0-50
+2014-08-01,20.65,Adult cattle,Portugal,0-50
+2014-08-01,10.22,Calf and young cattle,Portugal,0-50
+2014-08-01,0.22,Calf and young cattle,Ireland,0-50
+2014-08-01,5.08,Calf,Portugal,0-50
+2014-08-01,138.42,Adult cattle,Ireland,100-150
+2014-08-01,0.11,Calf,Ireland,0-50
+2014-08-01,138.64,Bovine meat,Ireland,100-150
+2014-09-01,0.18,Calf,Ireland,0-50
+2014-09-01,0.11,Young cattle,Ireland,0-50
+2014-09-01,159.28,Adult cattle,Ireland,150-200
+2014-09-01,31.76,Bovine meat,Portugal,0-50
+2014-09-01,11.36,Calf and young cattle,Portugal,0-50
+2014-09-01,20.4,Adult cattle,Portugal,0-50
+2014-09-01,5.69,Young cattle,Portugal,0-50
+2014-09-01,5.68,Calf,Portugal,0-50
+2014-09-01,0.29,Calf and young cattle,Ireland,0-50
+2014-09-01,159.57,Bovine meat,Ireland,150-200
+2014-10-01,6.04,Young cattle,Portugal,0-50
+2014-10-01,0.37,Calf,Ireland,0-50
+2014-10-01,0.56,Calf and young cattle,Ireland,0-50
+2014-10-01,161.51,Adult cattle,Ireland,150-200
+2014-10-01,11.27,Calf and young cattle,Portugal,0-50
+2014-10-01,5.23,Calf,Portugal,0-50
+2014-10-01,0.19,Young cattle,Ireland,0-50
+2014-10-01,162.07,Bovine meat,Ireland,150-200
+2014-10-01,18.39,Adult cattle,Portugal,0-50
+2014-10-01,29.66,Bovine meat,Portugal,0-50
+2014-11-01,5.21,Young cattle,Portugal,0-50
+2014-11-01,145.47,Adult cattle,Ireland,100-150
+2014-11-01,146.05,Bovine meat,Ireland,100-150
+2014-11-01,0.38,Calf,Ireland,0-50
+2014-11-01,0.58,Calf and young cattle,Ireland,0-50
+2014-11-01,0.19,Young cattle,Ireland,0-50
+2014-11-01,25.96,Bovine meat,Portugal,0-50
+2014-11-01,9.44,Calf and young cattle,Portugal,0-50
+2014-11-01,4.23,Calf,Portugal,0-50
+2014-11-01,16.52,Adult cattle,Portugal,0-50
+2014-12-01,0.2,Young cattle,Ireland,0-50
+2014-12-01,13.36,Calf and young cattle,Portugal,0-50
+2014-12-01,5.68,Calf,Portugal,0-50
+2014-12-01,7.68,Young cattle,Portugal,0-50
+2014-12-01,18.09,Adult cattle,Portugal,0-50
+2014-12-01,31.45,Bovine meat,Portugal,0-50
+2014-12-01,140.72,Adult cattle,Ireland,100-150
+2014-12-01,141.24,Bovine meat,Ireland,100-150
+2014-12-01,0.31,Calf,Ireland,0-50
+2014-12-01,0.51,Calf and young cattle,Ireland,0-50
+2015-01-01,141.0,Adult cattle,Ireland,100-150
+2015-01-01,141.35,Bovine meat,Ireland,100-150
+2015-01-01,3.43,Calf,Portugal,0-50
+2015-01-01,6.99,Young cattle,Portugal,0-50
+2015-01-01,10.42,Calf and young cattle,Portugal,0-50
+2015-01-01,26.91,Bovine meat,Portugal,0-50
+2015-01-01,16.5,Adult cattle,Portugal,0-50
+2015-01-01,0.35,Calf and young cattle,Ireland,0-50
+2015-01-01,0.2,Young cattle,Ireland,0-50
+2015-01-01,0.15,Calf,Ireland,0-50
+2015-02-01,2.66,Calf,Portugal,0-50
+2015-02-01,14.82,Adult cattle,Portugal,0-50
+2015-02-01,8.78,Calf and young cattle,Portugal,0-50
+2015-02-01,0.58,Calf,Ireland,0-50
+2015-02-01,23.6,Bovine meat,Portugal,0-50
+2015-02-01,134.35,Adult cattle,Ireland,100-150
+2015-02-01,136.14,Bovine meat,Ireland,100-150
+2015-02-01,1.21,Young cattle,Ireland,0-50
+2015-02-01,1.79,Calf and young cattle,Ireland,0-50
+2015-02-01,6.11,Young cattle,Portugal,0-50
+2015-03-01,3.38,Calf,Portugal,0-50
+2015-03-01,18.9,Adult cattle,Portugal,0-50
+2015-03-01,29.25,Bovine meat,Portugal,0-50
+2015-03-01,10.35,Calf and young cattle,Portugal,0-50
+2015-03-01,0.57,Calf,Ireland,0-50
+2015-03-01,144.8,Adult cattle,Ireland,100-150
+2015-03-01,6.98,Young cattle,Portugal,0-50
+2015-03-01,0.98,Young cattle,Ireland,0-50
+2015-03-01,1.55,Calf and young cattle,Ireland,0-50
+2015-03-01,146.35,Bovine meat,Ireland,100-150
+2015-04-01,135.91,Bovine meat,Ireland,100-150
+2015-04-01,0.37,Calf,Ireland,0-50
+2015-04-01,5.94,Young cattle,Portugal,0-50
+2015-04-01,3.07,Calf,Portugal,0-50
+2015-04-01,27.32,Bovine meat,Portugal,0-50
+2015-04-01,0.68,Calf and young cattle,Ireland,0-50
+2015-04-01,0.32,Young cattle,Ireland,0-50
+2015-04-01,135.23,Adult cattle,Ireland,100-150
+2015-04-01,9.01,Calf and young cattle,Portugal,0-50
+2015-04-01,18.31,Adult cattle,Portugal,0-50
+2015-05-01,127.78,Adult cattle,Ireland,100-150
+2015-05-01,0.1,Calf,Ireland,0-50
+2015-05-01,128.08,Bovine meat,Ireland,100-150
+2015-05-01,0.3,Calf and young cattle,Ireland,0-50
+2015-05-01,0.2,Young cattle,Ireland,0-50
+2015-05-01,3.35,Calf,Portugal,0-50
+2015-05-01,29.21,Bovine meat,Portugal,0-50
+2015-05-01,8.58,Calf and young cattle,Portugal,0-50
+2015-05-01,20.63,Adult cattle,Portugal,0-50
+2015-05-01,5.23,Young cattle,Portugal,0-50
+2015-06-01,10.36,Calf and young cattle,Portugal,0-50
+2015-06-01,131.27,Adult cattle,Ireland,100-150
+2015-06-01,0.1,Calf,Ireland,0-50
+2015-06-01,0.24,Calf and young cattle,Ireland,0-50
+2015-06-01,0.15,Young cattle,Ireland,0-50
+2015-06-01,131.52,Bovine meat,Ireland,100-150
+2015-06-01,32.36,Bovine meat,Portugal,0-50
+2015-06-01,5.78,Young cattle,Portugal,0-50
+2015-06-01,4.59,Calf,Portugal,0-50
+2015-06-01,21.99,Adult cattle,Portugal,0-50
+2015-07-01,5.57,Young cattle,Portugal,0-50
+2015-07-01,4.27,Calf,Portugal,0-50
+2015-07-01,32.69,Bovine meat,Portugal,0-50
+2015-07-01,9.85,Calf and young cattle,Portugal,0-50
+2015-07-01,22.84,Adult cattle,Portugal,0-50
+2015-07-01,0.11,Young cattle,Ireland,0-50
+2015-07-01,144.13,Bovine meat,Ireland,100-150
+2015-07-01,143.91,Adult cattle,Ireland,100-150
+2015-07-01,0.22,Calf and young cattle,Ireland,0-50
+2015-08-01,132.65,Adult cattle,Ireland,100-150
+2015-08-01,132.92,Bovine meat,Ireland,100-150
+2015-08-01,0.13,Young cattle,Ireland,0-50
+2015-08-01,0.27,Calf and young cattle,Ireland,0-50
+2015-08-01,25.17,Adult cattle,Portugal,0-50
+2015-08-01,5.3,Calf,Portugal,0-50
+2015-08-01,6.26,Young cattle,Portugal,0-50
+2015-08-01,11.56,Calf and young cattle,Portugal,0-50
+2015-08-01,36.72,Bovine meat,Portugal,0-50
+2015-08-01,0.14,Calf,Ireland,0-50
+2015-09-01,145.72,Bovine meat,Ireland,100-150
+2015-09-01,0.09,Calf,Ireland,0-50
+2015-09-01,0.23,Calf and young cattle,Ireland,0-50
+2015-09-01,0.13,Young cattle,Ireland,0-50
+2015-09-01,22.39,Adult cattle,Portugal,0-50
+2015-09-01,5.81,Young cattle,Portugal,0-50
+2015-09-01,4.73,Calf,Portugal,0-50
+2015-09-01,32.93,Bovine meat,Portugal,0-50
+2015-09-01,145.5,Adult cattle,Ireland,100-150
+2015-09-01,10.53,Calf and young cattle,Portugal,0-50
+2015-10-01,20.5,Adult cattle,Portugal,0-50
+2015-10-01,5.88,Young cattle,Portugal,0-50
+2015-10-01,142.07,Adult cattle,Ireland,100-150
+2015-10-01,0.25,Calf and young cattle,Ireland,0-50
+2015-10-01,0.08,Calf,Ireland,0-50
+2015-10-01,142.32,Bovine meat,Ireland,100-150
+2015-10-01,0.17,Young cattle,Ireland,0-50
+2015-10-01,30.36,Bovine meat,Portugal,0-50
+2015-10-01,3.98,Calf,Portugal,0-50
+2015-10-01,9.86,Calf and young cattle,Portugal,0-50
+2015-11-01,0.2,Young cattle,Ireland,0-50
+2015-11-01,0.34,Calf and young cattle,Ireland,0-50
+2015-11-01,0.15,Calf,Ireland,0-50
+2015-11-01,11.02,Calf and young cattle,Portugal,0-50
+2015-11-01,146.38,Adult cattle,Ireland,100-150
+2015-11-01,146.72,Bovine meat,Ireland,100-150
+2015-11-01,6.94,Young cattle,Portugal,0-50
+2015-11-01,19.06,Adult cattle,Portugal,0-50
+2015-11-01,30.08,Bovine meat,Portugal,0-50
+2015-11-01,4.08,Calf,Portugal,0-50
+2015-12-01,133.36,Adult cattle,Ireland,100-150
+2015-12-01,31.77,Bovine meat,Portugal,0-50
+2015-12-01,19.38,Adult cattle,Portugal,0-50
+2015-12-01,12.38,Calf and young cattle,Portugal,0-50
+2015-12-01,0.36,Calf and young cattle,Ireland,0-50
+2015-12-01,7.97,Young cattle,Portugal,0-50
+2015-12-01,0.31,Young cattle,Ireland,0-50
+2015-12-01,133.72,Bovine meat,Ireland,100-150
+2015-12-01,0.05,Calf,Ireland,0-50
+2015-12-01,4.41,Calf,Portugal,0-50
+2016-01-01,29.61,Bovine meat,Portugal,0-50
+2016-01-01,18.88,Adult cattle,Portugal,0-50
+2016-01-01,10.73,Calf and young cattle,Portugal,0-50
+2016-01-01,7.2,Young cattle,Portugal,0-50
+2016-01-01,137.87,Bovine meat,Ireland,100-150
+2016-01-01,137.63,Adult cattle,Ireland,100-150
+2016-01-01,0.02,Calf,Ireland,0-50
+2016-01-01,0.22,Young cattle,Ireland,0-50
+2016-01-01,0.24,Calf and young cattle,Ireland,0-50
+2016-01-01,3.53,Calf,Portugal,0-50
+2016-02-01,150.35,Bovine meat,Ireland,150-200
+2016-02-01,0.63,Calf,Ireland,0-50
+2016-02-01,2.51,Calf and young cattle,Ireland,0-50
+2016-02-01,29.19,Bovine meat,Portugal,0-50
+2016-02-01,1.87,Young cattle,Ireland,0-50
+2016-02-01,147.84,Adult cattle,Ireland,100-150
+2016-02-01,9.66,Calf and young cattle,Portugal,0-50
+2016-02-01,3.0,Calf,Portugal,0-50
+2016-02-01,19.54,Adult cattle,Portugal,0-50
+2016-02-01,6.65,Young cattle,Portugal,0-50
+2016-03-01,2.3,Calf and young cattle,Ireland,0-50
+2016-03-01,1.26,Young cattle,Ireland,0-50
+2016-03-01,143.28,Adult cattle,Ireland,100-150
+2016-03-01,1.04,Calf,Ireland,0-50
+2016-03-01,3.3,Calf,Portugal,0-50
+2016-03-01,30.66,Bovine meat,Portugal,0-50
+2016-03-01,20.14,Adult cattle,Portugal,0-50
+2016-03-01,7.23,Young cattle,Portugal,0-50
+2016-03-01,10.52,Calf and young cattle,Portugal,0-50
+2016-03-01,145.59,Bovine meat,Ireland,100-150
+2016-04-01,3.33,Calf,Portugal,0-50
+2016-04-01,8.89,Calf and young cattle,Portugal,0-50
+2016-04-01,28.37,Bovine meat,Portugal,0-50
+2016-04-01,5.56,Young cattle,Portugal,0-50
+2016-04-01,0.32,Young cattle,Ireland,0-50
+2016-04-01,133.81,Adult cattle,Ireland,100-150
+2016-04-01,0.36,Calf,Ireland,0-50
+2016-04-01,0.68,Calf and young cattle,Ireland,0-50
+2016-04-01,19.48,Adult cattle,Portugal,0-50
+2016-04-01,134.49,Bovine meat,Ireland,100-150
+2016-05-01,0.11,Calf,Ireland,0-50
+2016-05-01,0.24,Calf and young cattle,Ireland,0-50
+2016-05-01,133.23,Adult cattle,Ireland,100-150
+2016-05-01,133.46,Bovine meat,Ireland,100-150
+2016-05-01,0.13,Young cattle,Ireland,0-50
+2016-05-01,3.87,Calf,Portugal,0-50
+2016-05-01,9.78,Calf and young cattle,Portugal,0-50
+2016-05-01,23.67,Adult cattle,Portugal,0-50
+2016-05-01,33.45,Bovine meat,Portugal,0-50
+2016-05-01,5.91,Young cattle,Portugal,0-50
+2016-06-01,137.99,Bovine meat,Ireland,100-150
+2016-06-01,5.9,Young cattle,Portugal,0-50
+2016-06-01,0.03,Calf,Ireland,0-50
+2016-06-01,137.87,Adult cattle,Ireland,100-150
+2016-06-01,0.09,Young cattle,Ireland,0-50
+2016-06-01,21.46,Adult cattle,Portugal,0-50
+2016-06-01,0.12,Calf and young cattle,Ireland,0-50
+2016-06-01,4.27,Calf,Portugal,0-50
+2016-06-01,31.63,Bovine meat,Portugal,0-50
+2016-06-01,10.17,Calf and young cattle,Portugal,0-50
+2016-07-01,31.39,Bovine meat,Portugal,0-50
+2016-07-01,6.3,Young cattle,Portugal,0-50
+2016-07-01,10.73,Calf and young cattle,Portugal,0-50
+2016-07-01,135.91,Bovine meat,Ireland,100-150
+2016-07-01,0.05,Calf,Ireland,0-50
+2016-07-01,135.8,Adult cattle,Ireland,100-150
+2016-07-01,4.43,Calf,Portugal,0-50
+2016-07-01,20.66,Adult cattle,Portugal,0-50
+2016-07-01,0.06,Young cattle,Ireland,0-50
+2016-07-01,0.11,Calf and young cattle,Ireland,0-50
+2016-08-01,0.03,Calf,Ireland,0-50
+2016-08-01,0.11,Young cattle,Ireland,0-50
+2016-08-01,0.13,Calf and young cattle,Ireland,0-50
+2016-08-01,13.85,Calf and young cattle,Portugal,0-50
+2016-08-01,25.7,Adult cattle,Portugal,0-50
+2016-08-01,39.55,Bovine meat,Portugal,0-50
+2016-08-01,5.84,Calf,Portugal,0-50
+2016-08-01,8.01,Young cattle,Portugal,0-50
+2016-08-01,148.86,Bovine meat,Ireland,100-150
+2016-08-01,148.72,Adult cattle,Ireland,100-150
+2016-09-01,0.12,Calf and young cattle,Ireland,0-50
+2016-09-01,0.07,Young cattle,Ireland,0-50
+2016-09-01,161.38,Bovine meat,Ireland,150-200
+2016-09-01,161.26,Adult cattle,Ireland,150-200
+2016-09-01,0.05,Calf,Ireland,0-50
+2016-09-01,11.44,Calf and young cattle,Portugal,0-50
+2016-09-01,6.65,Young cattle,Portugal,0-50
+2016-09-01,31.74,Bovine meat,Portugal,0-50
+2016-09-01,20.3,Adult cattle,Portugal,0-50
+2016-09-01,4.79,Calf,Portugal,0-50
+2016-10-01,7.82,Young cattle,Portugal,0-50
+2016-10-01,4.49,Calf,Portugal,0-50
+2016-10-01,20.06,Adult cattle,Portugal,0-50
+2016-10-01,12.31,Calf and young cattle,Portugal,0-50
+2016-10-01,0.03,Calf,Ireland,0-50
+2016-10-01,32.37,Bovine meat,Portugal,0-50
+2016-10-01,150.98,Bovine meat,Ireland,150-200
+2016-10-01,0.17,Calf and young cattle,Ireland,0-50
+2016-10-01,0.14,Young cattle,Ireland,0-50
+2016-10-01,150.81,Adult cattle,Ireland,150-200
+2016-11-01,0.03,Calf,Ireland,0-50
+2016-11-01,0.14,Young cattle,Ireland,0-50
+2016-11-01,165.87,Adult cattle,Ireland,150-200
+2016-11-01,166.05,Bovine meat,Ireland,150-200
+2016-11-01,0.17,Calf and young cattle,Ireland,0-50
+2016-11-01,30.76,Bovine meat,Portugal,0-50
+2016-11-01,4.09,Calf,Portugal,0-50
+2016-11-01,8.0,Young cattle,Portugal,0-50
+2016-11-01,18.68,Adult cattle,Portugal,0-50
+2016-11-01,12.09,Calf and young cattle,Portugal,0-50
+2016-12-01,30.87,Bovine meat,Portugal,0-50
+2016-12-01,4.16,Calf,Portugal,0-50
+2016-12-01,12.82,Calf and young cattle,Portugal,0-50
+2016-12-01,18.05,Adult cattle,Portugal,0-50
+2016-12-01,8.66,Young cattle,Portugal,0-50
+2016-12-01,0.33,Young cattle,Ireland,0-50
+2016-12-01,141.28,Bovine meat,Ireland,100-150
+2016-12-01,0.35,Calf and young cattle,Ireland,0-50
+2016-12-01,0.03,Calf,Ireland,0-50
+2016-12-01,140.93,Adult cattle,Ireland,100-150
+2017-01-01,3.53,Calf,Portugal,0-50
+2017-01-01,10.73,Calf and young cattle,Portugal,0-50
+2017-01-01,29.61,Bovine meat,Portugal,0-50
+2017-01-01,18.88,Adult cattle,Portugal,0-50
+2017-01-01,148.99,Adult cattle,Ireland,100-150
+2017-01-01,149.2,Bovine meat,Ireland,100-150
+2017-01-01,0.22,Calf and young cattle,Ireland,0-50
+2017-01-01,0.03,Calf,Ireland,0-50
+2017-01-01,0.18,Young cattle,Ireland,0-50
+2017-01-01,7.2,Young cattle,Portugal,0-50
+2017-02-01,8.8,Calf and young cattle,Portugal,0-50
+2017-02-01,24.51,Bovine meat,Portugal,0-50
+2017-02-01,6.02,Young cattle,Portugal,0-50
+2017-02-01,15.71,Adult cattle,Portugal,0-50
+2017-02-01,2.6,Young cattle,Ireland,0-50
+2017-02-01,1.63,Calf,Ireland,0-50
+2017-02-01,4.23,Calf and young cattle,Ireland,0-50
+2017-02-01,150.63,Bovine meat,Ireland,150-200
+2017-02-01,2.78,Calf,Portugal,0-50
+2017-02-01,146.4,Adult cattle,Ireland,100-150
+2017-03-01,158.09,Bovine meat,Ireland,150-200
+2017-03-01,2.91,Calf,Ireland,0-50
+2017-03-01,5.97,Calf and young cattle,Ireland,0-50
+2017-03-01,7.21,Young cattle,Portugal,0-50
+2017-03-01,18.09,Adult cattle,Portugal,0-50
+2017-03-01,28.4,Bovine meat,Portugal,0-50
+2017-03-01,10.32,Calf and young cattle,Portugal,0-50
+2017-03-01,3.11,Calf,Portugal,0-50
+2017-03-01,3.06,Young cattle,Ireland,0-50
+2017-03-01,152.11,Adult cattle,Ireland,150-200
+2017-04-01,26.45,Bovine meat,Portugal,0-50
+2017-04-01,3.44,Calf,Portugal,0-50
+2017-04-01,9.48,Calf and young cattle,Portugal,0-50
+2017-04-01,129.12,Adult cattle,Ireland,100-150
+2017-04-01,1.1,Calf and young cattle,Ireland,0-50
+2017-04-01,0.36,Calf,Ireland,0-50
+2017-04-01,6.04,Young cattle,Portugal,0-50
+2017-04-01,130.21,Bovine meat,Ireland,100-150
+2017-04-01,0.74,Young cattle,Ireland,0-50
+2017-04-01,16.97,Adult cattle,Portugal,0-50
+2017-05-01,4.0,Calf,Portugal,0-50
+2017-05-01,35.26,Bovine meat,Portugal,0-50
+2017-05-01,6.38,Young cattle,Portugal,0-50
+2017-05-01,24.88,Adult cattle,Portugal,0-50
+2017-05-01,10.38,Calf and young cattle,Portugal,0-50
+2017-05-01,0.37,Calf and young cattle,Ireland,0-50
+2017-05-01,152.64,Adult cattle,Ireland,150-200
+2017-05-01,0.18,Young cattle,Ireland,0-50
+2017-05-01,153.01,Bovine meat,Ireland,150-200
+2017-05-01,0.19,Calf,Ireland,0-50
+2017-06-01,0.22,Calf and young cattle,Ireland,0-50
+2017-06-01,0.08,Calf,Ireland,0-50
+2017-06-01,0.15,Young cattle,Ireland,0-50
+2017-06-01,154.82,Bovine meat,Ireland,150-200
+2017-06-01,154.6,Adult cattle,Ireland,150-200
+2017-06-01,5.21,Young cattle,Portugal,0-50
+2017-06-01,32.74,Bovine meat,Portugal,0-50
+2017-06-01,23.42,Adult cattle,Portugal,0-50
+2017-06-01,9.32,Calf and young cattle,Portugal,0-50
+2017-06-01,4.11,Calf,Portugal,0-50
+2017-07-01,35.04,Bovine meat,Portugal,0-50
+2017-07-01,4.52,Calf,Portugal,0-50
+2017-07-01,5.96,Young cattle,Portugal,0-50
+2017-07-01,24.57,Adult cattle,Portugal,0-50
+2017-07-01,10.48,Calf and young cattle,Portugal,0-50
+2017-07-01,0.08,Young cattle,Ireland,0-50
+2017-07-01,0.15,Calf and young cattle,Ireland,0-50
+2017-07-01,0.07,Calf,Ireland,0-50
+2017-07-01,143.44,Adult cattle,Ireland,100-150
+2017-07-01,143.59,Bovine meat,Ireland,100-150
+2017-08-01,37.29,Bovine meat,Portugal,0-50
+2017-08-01,13.0,Calf and young cattle,Portugal,0-50
+2017-08-01,7.0,Young cattle,Portugal,0-50
+2017-08-01,24.29,Adult cattle,Portugal,0-50
+2017-08-01,6.0,Calf,Portugal,0-50
+2017-08-01,161.47,Adult cattle,Ireland,150-200
+2017-08-01,0.11,Calf,Ireland,0-50
+2017-08-01,161.64,Bovine meat,Ireland,150-200
+2017-08-01,0.17,Calf and young cattle,Ireland,0-50
+2017-08-01,0.06,Young cattle,Ireland,0-50
+2017-09-01,11.33,Calf and young cattle,Portugal,0-50
+2017-09-01,30.77,Bovine meat,Portugal,0-50
+2017-09-01,19.44,Adult cattle,Portugal,0-50
+2017-09-01,6.58,Young cattle,Portugal,0-50
+2017-09-01,0.16,Calf,Ireland,0-50
+2017-09-01,0.28,Calf and young cattle,Ireland,0-50
+2017-09-01,159.6,Adult cattle,Ireland,150-200
+2017-09-01,159.88,Bovine meat,Ireland,150-200
+2017-09-01,4.74,Calf,Portugal,0-50
+2017-09-01,0.12,Young cattle,Ireland,0-50
+2017-10-01,34.1,Bovine meat,Portugal,0-50
+2017-10-01,21.12,Adult cattle,Portugal,0-50
+2017-10-01,4.83,Calf,Portugal,0-50
+2017-10-01,12.98,Calf and young cattle,Portugal,0-50
+2017-10-01,165.46,Adult cattle,Ireland,150-200
+2017-10-01,8.15,Young cattle,Portugal,0-50
+2017-10-01,0.32,Calf and young cattle,Ireland,0-50
+2017-10-01,0.13,Young cattle,Ireland,0-50
+2017-10-01,0.19,Calf,Ireland,0-50
+2017-10-01,165.78,Bovine meat,Ireland,150-200
+2017-11-01,181.7,Bovine meat,Ireland,150-200
+2017-11-01,19.49,Adult cattle,Portugal,0-50
+2017-11-01,8.16,Young cattle,Portugal,0-50
+2017-11-01,4.58,Calf,Portugal,0-50
+2017-11-01,0.29,Calf and young cattle,Ireland,0-50
+2017-11-01,32.23,Bovine meat,Portugal,0-50
+2017-11-01,0.16,Calf,Ireland,0-50
+2017-11-01,0.13,Young cattle,Ireland,0-50
+2017-11-01,181.41,Adult cattle,Ireland,150-200
+2017-11-01,12.74,Calf and young cattle,Portugal,0-50
+2017-12-01,0.04,Calf,Ireland,0-50
+2017-12-01,30.71,Bovine meat,Portugal,0-50
+2017-12-01,8.86,Young cattle,Portugal,0-50
+2017-12-01,0.16,Calf and young cattle,Ireland,0-50
+2017-12-01,142.85,Adult cattle,Ireland,100-150
+2017-12-01,0.12,Young cattle,Ireland,0-50
+2017-12-01,143.01,Bovine meat,Ireland,100-150
+2017-12-01,4.34,Calf,Portugal,0-50
+2017-12-01,13.2,Calf and young cattle,Portugal,0-50
+2017-12-01,17.52,Adult cattle,Portugal,0-50
+2018-01-01,31.74,Bovine meat,Portugal,0-50
+2018-01-01,20.47,Adult cattle,Portugal,0-50
+2018-01-01,7.68,Young cattle,Portugal,0-50
+2018-01-01,3.59,Calf,Portugal,0-50
+2018-01-01,0.24,Calf and young cattle,Ireland,0-50
+2018-01-01,158.57,Bovine meat,Ireland,150-200
+2018-01-01,158.33,Adult cattle,Ireland,150-200
+2018-01-01,0.18,Young cattle,Ireland,0-50
+2018-01-01,11.27,Calf and young cattle,Portugal,0-50
+2018-01-01,0.06,Calf,Ireland,0-50
+2018-02-01,6.84,Calf and young cattle,Ireland,0-50
+2018-02-01,2.36,Calf,Ireland,0-50
+2018-02-01,4.48,Young cattle,Ireland,0-50
+2018-02-01,146.03,Adult cattle,Ireland,100-150
+2018-02-01,16.99,Adult cattle,Portugal,0-50
+2018-02-01,9.74,Calf and young cattle,Portugal,0-50
+2018-02-01,3.14,Calf,Portugal,0-50
+2018-02-01,26.73,Bovine meat,Portugal,0-50
+2018-02-01,152.87,Bovine meat,Ireland,150-200
+2018-02-01,6.61,Young cattle,Portugal,0-50
+2018-03-01,29.64,Bovine meat,Portugal,0-50
+2018-03-01,10.31,Calf and young cattle,Portugal,0-50
+2018-03-01,19.33,Adult cattle,Portugal,0-50
+2018-03-01,6.94,Young cattle,Portugal,0-50
+2018-03-01,4.01,Young cattle,Ireland,0-50
+2018-03-01,144.54,Adult cattle,Ireland,100-150
+2018-03-01,152.81,Bovine meat,Ireland,150-200
+2018-03-01,4.26,Calf,Ireland,0-50
+2018-03-01,3.36,Calf,Portugal,0-50
+2018-03-01,8.27,Calf and young cattle,Ireland,0-50
+2018-04-01,1.66,Calf and young cattle,Ireland,0-50
+2018-04-01,0.96,Young cattle,Ireland,0-50
+2018-04-01,146.12,Adult cattle,Ireland,100-150
+2018-04-01,29.74,Bovine meat,Portugal,0-50
+2018-04-01,3.28,Calf,Portugal,0-50
+2018-04-01,6.22,Young cattle,Portugal,0-50
+2018-04-01,20.23,Adult cattle,Portugal,0-50
+2018-04-01,9.51,Calf and young cattle,Portugal,0-50
+2018-04-01,147.79,Bovine meat,Ireland,100-150
+2018-04-01,0.7,Calf,Ireland,0-50
+2018-05-01,3.94,Calf,Portugal,0-50
+2018-05-01,24.0,Adult cattle,Portugal,0-50
+2018-05-01,5.9,Young cattle,Portugal,0-50
+2018-05-01,0.71,Calf and young cattle,Ireland,0-50
+2018-05-01,0.35,Young cattle,Ireland,0-50
+2018-05-01,149.29,Adult cattle,Ireland,100-150
+2018-05-01,150.01,Bovine meat,Ireland,150-200
+2018-05-01,0.37,Calf,Ireland,0-50
+2018-05-01,33.84,Bovine meat,Portugal,0-50
+2018-05-01,9.85,Calf and young cattle,Portugal,0-50
+2018-06-01,0.19,Calf and young cattle,Ireland,0-50
+2018-06-01,0.08,Calf,Ireland,0-50
+2018-06-01,0.11,Young cattle,Ireland,0-50
+2018-06-01,147.14,Adult cattle,Ireland,100-150
+2018-06-01,147.33,Bovine meat,Ireland,100-150
+2018-06-01,8.58,Calf and young cattle,Portugal,0-50
+2018-06-01,3.34,Calf,Portugal,0-50
+2018-06-01,5.24,Young cattle,Portugal,0-50
+2018-06-01,23.33,Adult cattle,Portugal,0-50
+2018-06-01,31.91,Bovine meat,Portugal,0-50
+2018-07-01,26.08,Adult cattle,Portugal,0-50
+2018-07-01,37.08,Bovine meat,Portugal,0-50
+2018-07-01,4.41,Calf,Portugal,0-50
+2018-07-01,11.0,Calf and young cattle,Portugal,0-50
+2018-07-01,0.2,Calf and young cattle,Ireland,0-50
+2018-07-01,0.12,Calf,Ireland,0-50
+2018-07-01,163.06,Bovine meat,Ireland,150-200
+2018-07-01,0.08,Young cattle,Ireland,0-50
+2018-07-01,6.59,Young cattle,Portugal,0-50
+2018-07-01,162.86,Adult cattle,Ireland,150-200
+2018-08-01,163.53,Adult cattle,Ireland,150-200
+2018-08-01,163.79,Bovine meat,Ireland,150-200
+2018-08-01,0.15,Calf,Ireland,0-50
+2018-08-01,0.11,Young cattle,Ireland,0-50
+2018-08-01,7.29,Young cattle,Portugal,0-50
+2018-08-01,23.88,Adult cattle,Portugal,0-50
+2018-08-01,5.08,Calf,Portugal,0-50
+2018-08-01,36.25,Bovine meat,Portugal,0-50
+2018-08-01,12.37,Calf and young cattle,Portugal,0-50
+2018-08-01,0.26,Calf and young cattle,Ireland,0-50
+2018-09-01,6.32,Young cattle,Portugal,0-50
+2018-09-01,30.38,Bovine meat,Portugal,0-50
+2018-09-01,4.17,Calf,Portugal,0-50
+2018-09-01,19.89,Adult cattle,Portugal,0-50
+2018-09-01,0.27,Calf and young cattle,Ireland,0-50
+2018-09-01,10.49,Calf and young cattle,Portugal,0-50
+2018-09-01,160.37,Adult cattle,Ireland,150-200
+2018-09-01,0.07,Young cattle,Ireland,0-50
+2018-09-01,0.2,Calf,Ireland,0-50
+2018-09-01,160.64,Bovine meat,Ireland,150-200
+2018-10-01,0.13,Calf,Ireland,0-50
+2018-10-01,22.49,Adult cattle,Portugal,0-50
+2018-10-01,0.26,Calf and young cattle,Ireland,0-50
+2018-10-01,179.21,Adult cattle,Ireland,150-200
+2018-10-01,12.68,Calf and young cattle,Portugal,0-50
+2018-10-01,4.94,Calf,Portugal,0-50
+2018-10-01,35.17,Bovine meat,Portugal,0-50
+2018-10-01,7.75,Young cattle,Portugal,0-50
+2018-10-01,179.47,Bovine meat,Ireland,150-200
+2018-11-01,0.23,Calf and young cattle,Ireland,0-50
+2018-11-01,0.07,Calf,Ireland,0-50
+2018-11-01,185.32,Bovine meat,Ireland,150-200
+2018-11-01,0.16,Young cattle,Ireland,0-50
+2018-11-01,185.09,Adult cattle,Ireland,150-200
+2018-11-01,18.98,Adult cattle,Portugal,0-50
+2018-11-01,7.28,Young cattle,Portugal,0-50
+2018-11-01,30.02,Bovine meat,Portugal,0-50
+2018-11-01,3.76,Calf,Portugal,0-50
+2018-11-01,11.04,Calf and young cattle,Portugal,0-50
+2018-12-01,18.22,Adult cattle,Portugal,0-50
+2018-12-01,12.97,Calf and young cattle,Portugal,0-50
+2018-12-01,31.18,Bovine meat,Portugal,0-50
+2018-12-01,4.2,Calf,Portugal,0-50
+2018-12-01,0.18,Calf and young cattle,Ireland,0-50
+2018-12-01,134.22,Adult cattle,Ireland,100-150
+2018-12-01,134.4,Bovine meat,Ireland,100-150
+2018-12-01,0.03,Calf,Ireland,0-50
+2018-12-01,0.15,Young cattle,Ireland,0-50
+2018-12-01,8.77,Young cattle,Portugal,0-50
+2019-01-01,0.17,Young cattle,Ireland,0-50
+2019-01-01,170.32,Adult cattle,Ireland,150-200
+2019-01-01,3.42,Calf,Portugal,0-50
+2019-01-01,0.11,Calf,Ireland,0-50
+2019-01-01,170.6,Bovine meat,Ireland,150-200
+2019-01-01,28.86,Bovine meat,Portugal,0-50
+2019-01-01,0.28,Calf and young cattle,Ireland,0-50
+2019-01-01,10.81,Calf and young cattle,Portugal,0-50
+2019-01-01,7.39,Young cattle,Portugal,0-50
+2019-01-01,18.05,Adult cattle,Portugal,0-50
+2019-02-01,164.7,Bovine meat,Ireland,150-200
+2019-02-01,7.54,Young cattle,Ireland,0-50
+2019-02-01,12.01,Calf and young cattle,Ireland,0-50
+2019-02-01,152.69,Adult cattle,Ireland,150-200
+2019-02-01,4.48,Calf,Ireland,0-50
+2019-02-01,9.82,Calf and young cattle,Portugal,0-50
+2019-02-01,6.77,Young cattle,Portugal,0-50
+2019-02-01,26.28,Bovine meat,Portugal,0-50
+2019-02-01,3.05,Calf,Portugal,0-50
+2019-02-01,16.47,Adult cattle,Portugal,0-50
+2019-03-01,27.73,Bovine meat,Portugal,0-50
+2019-03-01,17.89,Adult cattle,Portugal,0-50
+2019-03-01,14.84,Calf and young cattle,Ireland,0-50
+2019-03-01,9.85,Calf and young cattle,Portugal,0-50
+2019-03-01,166.19,Bovine meat,Ireland,150-200
+2019-03-01,151.35,Adult cattle,Ireland,150-200
+2019-03-01,5.76,Calf,Ireland,0-50
+2019-03-01,2.84,Calf,Portugal,0-50
+2019-03-01,7.0,Young cattle,Portugal,0-50
+2019-03-01,9.09,Young cattle,Ireland,0-50
+2019-04-01,156.34,Bovine meat,Ireland,150-200
+2019-04-01,1.18,Calf,Ireland,0-50
+2019-04-01,10.45,Calf and young cattle,Portugal,0-50
+2019-04-01,2.02,Young cattle,Ireland,0-50
+2019-04-01,31.21,Bovine meat,Portugal,0-50
+2019-04-01,153.14,Adult cattle,Ireland,150-200
+2019-04-01,3.51,Calf,Portugal,0-50
+2019-04-01,6.95,Young cattle,Portugal,0-50
+2019-04-01,3.2,Calf and young cattle,Ireland,0-50
+2019-04-01,20.76,Adult cattle,Portugal,0-50
+2019-05-01,6.11,Young cattle,Portugal,0-50
+2019-05-01,0.95,Calf and young cattle,Ireland,0-50
+2019-05-01,156.7,Adult cattle,Ireland,150-200
+2019-05-01,0.72,Young cattle,Ireland,0-50
+2019-05-01,157.65,Bovine meat,Ireland,150-200
+2019-05-01,0.23,Calf,Ireland,0-50
+2019-05-01,9.33,Calf and young cattle,Portugal,0-50
+2019-05-01,31.08,Bovine meat,Portugal,0-50
+2019-05-01,21.75,Adult cattle,Portugal,0-50
+2019-05-01,3.21,Calf,Portugal,0-50
+2019-06-01,0.21,Calf and young cattle,Ireland,0-50
+2019-06-01,3.19,Calf,Portugal,0-50
+2019-06-01,8.8,Calf and young cattle,Portugal,0-50
+2019-06-01,5.61,Young cattle,Portugal,0-50
+2019-06-01,0.16,Young cattle,Ireland,0-50
+2019-06-01,142.25,Adult cattle,Ireland,100-150
+2019-06-01,0.05,Calf,Ireland,0-50
+2019-06-01,22.15,Adult cattle,Portugal,0-50
+2019-06-01,142.45,Bovine meat,Ireland,100-150
+2019-06-01,30.95,Bovine meat,Portugal,0-50
+2019-07-01,26.38,Adult cattle,Portugal,0-50
+2019-07-01,7.33,Young cattle,Portugal,0-50
+2019-07-01,3.77,Calf,Portugal,0-50
+2019-07-01,11.1,Calf and young cattle,Portugal,0-50
+2019-07-01,37.48,Bovine meat,Portugal,0-50
+2019-07-01,164.8,Adult cattle,Ireland,150-200
+2019-07-01,0.22,Calf and young cattle,Ireland,0-50
+2019-07-01,0.1,Calf,Ireland,0-50
+2019-07-01,0.13,Young cattle,Ireland,0-50
+2019-07-01,165.03,Bovine meat,Ireland,150-200
+2019-08-01,135.13,Adult cattle,Ireland,100-150
+2019-08-01,32.3,Bovine meat,Portugal,0-50
+2019-08-01,21.73,Adult cattle,Portugal,0-50
+2019-08-01,6.48,Young cattle,Portugal,0-50
+2019-08-01,10.58,Calf and young cattle,Portugal,0-50
+2019-08-01,135.29,Bovine meat,Ireland,100-150
+2019-08-01,0.11,Young cattle,Ireland,0-50
+2019-08-01,0.16,Calf and young cattle,Ireland,0-50
+2019-08-01,0.05,Calf,Ireland,0-50
+2019-08-01,4.1,Calf,Portugal,0-50
+2019-09-01,0.09,Young cattle,Ireland,0-50
+2019-09-01,10.28,Calf and young cattle,Portugal,0-50
+2019-09-01,29.8,Bovine meat,Portugal,0-50
+2019-09-01,6.64,Young cattle,Portugal,0-50
+2019-09-01,3.64,Calf,Portugal,0-50
+2019-09-01,19.52,Adult cattle,Portugal,0-50
+2019-09-01,0.15,Calf and young cattle,Ireland,0-50
+2019-09-01,96.74,Adult cattle,Ireland,50-100
+2019-09-01,0.06,Calf,Ireland,0-50
+2019-09-01,96.89,Bovine meat,Ireland,50-100
+2019-10-01,177.71,Adult cattle,Ireland,150-200
+2019-10-01,0.24,Calf and young cattle,Ireland,0-50
+2019-10-01,0.13,Young cattle,Ireland,0-50
+2019-10-01,177.95,Bovine meat,Ireland,150-200
+2019-10-01,0.12,Calf,Ireland,0-50
+2019-10-01,8.13,Young cattle,Portugal,0-50
+2019-10-01,21.2,Adult cattle,Portugal,0-50
+2019-10-01,11.92,Calf and young cattle,Portugal,0-50
+2019-10-01,33.12,Bovine meat,Portugal,0-50
+2019-10-01,3.79,Calf,Portugal,0-50
+2019-11-01,7.22,Young cattle,Portugal,0-50
+2019-11-01,27.87,Bovine meat,Portugal,0-50
+2019-11-01,3.23,Calf,Portugal,0-50
+2019-11-01,17.42,Adult cattle,Portugal,0-50
+2019-11-01,10.45,Calf and young cattle,Portugal,0-50
+2019-11-01,0.09,Calf,Ireland,0-50
+2019-11-01,176.01,Bovine meat,Ireland,150-200
+2019-11-01,0.29,Calf and young cattle,Ireland,0-50
+2019-11-01,0.2,Young cattle,Ireland,0-50
+2019-11-01,175.73,Adult cattle,Ireland,150-200
+2019-12-01,143.41,Bovine meat,Ireland,100-150
+2019-12-01,0.03,Calf,Ireland,0-50
+2019-12-01,0.27,Calf and young cattle,Ireland,0-50
+2019-12-01,143.14,Adult cattle,Ireland,100-150
+2019-12-01,32.58,Bovine meat,Portugal,0-50
+2019-12-01,3.73,Calf,Portugal,0-50
+2019-12-01,9.32,Young cattle,Portugal,0-50
+2019-12-01,19.53,Adult cattle,Portugal,0-50
+2019-12-01,13.05,Calf and young cattle,Portugal,0-50
+2019-12-01,0.24,Young cattle,Ireland,0-50
+2020-01-01,0.22,Calf,Ireland,0-50
+2020-01-01,165.37,Bovine meat,Ireland,150-200
+2020-01-01,164.98,Adult cattle,Ireland,150-200
+2020-01-01,0.4,Calf and young cattle,Ireland,0-50
+2020-01-01,8.5,Young cattle,Portugal,0-50
+2020-01-01,11.59,Calf and young cattle,Portugal,0-50
+2020-01-01,18.98,Adult cattle,Portugal,0-50
+2020-01-01,30.56,Bovine meat,Portugal,0-50
+2020-01-01,0.17,Young cattle,Ireland,0-50
+2020-01-01,3.09,Calf,Portugal,0-50
+2020-02-01,7.14,Young cattle,Portugal,0-50
+2020-02-01,10.08,Calf and young cattle,Portugal,0-50
+2020-02-01,2.93,Calf,Portugal,0-50
+2020-02-01,163.69,Bovine meat,Ireland,150-200
+2020-02-01,9.04,Calf,Ireland,0-50
+2020-02-01,17.1,Adult cattle,Portugal,0-50
+2020-02-01,9.22,Calf and young cattle,Ireland,0-50
+2020-02-01,154.47,Adult cattle,Ireland,150-200
+2020-02-01,27.17,Bovine meat,Portugal,0-50
+2020-02-01,0.18,Young cattle,Ireland,0-50
+2020-03-01,8.09,Young cattle,Portugal,0-50
+2020-03-01,32.91,Bovine meat,Portugal,0-50
+2020-03-01,21.29,Adult cattle,Portugal,0-50
+2020-03-01,3.53,Calf,Portugal,0-50
+2020-03-01,13.41,Calf,Ireland,0-50
+2020-03-01,13.6,Calf and young cattle,Ireland,0-50
+2020-03-01,160.07,Adult cattle,Ireland,150-200
+2020-03-01,173.67,Bovine meat,Ireland,150-200
+2020-03-01,0.19,Young cattle,Ireland,0-50
+2020-03-01,11.62,Calf and young cattle,Portugal,0-50
+2020-04-01,3.28,Calf and young cattle,Ireland,0-50
+2020-04-01,4.1,Calf,Portugal,0-50
+2020-04-01,11.23,Calf and young cattle,Portugal,0-50
+2020-04-01,17.11,Adult cattle,Portugal,0-50
+2020-04-01,7.14,Young cattle,Portugal,0-50
+2020-04-01,0.09,Young cattle,Ireland,0-50
+2020-04-01,122.7,Bovine meat,Ireland,100-150
+2020-04-01,119.42,Adult cattle,Ireland,100-150
+2020-04-01,3.19,Calf,Ireland,0-50
+2020-04-01,28.35,Bovine meat,Portugal,0-50
+2020-05-01,0.62,Calf and young cattle,Ireland,0-50
+2020-05-01,0.45,Calf,Ireland,0-50
+2020-05-01,126.0,Bovine meat,Ireland,100-150
+2020-05-01,125.39,Adult cattle,Ireland,100-150
+2020-05-01,0.17,Young cattle,Ireland,0-50
+2020-05-01,31.69,Bovine meat,Portugal,0-50
+2020-05-01,6.85,Young cattle,Portugal,0-50
+2020-05-01,3.41,Calf,Portugal,0-50
+2020-05-01,21.43,Adult cattle,Portugal,0-50
+2020-05-01,10.26,Calf and young cattle,Portugal,0-50
+2020-06-01,165.54,Bovine meat,Ireland,150-200
+2020-06-01,25.71,Adult cattle,Portugal,0-50
+2020-06-01,3.87,Calf,Portugal,0-50
+2020-06-01,0.15,Young cattle,Ireland,0-50
+2020-06-01,0.05,Calf,Ireland,0-50
+2020-06-01,165.34,Adult cattle,Ireland,150-200
+2020-06-01,0.2,Calf and young cattle,Ireland,0-50
+2020-06-01,10.48,Calf and young cattle,Portugal,0-50
+2020-06-01,36.19,Bovine meat,Portugal,0-50
+2020-06-01,6.61,Young cattle,Portugal,0-50
+2020-07-01,25.02,Adult cattle,Portugal,0-50
+2020-07-01,36.42,Bovine meat,Portugal,0-50
+2020-07-01,11.4,Calf and young cattle,Portugal,0-50
+2020-07-01,4.11,Calf,Portugal,0-50
+2020-07-01,7.29,Young cattle,Portugal,0-50
+2020-07-01,171.9,Adult cattle,Ireland,150-200
+2020-07-01,172.1,Bovine meat,Ireland,150-200
+2020-07-01,0.2,Calf and young cattle,Ireland,0-50
+2020-07-01,0.09,Calf,Ireland,0-50
+2020-07-01,0.11,Young cattle,Ireland,0-50
+2020-08-01,0.07,Calf,Ireland,0-50
+2020-08-01,0.11,Young cattle,Ireland,0-50
+2020-08-01,151.42,Bovine meat,Ireland,150-200
+2020-08-01,0.18,Calf and young cattle,Ireland,0-50
+2020-08-01,4.74,Calf,Portugal,0-50
+2020-08-01,23.92,Adult cattle,Portugal,0-50
+2020-08-01,12.56,Calf and young cattle,Portugal,0-50
+2020-08-01,151.24,Adult cattle,Ireland,150-200
+2020-08-01,36.48,Bovine meat,Portugal,0-50
+2020-08-01,7.82,Young cattle,Portugal,0-50
+2020-09-01,13.26,Calf and young cattle,Portugal,0-50
+2020-09-01,4.62,Calf,Portugal,0-50
+2020-09-01,34.69,Bovine meat,Portugal,0-50
+2020-09-01,160.85,Bovine meat,Ireland,150-200
+2020-09-01,160.59,Adult cattle,Ireland,150-200
+2020-09-01,0.09,Young cattle,Ireland,0-50
+2020-09-01,0.16,Calf,Ireland,0-50
+2020-09-01,0.26,Calf and young cattle,Ireland,0-50
+2020-09-01,8.63,Young cattle,Portugal,0-50
+2020-09-01,21.43,Adult cattle,Portugal,0-50
+2020-10-01,20.47,Adult cattle,Portugal,0-50
+2020-10-01,12.26,Calf and young cattle,Portugal,0-50
+2020-10-01,4.12,Calf,Portugal,0-50
+2020-10-01,0.3,Calf and young cattle,Ireland,0-50
+2020-10-01,8.14,Young cattle,Portugal,0-50
+2020-10-01,32.73,Bovine meat,Portugal,0-50
+2020-10-01,167.52,Adult cattle,Ireland,150-200
+2020-10-01,0.12,Calf,Ireland,0-50
+2020-10-01,0.18,Young cattle,Ireland,0-50
+2020-10-01,167.81,Bovine meat,Ireland,150-200
+2020-11-01,9.07,Young cattle,Portugal,0-50
+2020-11-01,20.06,Adult cattle,Portugal,0-50
+2020-11-01,33.41,Bovine meat,Portugal,0-50
+2020-11-01,0.26,Calf and young cattle,Ireland,0-50
+2020-11-01,0.09,Calf,Ireland,0-50
+2020-11-01,167.08,Bovine meat,Ireland,150-200
+2020-11-01,166.82,Adult cattle,Ireland,150-200
+2020-11-01,0.17,Young cattle,Ireland,0-50
+2020-11-01,4.28,Calf,Portugal,0-50
+2020-11-01,13.35,Calf and young cattle,Portugal,0-50
+2020-12-01,32.7,Bovine meat,Portugal,0-50
+2020-12-01,14.23,Calf and young cattle,Portugal,0-50
+2020-12-01,9.86,Young cattle,Portugal,0-50
+2020-12-01,4.37,Calf,Portugal,0-50
+2020-12-01,18.47,Adult cattle,Portugal,0-50
+2020-12-01,0.28,Calf and young cattle,Ireland,0-50
+2020-12-01,0.23,Young cattle,Ireland,0-50
+2020-12-01,145.65,Bovine meat,Ireland,100-150
+2020-12-01,0.05,Calf,Ireland,0-50
+2020-12-01,145.37,Adult cattle,Ireland,100-150
+2021-01-01,7.87,Young cattle,Portugal,0-50
+2021-01-01,28.68,Bovine meat,Portugal,0-50
+2021-01-01,3.29,Calf,Portugal,0-50
+2021-01-01,17.52,Adult cattle,Portugal,0-50
+2021-01-01,134.31,Adult cattle,Ireland,100-150
+2021-01-01,11.17,Calf and young cattle,Portugal,0-50
+2021-01-01,0.27,Calf and young cattle,Ireland,0-50
+2021-01-01,0.2,Young cattle,Ireland,0-50
+2021-01-01,134.58,Bovine meat,Ireland,100-150
+2021-01-01,0.08,Calf,Ireland,0-50
+2021-02-01,1.27,Young cattle,Ireland,0-50
+2021-02-01,7.57,Calf,Ireland,0-50
+2021-02-01,8.84,Calf and young cattle,Ireland,0-50
+2021-02-01,127.81,Adult cattle,Ireland,100-150
+2021-02-01,27.39,Bovine meat,Portugal,0-50
+2021-02-01,3.21,Calf,Portugal,0-50
+2021-02-01,10.21,Calf and young cattle,Portugal,0-50
+2021-02-01,7.0,Young cattle,Portugal,0-50
+2021-02-01,17.18,Adult cattle,Portugal,0-50
+2021-02-01,136.65,Bovine meat,Ireland,100-150
+2021-03-01,13.06,Calf and young cattle,Portugal,0-50
+2021-03-01,9.07,Young cattle,Portugal,0-50
+2021-03-01,22.47,Adult cattle,Portugal,0-50
+2021-03-01,35.53,Bovine meat,Portugal,0-50
+2021-03-01,3.99,Calf,Portugal,0-50
+2021-03-01,14.09,Calf and young cattle,Ireland,0-50
+2021-03-01,10.41,Calf,Ireland,0-50
+2021-03-01,164.09,Bovine meat,Ireland,150-200
+2021-03-01,149.99,Adult cattle,Ireland,100-150
+2021-03-01,3.68,Young cattle,Ireland,0-50
+2021-04-01,7.24,Young cattle,Portugal,0-50
+2021-04-01,3.71,Calf,Portugal,0-50
+2021-04-01,137.17,Bovine meat,Ireland,100-150
+2021-04-01,3.12,Calf and young cattle,Ireland,0-50
+2021-04-01,134.05,Adult cattle,Ireland,100-150
+2021-04-01,10.95,Calf and young cattle,Portugal,0-50
+2021-04-01,2.38,Calf,Ireland,0-50
+2021-04-01,20.31,Adult cattle,Portugal,0-50
+2021-04-01,31.26,Bovine meat,Portugal,0-50
+2021-04-01,0.74,Young cattle,Ireland,0-50
+2021-05-01,0.41,Young cattle,Ireland,0-50
+2021-05-01,0.03,Calf,Ireland,0-50
+2021-05-01,135.71,Adult cattle,Ireland,100-150
+2021-05-01,6.98,Young cattle,Portugal,0-50
+2021-05-01,10.89,Calf and young cattle,Portugal,0-50
+2021-05-01,37.93,Bovine meat,Portugal,0-50
+2021-05-01,27.04,Adult cattle,Portugal,0-50
+2021-05-01,3.91,Calf,Portugal,0-50
+2021-05-01,0.44,Calf and young cattle,Ireland,0-50
+2021-05-01,136.15,Bovine meat,Ireland,100-150
+2021-06-01,4.11,Calf,Portugal,0-50
+2021-06-01,11.07,Calf and young cattle,Portugal,0-50
+2021-06-01,26.3,Adult cattle,Portugal,0-50
+2021-06-01,0.13,Young cattle,Ireland,0-50
+2021-06-01,139.02,Adult cattle,Ireland,100-150
+2021-06-01,0.2,Calf and young cattle,Ireland,0-50
+2021-06-01,139.22,Bovine meat,Ireland,100-150
+2021-06-01,0.07,Calf,Ireland,0-50
+2021-06-01,37.37,Bovine meat,Portugal,0-50
+2021-06-01,6.96,Young cattle,Portugal,0-50
+2021-07-01,153.96,Bovine meat,Ireland,150-200
+2021-07-01,153.79,Adult cattle,Ireland,150-200
+2021-07-01,0.16,Calf and young cattle,Ireland,0-50
+2021-07-01,0.07,Calf,Ireland,0-50
+2021-07-01,0.1,Young cattle,Ireland,0-50
+2021-07-01,37.91,Bovine meat,Portugal,0-50
+2021-07-01,26.31,Adult cattle,Portugal,0-50
+2021-07-01,11.6,Calf and young cattle,Portugal,0-50
+2021-07-01,4.36,Calf,Portugal,0-50
+2021-07-01,7.25,Young cattle,Portugal,0-50
+2021-08-01,13.98,Calf and young cattle,Portugal,0-50
+2021-08-01,25.38,Adult cattle,Portugal,0-50
+2021-08-01,5.78,Calf,Portugal,0-50
+2021-08-01,8.2,Young cattle,Portugal,0-50
+2021-08-01,0.07,Young cattle,Ireland,0-50
+2021-08-01,0.12,Calf and young cattle,Ireland,0-50
+2021-08-01,155.67,Adult cattle,Ireland,150-200
+2021-08-01,155.8,Bovine meat,Ireland,150-200
+2021-08-01,39.35,Bovine meat,Portugal,0-50
+2021-08-01,0.06,Calf,Ireland,0-50
+2021-09-01,163.06,Adult cattle,Ireland,150-200
+2021-09-01,0.12,Calf,Ireland,0-50
+2021-09-01,163.24,Bovine meat,Ireland,150-200
+2021-09-01,35.78,Bovine meat,Portugal,0-50
+2021-09-01,5.18,Calf,Portugal,0-50
+2021-09-01,22.13,Adult cattle,Portugal,0-50
+2021-09-01,8.47,Young cattle,Portugal,0-50
+2021-09-01,13.65,Calf and young cattle,Portugal,0-50
+2021-09-01,0.06,Young cattle,Ireland,0-50
+2021-09-01,0.18,Calf and young cattle,Ireland,0-50
+2021-10-01,35.2,Bovine meat,Portugal,0-50
+2021-10-01,8.61,Young cattle,Portugal,0-50
+2021-10-01,13.38,Calf and young cattle,Portugal,0-50
+2021-10-01,0.09,Calf,Ireland,0-50
+2021-10-01,158.55,Adult cattle,Ireland,150-200
+2021-10-01,0.16,Young cattle,Ireland,0-50
+2021-10-01,158.79,Bovine meat,Ireland,150-200
+2021-10-01,0.24,Calf and young cattle,Ireland,0-50
+2021-10-01,4.77,Calf,Portugal,0-50
+2021-10-01,21.83,Adult cattle,Portugal,0-50
+2021-11-01,171.12,Adult cattle,Ireland,150-200
+2021-11-01,0.1,Calf,Ireland,0-50
+2021-11-01,0.17,Young cattle,Ireland,0-50
+2021-11-01,0.27,Calf and young cattle,Ireland,0-50
+2021-11-01,21.74,Adult cattle,Portugal,0-50
+2021-11-01,14.93,Calf and young cattle,Portugal,0-50
+2021-11-01,9.36,Young cattle,Portugal,0-50
+2021-11-01,5.58,Calf,Portugal,0-50
+2021-11-01,36.68,Bovine meat,Portugal,0-50
+2021-11-01,171.39,Bovine meat,Ireland,150-200
+2021-12-01,140.91,Adult cattle,Ireland,100-150
+2021-12-01,0.22,Calf and young cattle,Ireland,0-50
+2021-12-01,0.03,Calf,Ireland,0-50
+2021-12-01,141.13,Bovine meat,Ireland,100-150
+2021-12-01,33.03,Bovine meat,Portugal,0-50
+2021-12-01,4.71,Calf,Portugal,0-50
+2021-12-01,13.86,Calf and young cattle,Portugal,0-50
+2021-12-01,19.17,Adult cattle,Portugal,0-50
+2021-12-01,0.19,Young cattle,Ireland,0-50
+2021-12-01,9.15,Young cattle,Portugal,0-50
+2022-01-01,4.05,Calf,Portugal,0-50
+2022-01-01,18.99,Adult cattle,Portugal,0-50
+2022-01-01,12.2,Calf and young cattle,Portugal,0-50
+2022-01-01,8.15,Young cattle,Portugal,0-50
+2022-01-01,31.18,Bovine meat,Portugal,0-50
+2022-01-01,0.25,Young cattle,Ireland,0-50
+2022-01-01,143.87,Bovine meat,Ireland,100-150
+2022-01-01,0.09,Calf,Ireland,0-50
+2022-01-01,143.53,Adult cattle,Ireland,100-150
+2022-01-01,0.34,Calf and young cattle,Ireland,0-50
+2022-02-01,9.77,Calf,Ireland,0-50
+2022-02-01,159.27,Bovine meat,Ireland,150-200
+2022-02-01,10.08,Calf and young cattle,Ireland,0-50
+2022-02-01,0.31,Young cattle,Ireland,0-50
+2022-02-01,149.19,Adult cattle,Ireland,100-150
+2022-02-01,11.56,Calf and young cattle,Portugal,0-50
+2022-02-01,31.03,Bovine meat,Portugal,0-50
+2022-02-01,19.47,Adult cattle,Portugal,0-50
+2022-02-01,3.87,Calf,Portugal,0-50
+2022-02-01,7.69,Young cattle,Portugal,0-50
+2022-03-01,14.47,Calf and young cattle,Ireland,0-50
+2022-03-01,38.31,Bovine meat,Portugal,0-50
+2022-03-01,158.95,Adult cattle,Ireland,150-200
+2022-03-01,13.66,Calf,Ireland,0-50
+2022-03-01,173.42,Bovine meat,Ireland,150-200
+2022-03-01,0.81,Young cattle,Ireland,0-50
+2022-03-01,13.26,Calf and young cattle,Portugal,0-50
+2022-03-01,25.06,Adult cattle,Portugal,0-50
+2022-03-01,4.78,Calf,Portugal,0-50
+2022-03-01,8.47,Young cattle,Portugal,0-50
+2022-04-01,161.19,Bovine meat,Ireland,150-200
+2022-04-01,33.39,Bovine meat,Portugal,0-50
+2022-04-01,4.29,Calf,Ireland,0-50
+2022-04-01,156.08,Adult cattle,Ireland,150-200
+2022-04-01,0.82,Young cattle,Ireland,0-50
+2022-04-01,6.8,Young cattle,Portugal,0-50
+2022-04-01,22.25,Adult cattle,Portugal,0-50
+2022-04-01,4.34,Calf,Portugal,0-50
+2022-04-01,5.11,Calf and young cattle,Ireland,0-50
+2022-04-01,11.14,Calf and young cattle,Portugal,0-50
+2022-05-01,32.03,Adult cattle,Portugal,0-50
+2022-05-01,6.76,Young cattle,Portugal,0-50
+2022-05-01,4.68,Calf,Portugal,0-50
+2022-05-01,0.05,Calf,Ireland,0-50
+2022-05-01,1.49,Young cattle,Ireland,0-50
+2022-05-01,153.22,Adult cattle,Ireland,150-200
+2022-05-01,154.76,Bovine meat,Ireland,150-200
+2022-05-01,11.44,Calf and young cattle,Portugal,0-50
+2022-05-01,43.47,Bovine meat,Portugal,0-50
+2022-05-01,1.54,Calf and young cattle,Ireland,0-50
+2022-06-01,38.36,Bovine meat,Portugal,0-50
+2022-06-01,144.6,Bovine meat,Ireland,100-150
+2022-06-01,0.21,Young cattle,Ireland,0-50
+2022-06-01,144.35,Adult cattle,Ireland,100-150
+2022-06-01,4.61,Calf,Portugal,0-50
+2022-06-01,27.56,Adult cattle,Portugal,0-50
+2022-06-01,6.19,Young cattle,Portugal,0-50
+2022-06-01,0.04,Calf,Ireland,0-50
+2022-06-01,10.8,Calf and young cattle,Portugal,0-50
+2022-06-01,0.25,Calf and young cattle,Ireland,0-50
+2022-07-01,6.52,Young cattle,Portugal,0-50
+2022-07-01,0.11,Calf and young cattle,Ireland,0-50
+2022-07-01,37.55,Bovine meat,Portugal,0-50
+2022-07-01,147.96,Bovine meat,Ireland,100-150
+2022-07-01,26.26,Adult cattle,Portugal,0-50
+2022-07-01,0.1,Young cattle,Ireland,0-50
+2022-07-01,147.85,Adult cattle,Ireland,100-150
+2022-07-01,4.76,Calf,Portugal,0-50
+2022-07-01,0.01,Calf,Ireland,0-50
+2022-07-01,11.29,Calf and young cattle,Portugal,0-50
+2022-08-01,7.81,Young cattle,Portugal,0-50
+2022-08-01,0.09,Young cattle,Ireland,0-50
+2022-08-01,26.87,Adult cattle,Portugal,0-50
+2022-08-01,14.09,Calf and young cattle,Portugal,0-50
+2022-08-01,40.96,Bovine meat,Portugal,0-50
+2022-08-01,0.1,Calf,Ireland,0-50
+2022-08-01,6.28,Calf,Portugal,0-50
+2022-08-01,166.55,Bovine meat,Ireland,150-200
+2022-08-01,0.19,Calf and young cattle,Ireland,0-50
+2022-08-01,166.36,Adult cattle,Ireland,150-200
+2022-09-01,0.06,Calf,Ireland,0-50
+2022-09-01,171.02,Bovine meat,Ireland,150-200
+2022-09-01,0.13,Young cattle,Ireland,0-50
+2022-09-01,170.84,Adult cattle,Ireland,150-200
+2022-09-01,0.19,Calf and young cattle,Ireland,0-50
+2022-09-01,34.88,Bovine meat,Portugal,0-50
+2022-09-01,7.14,Young cattle,Portugal,0-50
+2022-09-01,12.19,Calf and young cattle,Portugal,0-50
+2022-09-01,22.69,Adult cattle,Portugal,0-50
+2022-09-01,5.05,Calf,Portugal,0-50
+2022-10-01,0.3,Calf and young cattle,Ireland,0-50
+2022-10-01,167.47,Adult cattle,Ireland,150-200
+2022-10-01,0.15,Young cattle,Ireland,0-50
+2022-10-01,33.47,Bovine meat,Portugal,0-50
+2022-10-01,4.78,Calf,Portugal,0-50
+2022-10-01,12.37,Calf and young cattle,Portugal,0-50
+2022-10-01,21.1,Adult cattle,Portugal,0-50
+2022-10-01,7.59,Young cattle,Portugal,0-50
+2022-10-01,167.77,Bovine meat,Ireland,150-200
+2022-11-01,4.66,Calf,Portugal,0-50
+2022-11-01,0.36,Calf and young cattle,Ireland,0-50
+2022-11-01,0.22,Young cattle,Ireland,0-50
+2022-11-01,0.14,Calf,Ireland,0-50
+2022-11-01,19.73,Adult cattle,Portugal,0-50
+2022-11-01,32.47,Bovine meat,Portugal,0-50
+2022-11-01,12.74,Calf and young cattle,Portugal,0-50
+2022-11-01,8.08,Young cattle,Portugal,0-50
+2022-11-01,179.99,Bovine meat,Ireland,150-200
+2022-11-01,179.62,Adult cattle,Ireland,150-200
+2022-12-01,140.93,Adult cattle,Ireland,100-150
+2022-12-01,0.28,Young cattle,Ireland,0-50
+2022-12-01,141.24,Bovine meat,Ireland,100-150
+2022-12-01,4.6,Calf,Portugal,0-50
+2022-12-01,13.15,Calf and young cattle,Portugal,0-50
+2022-12-01,8.55,Young cattle,Portugal,0-50
+2022-12-01,31.35,Bovine meat,Portugal,0-50
+2022-12-01,18.2,Adult cattle,Portugal,0-50
+2022-12-01,0.02,Calf,Ireland,0-50
+2022-12-01,0.3,Calf and young cattle,Ireland,0-50
+2023-01-01,0.06,Calf,Ireland,0-50
+2023-01-01,153.16,Adult cattle,Ireland,150-200
+2023-01-01,3.76,Calf,Portugal,0-50
+2023-01-01,0.31,Calf and young cattle,Ireland,0-50
+2023-01-01,153.48,Bovine meat,Ireland,150-200
+2023-01-01,29.9,Bovine meat,Portugal,0-50
+2023-01-01,11.63,Calf and young cattle,Portugal,0-50
+2023-01-01,18.27,Adult cattle,Portugal,0-50
+2023-01-01,0.26,Young cattle,Ireland,0-50
+2023-01-01,7.87,Young cattle,Portugal,0-50
+2023-02-01,10.1,Calf and young cattle,Portugal,0-50
+2023-02-01,16.79,Adult cattle,Portugal,0-50
+2023-02-01,3.03,Calf,Portugal,0-50
+2023-02-01,7.08,Young cattle,Portugal,0-50
+2023-02-01,10.99,Calf,Ireland,0-50
+2023-02-01,12.1,Calf and young cattle,Ireland,0-50
+2023-02-01,144.12,Adult cattle,Ireland,100-150
+2023-02-01,156.22,Bovine meat,Ireland,150-200
+2023-02-01,26.89,Bovine meat,Portugal,0-50
+2023-02-01,1.11,Young cattle,Ireland,0-50
+2023-03-01,17.11,Calf and young cattle,Ireland,0-50
+2023-03-01,148.22,Adult cattle,Ireland,100-150
+2023-03-01,14.53,Calf,Ireland,0-50
+2023-03-01,165.33,Bovine meat,Ireland,150-200
+2023-03-01,31.17,Bovine meat,Portugal,0-50
+2023-03-01,11.24,Calf and young cattle,Portugal,0-50
+2023-03-01,3.31,Calf,Portugal,0-50
+2023-03-01,19.93,Adult cattle,Portugal,0-50
+2023-03-01,7.93,Young cattle,Portugal,0-50
+2023-03-01,2.58,Young cattle,Ireland,0-50
+2023-04-01,29.33,Bovine meat,Portugal,0-50
+2023-04-01,9.44,Calf and young cattle,Portugal,0-50
+2023-04-01,3.31,Calf,Portugal,0-50
+2023-04-01,19.89,Adult cattle,Portugal,0-50
+2023-04-01,6.13,Young cattle,Portugal,0-50
+2023-04-01,4.76,Calf,Ireland,0-50
+2023-04-01,128.77,Adult cattle,Ireland,100-150
+2023-04-01,0.76,Young cattle,Ireland,0-50
+2023-04-01,134.28,Bovine meat,Ireland,100-150
+2023-04-01,5.52,Calf and young cattle,Ireland,0-50
+2023-05-01,39.52,Bovine meat,Portugal,0-50
+2023-05-01,1.23,Calf and young cattle,Ireland,0-50
+2023-05-01,1.18,Young cattle,Ireland,0-50
+2023-05-01,3.59,Calf,Portugal,0-50
+2023-05-01,152.6,Adult cattle,Ireland,150-200
+2023-05-01,153.83,Bovine meat,Ireland,150-200
+2023-05-01,0.05,Calf,Ireland,0-50
+2023-05-01,29.61,Adult cattle,Portugal,0-50
+2023-05-01,6.31,Young cattle,Portugal,0-50
+2023-05-01,9.9,Calf and young cattle,Portugal,0-50
+2023-06-01,0.03,Calf,Ireland,0-50
+2023-06-01,0.15,Young cattle,Ireland,0-50
+2023-06-01,0.18,Calf and young cattle,Ireland,0-50
+2023-06-01,35.7,Bovine meat,Portugal,0-50
+2023-06-01,148.74,Adult cattle,Ireland,100-150
+2023-06-01,9.92,Calf and young cattle,Portugal,0-50
+2023-06-01,25.77,Adult cattle,Portugal,0-50
+2023-06-01,148.92,Bovine meat,Ireland,100-150
+2023-06-01,3.83,Calf,Portugal,0-50
+2023-06-01,6.1,Young cattle,Portugal,0-50
+2023-07-01,25.26,Adult cattle,Portugal,0-50
+2023-07-01,36.22,Bovine meat,Portugal,0-50
+2023-07-01,10.97,Calf and young cattle,Portugal,0-50
+2023-07-01,6.73,Young cattle,Portugal,0-50
+2023-07-01,4.24,Calf,Portugal,0-50
+2023-07-01,144.3,Bovine meat,Ireland,100-150
+2023-07-01,144.1,Adult cattle,Ireland,100-150
+2023-07-01,0.18,Young cattle,Ireland,0-50
+2023-07-01,0.02,Calf,Ireland,0-50
+2023-07-01,0.2,Calf and young cattle,Ireland,0-50
+2023-08-01,0.08,Young cattle,Ireland,0-50
+2023-08-01,0.14,Calf and young cattle,Ireland,0-50
+2023-08-01,0.06,Calf,Ireland,0-50
+2023-08-01,162.14,Bovine meat,Ireland,150-200
+2023-08-01,37.09,Bovine meat,Portugal,0-50
+2023-08-01,24.64,Adult cattle,Portugal,0-50
+2023-08-01,4.68,Calf,Portugal,0-50
+2023-08-01,12.44,Calf and young cattle,Portugal,0-50
+2023-08-01,7.76,Young cattle,Portugal,0-50
+2023-08-01,162.0,Adult cattle,Ireland,150-200
+2023-09-01,0.08,Young cattle,Ireland,0-50
+2023-09-01,152.64,Bovine meat,Ireland,150-200
+2023-09-01,0.15,Calf and young cattle,Ireland,0-50
+2023-09-01,0.07,Calf,Ireland,0-50
+2023-09-01,152.5,Adult cattle,Ireland,150-200
+2023-09-01,21.62,Adult cattle,Portugal,0-50
+2023-09-01,7.03,Young cattle,Portugal,0-50
+2023-09-01,11.18,Calf and young cattle,Portugal,0-50
+2023-09-01,4.15,Calf,Portugal,0-50
+2023-09-01,32.8,Bovine meat,Portugal,0-50
+2023-10-01,8.77,Young cattle,Portugal,0-50
+2023-10-01,4.41,Calf,Portugal,0-50
+2023-10-01,13.18,Calf and young cattle,Portugal,0-50
+2023-10-01,36.26,Bovine meat,Portugal,0-50
+2023-10-01,23.08,Adult cattle,Portugal,0-50
+2023-10-01,174.61,Adult cattle,Ireland,150-200
+2023-10-01,0.15,Young cattle,Ireland,0-50
+2023-10-01,0.1,Calf,Ireland,0-50
+2023-10-01,0.25,Calf and young cattle,Ireland,0-50
+2023-10-01,174.86,Bovine meat,Ireland,150-200
+2023-11-01,0.06,Calf,Ireland,0-50
+2023-11-01,0.28,Calf and young cattle,Ireland,0-50
+2023-11-01,7.86,Young cattle,Portugal,0-50
+2023-11-01,3.89,Calf,Portugal,0-50
+2023-11-01,21.25,Adult cattle,Portugal,0-50
+2023-11-01,32.99,Bovine meat,Portugal,0-50
+2023-11-01,11.74,Calf and young cattle,Portugal,0-50
+2023-11-01,181.63,Bovine meat,Ireland,150-200
+2023-11-01,0.21,Young cattle,Ireland,0-50
+2023-11-01,181.35,Adult cattle,Ireland,150-200
+2023-12-01,142.86,Bovine meat,Ireland,100-150
+2023-12-01,142.58,Adult cattle,Ireland,100-150
+2023-12-01,0.28,Calf and young cattle,Ireland,0-50
+2023-12-01,0.23,Young cattle,Ireland,0-50
+2023-12-01,8.06,Young cattle,Portugal,0-50
+2023-12-01,31.23,Bovine meat,Portugal,0-50
+2023-12-01,11.92,Calf and young cattle,Portugal,0-50
+2023-12-01,19.31,Adult cattle,Portugal,0-50
+2023-12-01,3.86,Calf,Portugal,0-50
+2023-12-01,0.05,Calf,Ireland,0-50
+2024-01-01,7.78,Young cattle,Portugal,0-50
+2024-01-01,3.5,Calf,Portugal,0-50
+2024-01-01,33.32,Bovine meat,Portugal,0-50
+2024-01-01,22.04,Adult cattle,Portugal,0-50
+2024-01-01,0.19,Calf and young cattle,Ireland,0-50
+2024-01-01,11.28,Calf and young cattle,Portugal,0-50
+2024-01-01,165.87,Adult cattle,Ireland,150-200
+2024-01-01,0.05,Calf,Ireland,0-50
+2024-01-01,0.15,Young cattle,Ireland,0-50
+2024-01-01,166.06,Bovine meat,Ireland,150-200
+2024-02-01,4.02,Calf,Ireland,0-50
+2024-02-01,9.56,Calf and young cattle,Portugal,0-50
+2024-02-01,159.67,Adult cattle,Ireland,150-200
+2024-02-01,4.4,Calf and young cattle,Ireland,0-50
+2024-02-01,164.07,Bovine meat,Ireland,150-200
+2024-02-01,20.39,Adult cattle,Portugal,0-50
+2024-02-01,3.1,Calf,Portugal,0-50
+2024-02-01,6.47,Young cattle,Portugal,0-50
+2024-02-01,29.95,Bovine meat,Portugal,0-50
+2024-02-01,0.38,Young cattle,Ireland,0-50
+2024-03-01,3.29,Calf,Portugal,0-50
+2024-03-01,20.67,Adult cattle,Portugal,0-50
+2024-03-01,6.34,Young cattle,Portugal,0-50
+2024-03-01,30.3,Bovine meat,Portugal,0-50
+2024-03-01,9.63,Calf and young cattle,Portugal,0-50
+2024-03-01,8.9,Calf and young cattle,Ireland,0-50
+2024-03-01,153.14,Bovine meat,Ireland,150-200
+2024-03-01,0.23,Young cattle,Ireland,0-50
+2024-03-01,144.24,Adult cattle,Ireland,100-150
+2024-03-01,8.67,Calf,Ireland,0-50
+2024-04-01,4.52,Calf and young cattle,Ireland,0-50
+2024-04-01,150.48,Adult cattle,Ireland,150-200
+2024-04-01,0.14,Young cattle,Ireland,0-50
+2024-04-01,10.05,Calf and young cattle,Portugal,0-50
+2024-04-01,4.39,Calf,Ireland,0-50
+2024-04-01,33.81,Bovine meat,Portugal,0-50
+2024-04-01,23.77,Adult cattle,Portugal,0-50
+2024-04-01,4.07,Calf,Portugal,0-50
+2024-04-01,155.01,Bovine meat,Ireland,150-200
+2024-04-01,5.98,Young cattle,Portugal,0-50
+2024-05-01,150.9,Bovine meat,Ireland,150-200
+2024-05-01,1.73,Calf and young cattle,Ireland,0-50
+2024-05-01,0.17,Young cattle,Ireland,0-50
+2024-05-01,6.27,Young cattle,Portugal,0-50
+2024-05-01,10.12,Calf and young cattle,Portugal,0-50
+2024-05-01,37.38,Bovine meat,Portugal,0-50
+2024-05-01,3.85,Calf,Portugal,0-50
+2024-05-01,27.26,Adult cattle,Portugal,0-50
+2024-05-01,1.56,Calf,Ireland,0-50
+2024-05-01,149.18,Adult cattle,Ireland,100-150
+2024-06-01,3.81,Calf,Portugal,0-50
+2024-06-01,9.19,Calf and young cattle,Portugal,0-50
+2024-06-01,5.37,Young cattle,Portugal,0-50
+2024-06-01,23.81,Adult cattle,Portugal,0-50
+2024-06-01,0.47,Calf,Ireland,0-50
+2024-06-01,127.62,Bovine meat,Ireland,100-150
+2024-06-01,0.55,Calf and young cattle,Ireland,0-50
+2024-06-01,0.08,Young cattle,Ireland,0-50
+2024-06-01,127.07,Adult cattle,Ireland,100-150
+2024-06-01,32.99,Bovine meat,Portugal,0-50
+2024-07-01,0.52,Calf,Ireland,0-50
+2024-07-01,157.59,Bovine meat,Ireland,150-200
+2024-07-01,0.14,Young cattle,Ireland,0-50
+2024-07-01,156.93,Adult cattle,Ireland,150-200
+2024-07-01,26.31,Adult cattle,Portugal,0-50
+2024-07-01,7.05,Young cattle,Portugal,0-50
+2024-07-01,11.32,Calf and young cattle,Portugal,0-50
+2024-07-01,37.62,Bovine meat,Portugal,0-50
+2024-07-01,4.26,Calf,Portugal,0-50
+2024-07-01,0.66,Calf and young cattle,Ireland,0-50
+2024-08-01,23.34,Adult cattle,Portugal,0-50
+2024-08-01,34.57,Bovine meat,Portugal,0-50
+2024-08-01,4.74,Calf,Portugal,0-50
+2024-08-01,11.24,Calf and young cattle,Portugal,0-50
+2024-08-01,0.3,Calf,Ireland,0-50
+2024-08-01,0.08,Young cattle,Ireland,0-50
+2024-08-01,151.05,Bovine meat,Ireland,150-200
+2024-08-01,0.38,Calf and young cattle,Ireland,0-50
+2024-08-01,150.67,Adult cattle,Ireland,150-200
+2024-08-01,6.5,Young cattle,Portugal,0-50
+2024-09-01,169.79,Adult cattle,Ireland,150-200
+2024-09-01,0.06,Young cattle,Ireland,0-50
+2024-09-01,170.13,Bovine meat,Ireland,150-200
+2024-09-01,0.33,Calf and young cattle,Ireland,0-50
+2024-09-01,0.27,Calf,Ireland,0-50
